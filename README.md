@@ -28,10 +28,15 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 - [Spring Microservices](https://www.packtpub.com/application-development/spring-microservices)
 - [Spring Boot: Acelere o desenvolvimento de microsserviços](https://www.casadocodigo.com.br/products/livro-spring-boot)
+- [Microservices for Java Developers A Hands-on Introduction to Frameworks and Containers](https://developers.redhat.com/promotions/microservices-for-java-developers/)
+- [Migrating to Cloud-Native Application Architectures](http://www.oreilly.com/programming/free/migrating-cloud-native-application-architectures.csp)
 - [Continous Integration](https://www.amazon.com/Continuous-Integration-Improving-Software-Reducing/dp/0321336380)
 
 ### Bibliografia sobre Ferramentas, Frameworks e Tecnologias
 
+- [The InfoQ eMag: Microservices vs. Monoliths - The Reality Beyond the Hype](https://www.infoq.com/minibooks/emag-microservices-monoliths)
+- [Production-Ready Microservices - Building Standardized Systems Across an Engineering Organization](http://shop.oreilly.com/product/0636920053675.do)
+- [Microservices vs. Service-Oriented Architecture](https://www.nginx.com/resources/library/microservices-vs-soa/)
 - [Systems Performance: Enterprise and the Cloud](http://www.brendangregg.com/sysperfbook.html)
 - [Designing Data-Intensive Applications](http://www.dataintensive.net/)
 - [Continous Delivery](http://www.continuousdelivery.com)
@@ -47,6 +52,8 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Blogs, Disciplinas, Treinamentos
 
+- [Microservices - Organizing Large Teams for Rapid Delivery](https://www.infoq.com/presentations/microservices-team-organization)
+- [The Journey from Monolith to Microservices - A Guided Adventure](https://www.infoq.com/presentations/journey-monolith-microservices)
 - [Simon Brown on the Role of the Software Architect in a Continuous Delivery Environment](https://www.infoq.com/podcasts/simon-brown-architecture)
 - [IF1006 - TÓPICOS AVANÇADOS EM SISTEMAS DE INFORMAÇÃO 3 (SERVIÇOS E INFRAESTRUTURA DE NUVEM) - 2017.1](http://bit.ly/IF1006-2017-1)
 - [IF1004 - Seminários em Sistemas de Informação 3 (Desmistificando DevOps: Projetando Arquiteturas Efetivamente Escaláveis)](https://github.com/vinicius3w/if1004-DevOps)
