@@ -82,7 +82,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Objetivos
 
-Espera-se que os alunos vivenciem exposição prática a ferramentas, processos e princípios de engenharia de software através de projetos práticos, enquanto compreendem modelos e ideias de pesquisa por trás das ferramentas e processos. As aulas incluirão experiências de aprendizagem no estilo de workshops, onde os alunos irão trabalhar em um problema e receberão comentários do professor, colaboradores convidados e outros colegas de classe. Quando possível, palestras convidadas da indústria ajudarão a ilustrar exemplos de como a tecnologia é implantada na prática.
+Espera-se que os alunos vivenciem exposição prática a ferramentas, processos e princípios do desenvolvimento de aplicações baseadas na arquitetura de microservices, juntamente com as boas práticas e técnicas de implantação nos princípios de DevOps e as vantagens e desafios do uso e imersão na Computação em Nuvem através de projetos práticos, enquanto compreendem modelos e ideias de pesquisa por trás das ferramentas e processos. As aulas incluirão experiências de aprendizagem no estilo de workshops, onde os alunos irão trabalhar em um problema e receberão comentários do professor, colaboradores convidados e outros colegas de classe. Quando possível, palestras convidadas da indústria ajudarão a ilustrar exemplos de como a tecnologia é implantada na prática.
 
 ### Metodologia
 
