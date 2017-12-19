@@ -126,6 +126,19 @@ Para participar deste curso é desejável que os participantes tenham:
   - Exercício com questões objetivas
 - Como atividade de recuperação é proposta a aplicação de um Exercício Escolar abordando os temas apresentados e discutidos em classe.
 
+### Tópicos
+
+- Demystifying Microservices
+- Building Microservices with Spring Boot
+- Applying Microservices Concepts
+- Microservices Evolution – A Case Study
+- Scaling Microservices with Spring Cloud
+- Autoscaling Microservices
+- Logging and Monitoring Microservices
+- Containerizing Microservices with Docker
+- Managing Dockerized Microservices with Mesos and Marathon
+- The Microservices Development Life Cycle
+
 ### Plano de aulas
 
 | Classes       | Topics                      | Resources | Assignments |
