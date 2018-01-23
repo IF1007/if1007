@@ -58,6 +58,8 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Blogs, Disciplinas, Treinamentos
 
+- [The Hardest Part About Microservices: Your Data](http://blog.christianposta.com/microservices/the-hardest-part-about-microservices-data/)
+- [Carving the Java EE Monolith Into Microservices: Prefer Verticals Not Layers](https://developers.redhat.com/blog/2016/07/07/carving-the-java-ee-monolith-into-microservices-prefer-verticals-not-layers/)
 - [Source code from "Learning Spring Boot" (original and upgrades)](https://github.com/vinicius3w/learning-spring-boot-code)
 - [Microservices - Organizing Large Teams for Rapid Delivery](https://www.infoq.com/presentations/microservices-team-organization)
 - [The Journey from Monolith to Microservices - A Guided Adventure](https://www.infoq.com/presentations/journey-monolith-microservices)
