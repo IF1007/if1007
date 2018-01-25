@@ -17,6 +17,10 @@ What are the main solutions (patterns, architectural styles, tools, etc.) to imp
 - Optimized communication protocols;
 - API documentations.
 
+## 4.2. Use of ESB and iPaaS with microservices
+
+How can we have the same features present in EBS's with lightweight tools in the universe of microservices?
+
 ## Submit
 
 Submit in our Slack team, http://if1007-2018-1.slack.com, a MD file (LOGIN-HW4.md) containing your answer.
