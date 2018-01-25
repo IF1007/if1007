@@ -21,6 +21,10 @@ What are the main solutions (patterns, architectural styles, tools, etc.) to imp
 
 How can we have the same features present in EBS's with lightweight tools in the universe of microservices?
 
+## 4.3. Microservices challenges - Data islands
+
+How can be done data porting from microservices to a data lake or a data warehouse? Explain in details your answer.
+
 ## Submit
 
 Submit in our Slack team, http://if1007-2018-1.slack.com, a MD file (LOGIN-HW4.md) containing your answer.
