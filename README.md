@@ -12,7 +12,7 @@ Desenvolvimento de Aplicações com Arquitetura Baseada em Microservices
 
 ### Local
 
-Centro de Informática, horários: segunda (17:00-18:40) e quarta (18:50-20:30), sala E121.
+Centro de Informática, horários: segunda (17:00-18:40) e quarta (18:50-20:30), sala E112.
 
 Aulas práticas, quando ocorrerem, serão no Lab G2.
 
