@@ -121,7 +121,7 @@ Para participar deste curso é desejável que os participantes tenham:
 ### Avaliação
 
 - **Projeto em equipe com até 3 membros** [70%]
-  - Caráter puramente acadêmico e educacional. O projeto vai tratar de diversos aspectos do desenvolvimento de uma aplicação simples com atrquitetura de microsserviços.
+  - Caráter puramente acadêmico e educacional. O projeto vai tratar de diversos aspectos do desenvolvimento de uma aplicação simples com arquitetura de microsserviços.
 - Observações:
   - Entrega fora do prazo: **redutor de 1 ponto por dia de atraso**. 
   - Atraso máximo: **1 (uma) semana**. Após esse prazo, será dada nota **zero** para a respectiva atividade de avaliação.
