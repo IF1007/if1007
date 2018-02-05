@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: chapter4.checkin
+Implementation-Version: 1.0
+Built-By: viniciuscardosogarcia
+Implementation-Vendor-Id: com.brownfield.pss
+Build-Jdk: 1.8.0_161
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
