@@ -134,6 +134,8 @@ Para participar deste curso é desejável que os participantes tenham:
 
 ### Tópicos
 
+- Welcome, Methodology, Course Introduction (Core Topics)	               	
+- Introduction to Microservices Concepts
 - Demystifying Microservices
 - Building Microservices with Spring Boot
 - Applying Microservices Concepts
