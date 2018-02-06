@@ -20,7 +20,7 @@ Aulas práticas, quando ocorrerem, serão no Lab G2.
 
 Microservice é um estilo e padrão de arquitetura de software em que sistemas complexos são decompostos em serviços menores que trabalham em conjunto para formar serviços maiores. Os Microservices são serviços autônomos, independentes e independentemente implantáveis. No mundo de hoje, muitas empresas usam microservices como principal padrão para a construção de aplicativos corporativos grandes e orientados a serviços.
 
-O framework Spring é um framework de programação popular com a comunidade de desenvolvedores por muitos anos. O Spring Boot removeu a necessidade de ter um conteiner leve de aplicação e forneceu um meio para implantar aplicativos leves e sem servidor. O Spring Cloud combina muitos componentes OSS Netflix e fornece um ecossistema para executar e gerenciar microservices em grande escala. Ele fornece recursos como balanceamento de carga, registro de serviço, monitoramento, gateway de serviço e assim por diante.
+O framework [Spring](https://spring.io) é um framework de programação popular com a comunidade de desenvolvedores por muitos anos. O [Spring Boot](https://projects.spring.io/spring-boot/) removeu a necessidade de ter um conteiner leve de aplicação e forneceu um meio para implantar aplicativos leves e sem servidor. O [Spring Cloud](https://projects.spring.io/spring-cloud/) combina muitos componentes OSS Netflix e fornece um ecossistema para executar e gerenciar microservices em grande escala. Ele fornece recursos como balanceamento de carga, registro de serviço, monitoramento, gateway de serviço e assim por diante.
 
 No entanto, os microservices vêm com seus próprios desafios, como monitoramento, gerenciamento, distribuição, dimensionamento, descoberta, etc., especialmente quando se implanta em escala. A adoção de microservices sem abordar os desafios dos microservices comuns levaria a resultados catastróficos. A parte mais importante deste curso é discutir um modelo de capacidade de microservice agnóstico em termos de tecnologia que busca ajudar a resolver os desafios mais comuns do mundo de microservice.
 
@@ -40,6 +40,8 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Bibliografia sobre Ferramentas, Frameworks e Tecnologias
 
+- [Spring Boot](https://projects.spring.io/spring-boot/)
+- [Netflix Open Source Software Center](https://netflix.github.io/)
 - [The InfoQ eMag: Microservices vs. Monoliths - The Reality Beyond the Hype](https://www.infoq.com/minibooks/emag-microservices-monoliths)
 - [Production-Ready Microservices - Building Standardized Systems Across an Engineering Organization](http://shop.oreilly.com/product/0636920053675.do)
 - [Microservices vs. Service-Oriented Architecture](https://www.nginx.com/resources/library/microservices-vs-soa/)
