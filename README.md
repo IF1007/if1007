@@ -149,8 +149,8 @@ Para participar deste curso é desejável que os participantes tenham:
 
 ### Plano de aulas
 
-| Lecture | Date    | Topics                               | Resources       | Assignments       |
-|:-------:|:-------:|--------------------------------------|:---------------:|:-----------------:|
+| # | Class    | Topics                               | Resources  | Assignments       |
+|:-:|:--------:|--------------------------------------|:-----------:|:-----------------:|
 | 01 | Feb-26  | [Welcome, Methodology, Course Introduction (Core Topics)](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-01.pdf) |                 |  |
 | 02 | Feb-28  | [Introduction to Microservices Concepts](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-01.pdf) |                 | [HW1](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW1.md) |
 | 03 | Mar-05  | [Demystifying Microservices 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-02.pdf) |                 |                   |
