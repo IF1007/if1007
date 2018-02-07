@@ -8,7 +8,7 @@
 	<version>1.0</version>
 	<packaging>jar</packaging>
 
-	<name>chapter4.search</name>
+	<name>lecture5.search</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
