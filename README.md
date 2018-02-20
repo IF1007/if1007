@@ -71,12 +71,21 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [Microservices - Organizing Large Teams for Rapid Delivery](https://www.infoq.com/presentations/microservices-team-organization)
 - [The Journey from Monolith to Microservices - A Guided Adventure](https://www.infoq.com/presentations/journey-monolith-microservices)
 - [Simon Brown on the Role of the Software Architect in a Continuous Delivery Environment](https://www.infoq.com/podcasts/simon-brown-architecture)
+- [Microserviços na prática: o que aprendemos em 2 anos](https://www.infoq.com/br/presentations/microservicos-na-pratica-o-que-aprendemos-em-2-anos)
+- [MicroProfile: uma nova forma de desenvolver aplicações corporativas na era dos microservices](https://www.infoq.com/br/presentations/microprofile-uma-nova-forma-de-desenvolver-aplicacoes-corporativas)
+- [Desenvolvendo, expandindo e amadurecendo a prática de Engenharia de Caos](https://www.infoq.com/br/articles/engenharia-de-caos)
+- [Cinco coisas que todo desenvolvedor de software deve saber sobre Arquitetura de Software](https://www.infoq.com/br/articles/architecture-five-things)
+- [9 perguntas frequentes sobre REST](https://www.infoq.com/br/articles/9-perguntas-frequentes-sobre-rest)
 - [IF1006 - TÓPICOS AVANÇADOS EM SISTEMAS DE INFORMAÇÃO 3 (SERVIÇOS E INFRAESTRUTURA DE NUVEM) - 2017.1](http://bit.ly/IF1006-2017-1)
 - [IF1004 - Seminários em Sistemas de Informação 3 (Desmistificando DevOps: Projetando Arquiteturas Efetivamente Escaláveis)](https://github.com/vinicius3w/if1004-DevOps)
 - [Google Cloud Platform Blog](https://cloudplatform.googleblog.com/)
 - [DevOps | AWS Cloud | Cloud Tutorials for Beginners](https://www.youtube.com/playlist?list=PLLsor6GJ_BEEVWzDS3eHLdLkSZsoVnB98)
 - [Microservices and Cloud-Native Applications with Spring 5.0](https://www.packtpub.com/application-development/microservices-and-cloud-native-applications-spring-50-video)
 - [Advanced Spring Boot](https://www.packtpub.com/web-development/advanced-spring-boot-integrated-course)
+- [Arquiteturas reativas e a experiência Mobile no Magazine Luiza](https://www.infoq.com/br/presentations/arquiteturas-reativas-e-a-experiencia-mobile-no-magazine-luiza)
+- [Autorização de transações no Nubank: Consumindo serviços anos 80 com tecnologias atuais](https://www.infoq.com/br/presentations/consumindo-servicos-anos-80-com-tecnologias-atuais)
+- [De monolítico a cloud native: uma jornada de erros e acertos na Wine.com.br](https://www.infoq.com/br/presentations/de-monolitico-a-cloud-native-uma-jornada-de-erros-e-acertos)
+- [Desenvolvendo, expandindo e amadurecendo a prática de Engenharia de Caos](https://www.infoq.com/br/articles/engenharia-de-caos)
 
 ### Business Cases
 
