@@ -50,6 +50,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [Systems Performance: Enterprise and the Cloud](http://www.brendangregg.com/sysperfbook.html)
 - [Designing Data-Intensive Applications](http://www.dataintensive.net/)
 - [Continous Delivery](http://www.continuousdelivery.com)
+- [The Evolution of DevSecOps Revisited](https://cloudsentry.evident.io/evolution-devsecops-revisited/)
 - [Containers com Docker: Do desenvolvimento à produção](https://www.casadocodigo.com.br/products/livro-docker)
 - [Ansible: Up and Running](http://www.ansiblebook.com/)
 - [Docker Tutorials and Labs](https://github.com/docker/labs) (This repo contains Docker labs and tutorials authored both by Docker, and by members of the community)
