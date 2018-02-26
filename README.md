@@ -12,9 +12,9 @@ Desenvolvimento de Aplicações com Arquitetura Baseada em Microservices
 
 ### Local
 
-Centro de Informática, horários: **segunda (17:00-18:40)** e **quarta (18:50-20:30)**, sala **E-112**.
-
-Aulas práticas, quando ocorrerem, serão no Lab G2.
+* Centro de Informática, horários: **segunda (17:00-18:40)** e **quarta (18:50-20:30)**, sala **E-112**.
+* Canal de comunicação oficial no [Slack](http://if1007-2018-1.slack.com)
+* Aulas práticas, quando ocorrerem, serão no Lab G2.
 
 ### Ementa
 
@@ -123,10 +123,6 @@ Para participar deste curso é desejável que os participantes tenham:
 - Conhecimento básico de arquitetura de computador, sistemas operacionais, redes, engenharia de software e banco de dados.
 - Conhecimento de modelos de processo de desenvolvimento de software, em especial Metodologias Ágeis, testes de software. Conhecimento em TDD e BDD serão uma vantagem. Maiores informações podem ser consultadas no site da disciplina de [Engenharia de Software (IF977)](http://www.cin.ufpe.br/~if977).
 - Experiência em sistemas de computação, armazenamento, infraestruturas de rede e computação em nuvem será uma vantagem.
-
-### Recursos
-
-[Slack team](http://if1007-2018-1.slack.com)
 
 #### Artigos
 
