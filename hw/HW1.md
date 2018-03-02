@@ -103,4 +103,4 @@ Submit in our Slack team, http://if1007-2018-1.slack.com, a MD file containing 
 
 For your screenshot embed in the markdown file of your LOGIN-HW1.md. Include a link to your screencast video/gif. Include your concept answers in your markdown file.
 
-**Due Sunday**, 8/14, 17:00.
+**Due Monday**, 05-Mar, 17:00.
