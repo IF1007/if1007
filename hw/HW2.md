@@ -28,4 +28,4 @@ Microservices early adopters
 
 Submit in our Slack team, http://if1007-2018-1.slack.com, a MD file (LOGIN-HW2.md) containing your answer.
 
-**Due D+5** (_Sunday, 8/14_), 17:00.
+**Due D+5** (_Monday, 12-Mar_), 17:00.
