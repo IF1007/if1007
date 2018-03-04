@@ -2,7 +2,7 @@
 
 Desenvolvimento de Aplicações com Arquitetura Baseada em Microservices
 
-![IF1004](/if1007-microservices-icon.png)
+![IF1007](/if1007-microservices-icon.png)
 
 ## Sistemas de Informação, [Centro de Informática](http://www.cin.ufpe.br), ([UFPE](http://www.ufpe.br))
 
