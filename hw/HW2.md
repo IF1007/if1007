@@ -6,7 +6,7 @@ This homework will aiding you in understand the backgroud of the course.
 
 Tip: Relations with SOA: Concepts & Principles; Service-oriented integration; Legacy modernization; Service-oriented application; Monolithic migration using SOA.
 
-## 2.2. What are the relations with Twelve-Factor apps?
+## 2.2. What are the relations between microservices and Twelve-Factor apps?
 
 Tip: See the [Twelve Factors](https://12factor.net/)
 
