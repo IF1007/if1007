@@ -97,6 +97,10 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [How we build microservices at Karma](https://blog.karmawifi.com/how-we-build-microservices-at-karma-71497a89bfb4), Apr 4, 2016
 - [The Top 10 Adages in Continuous Deployment](https://www.infoq.com/articles/cd-adages), by InfoQ on Sep 19, 2017
 - [Spotify Lessons: Learning to Let Go of Machines](https://www.infoq.com/presentations/spotify-infrastructure-deployment), by James Wen on Sep 19, 2017
+- [Preparing the Netflix API for Deployment](https://medium.com/netflix-techblog/preparing-the-netflix-api-for-deployment-786d8f58090d), by Netflix Technology Blog on Nov 18, 2013
+- XebiaLabs has a wide range of surveys and state of industry reports on DevOps-related topics that can be found at <http://xebialabs.com/xl-resources/whitepapers/>
+- CA Technologies’ report gives some insights into business’ different understanding of DevOps and can be found at <http://www.ca.com/us/collateral/white-papers/na/techinsights-report-what-smart-businesses-know-about-devops.aspx>
+- [Continuous Deployment at IMVU: Doing the Impossible Fifty Times a Day](http://timothyfitz.com/2009/02/10/continuous-deployment-at-imvu-doing-the-impossible-fifty-times-a-day/), by Timothy Fitz on February 10, 2009
 
 ### Research Trends
 
