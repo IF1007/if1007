@@ -65,6 +65,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [Four Layers of TCP/IP model, Comparison and Difference between TCP/IP and OSI models](http://www.omnisecu.com/tcpip/tcpip-model.php)
 - [Travis CI](https://travis-ci.org/), Test and Deploy with Confidence
 - [From open source to sustainable success: the Kubernetes graduation story](http://cloudplatform.googleblog.com/2018/03/from-open-source-to-sustainable-success-the-Kubernetes-graduation-story.html)
+- [Kubernetes Ingress: NodePort, Load Balancers, and Ingress Controllers](https://blog.getambassador.io/kubernetes-ingress-nodeport-load-balancers-and-ingress-controllers-6e29f1c44f2d)
 
 ### Blogs, Disciplinas, Treinamentos
 
