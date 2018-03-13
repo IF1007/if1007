@@ -40,6 +40,8 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Bibliografia sobre Ferramentas, Frameworks e Tecnologias
 
+- [Pattern: Monolithic Architecture](http://microservices.io/patterns/monolithic.html)
+- [Pattern: Microservice Architecture](http://microservices.io/patterns/microservices.html)
 - [Spring framework](https://spring.io/)
 - [Spring Boot](https://projects.spring.io/spring-boot/)
 - [Spring Cloud](https://projects.spring.io/spring-cloud/)
