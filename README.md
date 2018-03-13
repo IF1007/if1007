@@ -47,6 +47,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [The InfoQ eMag: Microservices vs. Monoliths - The Reality Beyond the Hype](https://www.infoq.com/minibooks/emag-microservices-monoliths)
 - [Production-Ready Microservices - Building Standardized Systems Across an Engineering Organization](http://shop.oreilly.com/product/0636920053675.do)
 - [Microservices vs. Service-Oriented Architecture](https://www.nginx.com/resources/library/microservices-vs-soa/)
+- [Canary deployments, A/B testing, and microservices with Ambassador](https://www.datawire.io/faster/canary-workflow/)
 - [Systems Performance: Enterprise and the Cloud](http://www.brendangregg.com/sysperfbook.html)
 - [Designing Data-Intensive Applications](http://www.dataintensive.net/)
 - [Continous Delivery](http://www.continuousdelivery.com)
