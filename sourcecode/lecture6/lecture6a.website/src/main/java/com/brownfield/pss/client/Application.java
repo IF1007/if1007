@@ -19,11 +19,11 @@ public class Application implements CommandLineRunner {
 
    	RestTemplate searchClient = new RestTemplate();
 	
-  	 RestTemplate bookingClient = new RestTemplate();
+  	RestTemplate bookingClient = new RestTemplate();
 	
    	RestTemplate checkInClient = new RestTemplate();
 	
-	 RestTemplate restClient= new RestTemplate();
+	RestTemplate restClient= new RestTemplate();
 	
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);

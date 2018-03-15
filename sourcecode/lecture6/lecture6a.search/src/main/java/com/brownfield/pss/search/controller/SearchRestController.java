@@ -28,7 +28,7 @@ class SearchRestController {
 	
 	private SearchComponent searchComponent;
 	
-	@Value("${originairports.shutdown:SEA}")
+	@Value("${originairports.shutdown}")
 	private String originAirportShutdownList;
 	
 	@Autowired
@@ -38,12 +38,11 @@ class SearchRestController {
 	
 	@RequestMapping(value="/get", method = RequestMethod.POST)
 	List<Flight> search(@RequestBody SearchQuery query){
-		logger.info("Input : "+ query);
+		logger.info("Input: " + query);
 		if(Arrays.asList(originAirportShutdownList.split(",")).contains(query.getOrigin())){
 		    logger.info("The origin airport is in shutdown state");
 		    return new ArrayList<Flight>();
 		}
-		//System.out.println("Input : "+ query);
 		return searchComponent.search(query);
 	}
  
