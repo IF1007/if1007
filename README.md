@@ -69,6 +69,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Blogs, Disciplinas, Treinamentos
 
+- [Principles of Container-based Application Design](http://blog.kubernetes.io/2018/03/principles-of-container-app-design.html)
 - [Hands on Lab Overview: DevOps Cloud Native Microservices Development - YouTube](https://www.youtube.com/playlist?list=PLPIzp-E1msrZhDmRUnNBSYY6LJ2yWh3Ro)
 - [Deploying Java Applications with Docker and Kubernetes](https://www.oreilly.com/ideas/how-to-manage-docker-containers-in-kubernetes-with-java) & [oreilly-docker-java-shopping](https://github.com/vinicius3w/oreilly-docker-java-shopping)
 - [Deploying Java Applications with Kubernetes and an API Gateway](https://hackernoon.com/deploying-java-applications-with-kubernetes-and-an-api-gateway-fc471644bea7)
