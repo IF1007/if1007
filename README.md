@@ -42,9 +42,23 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 - [Pattern: Monolithic Architecture](http://microservices.io/patterns/monolithic.html)
 - [Pattern: Microservice Architecture](http://microservices.io/patterns/microservices.html)
-- [Spring framework](https://spring.io/)
-- [Spring Boot](https://projects.spring.io/spring-boot/)
-- [Spring Cloud](https://projects.spring.io/spring-cloud/)
+- Spring IO
+  - Spring IO Website: http://www.spring.io
+  - Spring Boot: https://projects.spring.io/spring-boot/
+  - Spring Cloud: https://projects.spring.io/spring-cloud/
+  - Spring Projects: http://spring.io/projects
+  - Spring Guides: http://spring.io/guides
+  - Spring Document: http://spring.io/guides
+  - Spring Boot Docs: http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
+  - Spring Boot API: http://docs.spring.io/spring-boot/docs/current/api/
+- Stay Connected
+  - Twitter: http://twitter.com/springcentral
+  - YouTube: http://spring.io/video
+  - Questions: http://spring.io/questions
+  - JIRA: http://jira.spring.io
+  - Blog: http://spring.io/blog
+- Help
+  - Stack Overflow: http://stackoverflow.com/questions/tagged/spring-boot
 - [Netflix Open Source Software Center](https://netflix.github.io/)
 - [The InfoQ eMag: Microservices vs. Monoliths - The Reality Beyond the Hype](https://www.infoq.com/minibooks/emag-microservices-monoliths)
 - [Production-Ready Microservices - Building Standardized Systems Across an Engineering Organization](http://shop.oreilly.com/product/0636920053675.do)
