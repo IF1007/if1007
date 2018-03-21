@@ -19,7 +19,7 @@ What are the main solutions (patterns, architectural styles, tools, etc.) to imp
 
 ## 4.2. Use of ESB and iPaaS with microservices
 
-How can we have the same features present in EBS's with lightweight tools in the universe of microservices?
+How can we have the same features present in EBS's with lightweight tools in the universe of microservices? Justify your answer.
 
 ## 4.3. Microservices challenges - Data islands
 
