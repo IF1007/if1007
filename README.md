@@ -42,6 +42,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 - [Pattern: Monolithic Architecture](http://microservices.io/patterns/monolithic.html)
 - [Pattern: Microservice Architecture](http://microservices.io/patterns/microservices.html)
+- [Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/), this is a seven‑part series of articles
 - Spring IO
   - Spring IO Website: http://www.spring.io
   - Spring Boot: https://projects.spring.io/spring-boot/
