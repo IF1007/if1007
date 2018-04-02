@@ -199,8 +199,8 @@ Para participar deste curso é desejável que os participantes tenham:
 | 08 | Mar-21  | [Applying Microservices Concepts 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-04.pdf) |                 | [HW4](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW4.md) |
 | 09 | Mar-26  | [Microservices Evolution – A Case Study 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-05.pdf) |                 |                   |
 | 10 | Mar-28  | [Microservices Evolution – A Case Study 2/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-05.pdf) |                 | [HW5](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW5.md) |
-| 11 | Apr-02  | Scaling Microservices with Spring Cloud 1/2 |                 |                   |
-| 12 | Apr-04  | Scaling Microservices with Spring Cloud 1/2 |                 |                   |
+| 11 | Apr-02  | [Scaling Microservices with Spring Cloud 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-06.pdf) |                 |                   |
+| 12 | Apr-04  | [Scaling Microservices with Spring Cloud 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-06.pdf) |                 | [HW6](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW6.md) |
 | 13 | Apr-09  | Autoscaling Microservices 1/2 |                 |                   |
 | 14 | Apr-11  | Autoscaling Microservices 2/2 |                 |                   |
 | 15 | Apr-16  | Logging and Monitoring Microservices 1/2 |                 |                   |
