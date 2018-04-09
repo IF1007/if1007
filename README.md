@@ -62,6 +62,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
   - Stack Overflow: http://stackoverflow.com/questions/tagged/spring-boot
 - [Netflix Open Source Software Center](https://netflix.github.io/)
 - [The InfoQ eMag: Microservices vs. Monoliths - The Reality Beyond the Hype](https://www.infoq.com/minibooks/emag-microservices-monoliths)
+- [The cloud native application: Microservices with Spring Boot and Spring Cloud](https://www.infoq.com/br/presentations/the-cloud-native-application-microservices-with-spring-boot-and-spring-cloud)
 - [Production-Ready Microservices - Building Standardized Systems Across an Engineering Organization](http://shop.oreilly.com/product/0636920053675.do)
 - [Microservices vs. Service-Oriented Architecture](https://www.nginx.com/resources/library/microservices-vs-soa/)
 - [Canary deployments, A/B testing, and microservices with Ambassador](https://www.datawire.io/faster/canary-workflow/)
