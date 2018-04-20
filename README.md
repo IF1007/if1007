@@ -207,8 +207,8 @@ Para participar deste curso é desejável que os participantes tenham:
 | 13 | Apr-09  | [Autoscaling Microservices 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-07.pdf) |                 |                   |
 | 14 | Apr-11  | [Autoscaling Microservices 2/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-07.pdf) |                 | [HW7](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-07.pdf) |
 | 15 | Apr-16  | [Background: Operations](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-09.pdf) ([Chapter 3 from Len Bass' book](https://www.amazon.com/DevOps-Software-Architects-Perspective-Engineering/dp/0134049845)) |                 | [HW9](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW9.md) |
-| 16 | Apr-18  | Logging and Monitoring Microservices 1/2 |                 |                   |
-| 17 | Apr-23  | Logging and Monitoring Microservices 2/2 |                 |                   |
+| 16 | Apr-18  | [Logging and Monitoring Microservices 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-08.pdf) |                 |                   |
+| 17 | Apr-23  | [Logging and Monitoring Microservices 2/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-08.pdf) |                 | [HW8](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW8.md) |
 | 18 | Apr-25  | Containerizing Microservices with Docker 1/2 |                 |                   |
 | 19 | Apr-30  | Containerizing Microservices with Docker 2/2 |                 |                   |
 | 20 | May-02  | Managing Dockerized Microservices with Mesos and Marathon 1/2 |                 |                   |
