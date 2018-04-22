@@ -1,4 +1,284 @@
 # Homework 11a
 
-This homework will aiding you in understand how to Deploying microservices in Docker.
-	
+This homework will aiding you in understand how to deploying microservices in Docker.
+
+## Note
+
+The full source code of this lecture is available under the `Lecture 11` project in the code files. Copy `lecture8.configserver`, `lecture8.eurekaserver`, `lecture8.search`, `lecture8.search-apigateway`, and `lecture8.website` into a new STS workspace and rename them `lecture11.*`.
+
+## Deploying microservices in Docker
+
+Perform the following steps to build Docker containers for BrownField PSS microservices:
+
+1. Install Docker from the official Docker site at <https://www.docker.com>. Follow the **Get Started** link for the download and installation instructions based on the operating system of choice. Once installed, use the following command to verify the installation:
+
+```bash
+$docker –version
+Docker version 1.10.1, build 9e83765
+````
+
+2. In this section, we will take a look at how to dockerize the **Search** (`lecture11.search`) microservice, the **Search API Gateway** (`lecture11.search-apigateway`) microservice, and the **Website** (`lecture11.website`) Spring Boot application.
+
+3. Before we make any changes, we need to edit `bootstrap.properties` to change the config server URL from localhost to the IP address as localhost is not resolvable from within the Docker containers. In the real world, this will point to a DNS or load balancer, as follows:
+
+`spring.cloud.config.uri=http://192.168.0.105:8888`
+
+**Note**: Replace the IP address with the IP address of your machine.
+
+4. Similarly, edit `search-service.properties` on the Git repository and change localhost to the IP address. This is applicable for the Eureka URL as well as the RabbitMQ URL. Commit back to Git after updating. You can do this via the following code:
+
+`
+spring.application.name=search-service
+spring.rabbitmq.host=192.168.0.105
+spring.rabbitmq.port=5672
+spring.rabbitmq.username=guest
+spring.rabbitmq.password=guest
+orginairports.shutdown:JFK
+eureka.client.serviceUrl.defaultZone: http://192.168.0.105:8761/eureka/
+spring.cloud.stream.bindings.inventoryQ=inventoryQ
+`
+
+5. Change the RabbitMQ configuration file `rabbitmq.config` by uncommenting the following line to provide access to guest. By default, guest is restricted to be accessed from localhost only:
+
+    `{loopback_users, []}`
+
+The location of `rabbitmq.config` will be different for different operating systems.
+
+6. Create a Dockerfile under the root directory of the Search microservice, as follows:
+
+```docker
+FROM frolvlad/alpine-oraclejdk8
+VOLUME /tmp
+ADD  target/search-1.0.jar search.jar
+EXPOSE 8090
+ENTRYPOINT ["java","-jar","/search.jar"]
+```
+
+The following is a quick examination of the contents of the Dockerfile:
+
+- `FROM frolvlad/alpine-oraclejdk8`: This tells the Docker build to use a specific `alpine-oraclejdk8` version as the basic image for this build. The `frolvlad` indicates the repository to locate the `alpine-oraclejdk8` image. In this case, it is an image built with Alpine Linux and Oracle JDK 8. This will help layer our application on top of the base image without setting up Java libraries ourselves. In this case, as this image is not available on our local image store, the Docker build will go ahead and download this image from the remote Docker Hub registry.
+- `VOLUME /tmp`: This enables access from the container to the directory specified in the host machine. In our case, this points to the `tmp` directory in which the Spring Boot application creates working directories for Tomcat. The `tmp` directory is a logical one for the container, which indirectly points to one of the local directories of the host.
+- `ADD target/search-1.0.jar search.jar`: This adds the application binary file to the container with the destination filename specified. In this case, the Docker build copies `target/search-1.0.jar` to the container as `search.jar`.
+- `EXPOSE 8090`: This is to tell the container how to do port mapping. This associates `8090` with external port binding for the internal Spring Boot service.
+- `ENTRYPOINT ["java","-jar", "/search.jar"]`: This tells the container which default application to run when a container is started. In this case, we are pointing to the Java process and the Spring Boot fat JAR file to initiate the service.
+
+7. The next step is to run `docker build` from the folder in which the Dockerfile is stored. This will download the base image and run the entries in the Dockerfile one after the other, as follows:
+
+```docker
+docker build –t search:1.0 .
+```
+
+The output of this command will be as follows:
+
+```bash
+McLaren-Mark-III:lecture11.search viniciusgarcia$ docker build -t search:1.0 .
+Sending build context to Docker daemon 48.34 MB
+Step 1 : FROM frolvlad/alpine-oraclejdk8
+ ---> 5b8d90632c89
+Step 2 : VOLUME /tmp
+ ---> Using cache
+ ---> c79a1b3275d4
+Step 3 : ADD target/search-1.0.jar search.jar
+ ---> 7766e630f139
+Removing intermediate container f2ac976e781d
+Step 4 : EXPOSE 8090
+ ---> Runing in 730300fa66a9
+ ---> e058cc1615da
+Removing intermediate container 730300fa66a9
+Step 5 : ENTRYPOINT ["java","-jar", "/search.jar"]
+ ---> Runing in b79116f3e54b
+ ---> 5a8d0d6e0bf7
+Removing intermediate container b79116f3e54b
+Successfully built 5a8d0d6e0bf7
+McLaren-Mark-III:lecture11.search viniciusgarcia$
+```
+
+8. Repeat the same steps for Search API Gateway and Website.
+Once the images are created, they can be verified by typing the following command. This command will list out the images and their details, including the size of image files:
+
+```docker
+docker images
+````
+
+The output will be as follows:
+
+```bash
+McLaren-Mark-III:lecture11 viniciusgarcia$ docker images
+REPOSITORY                  TAG           IMAGE ID
+website                     1.0           263605f253f3
+search-apigateway           1.0           322890ae3ec1
+search                      1.0           f094b72d1b41
+````
+
+The next thing to do is run the Docker container. This can be done with the `docker run` command. This command will load and run the container. On starting, the container calls the Spring Boot executable JAR to start the microservice.
+
+Before starting the containers, ensure that the Config and the Eureka servers are running:
+
+```bash
+docker run --net host -p 8090:8090 -t search:1.0
+docker run --net host -p 8095:8095 -t search-apigateway:1.0
+docker run --net host -p 8001:8001 -t website:1.0
+```
+
+The preceding command starts the Search and Search API Gateway microservices and Website.
+
+In this example, we are using the host network (`--net host`) instead of the bridge network to avoid Eureka registering with the Docker container name. This can be corrected by overriding `EurekaInstanceConfigBean`. The host option is less isolated compared to the bridge option from the network perspective. The advantage and disadvantage of host versus bridge depends on the project.
+
+11. Once all the services are fully started, verify with the docker ps command, as shown in the following:
+
+```bash
+McLaren-Mark-III:lecture11 viniciusgarcia$ docker ps
+CONTAINER ID        IMAGE                   COMMAND
+32af53b56945        website:1.0             "java -jar /website.j"
+ce35355aea65        search-apigateway:1.0   "java -jar /search-ap"
+5577c5107fc6        search:1.0              "java -jar /search.ja"
+4a423d0872b5        registry:2              "/bin/registry /etc/d"
+McLaren-Mark-III:lecture11 viniciusgarcia$
+```
+
+12. The next step is to point the browser to `http://192.168.99.100:8001`. This will open the BrownField PSS website.
+
+Note the IP address. This is the IP address of the Docker machine if you are running with Boot2Docker on Mac or Windows. In Mac or Windows, if the IP address is not known, then type the following command to find out the Docker machine's IP address for the default machine:
+
+```bash
+docker-machine ip default
+````
+
+If Docker is running on Linux, then this is the host IP address.
+
+Apply the same changes to **Booking**, **Fares**, **Check-in**, and their respective gateway microservices.
+
+## Running RabbitMQ on Docker
+
+As our example also uses RabbitMQ, let\'s explore how to set up RabbitMQ as a Docker container. The following command pulls the RabbitMQ image from Docker Hub and starts RabbitMQ:
+
+```bash
+docker run –net host rabbitmq3
+````
+
+Ensure that the URL in `*-service.properties` is changed to the Docker host\'s IP address. Apply the earlier rule to find out the IP address in the case of Mac or Windows.
+
+## Using the Docker registry
+
+The Docker Hub provides a central location to store all the Docker images. The images can be stored as public as well as private. In many cases, organizations deploy their own private registries on premises due to security-related concerns.
+
+Perform the following steps to set up and run a local registry:
+
+1. The following command will start a registry, which will bind the registry on port `5000`:
+
+```bash
+docker run -d -p 5000:5000 --restart=always --name registry registry:2
+```
+
+2. Tag `search:1.0` to the registry, as follows:
+
+```bash
+docker tag search:1.0 localhost:5000/search:1.0
+```
+
+3. Then, push the image to the registry via the following command:
+
+```bash
+docker push localhost:5000/search:1.0
+````
+
+Pull the image back from the registry, as follows:
+
+```bash
+docker pull localhost:5000/search:1.0
+```
+
+### Setting up the Docker Hub
+
+Earlier, we played with a local Docker registry. This section will show how to set up and use the Docker Hub to publish the Docker containers. This is a convenient mechanism to globally access Docker images. Later, Docker images will be published to the Docker Hub from the local machine and downloaded from the EC2 instances.
+
+In order to do this, create a public Docker Hub account and a repository. For Mac, follow the steps as per the following URL: <https://docs.docker.com/mac/step_five/>.
+
+In this example, the Docker Hub account is created using the `brownfield` username.
+
+The registry, in this case, acts as the microservices repository in which all the dockerized microservices will be stored and accessed. This is one of the capabilities explained in the microservices capability model.
+
+### Publishing microservices to the Docker Hub
+
+In order to push dockerized services to the Docker Hub, follow these steps. The first command tags the Docker image, and the second one pushes the Docker image to the Docker Hub repository:
+
+```bash
+docker tag search:1.0brownfield/search:1.0
+docker push brownfield/search:1.0
+````
+
+To verify whether the container images are published, go to the Docker Hub repository at <https://hub.docker.com/u/brownfield>.
+
+Repeat this step for all the other BrownField microservices as well. At the end of this step, all the services will be published to the Docker Hub.
+
+## Microservices on the cloud
+
+One of the capabilities mentioned in the microservices capability model is the use of the cloud infrastructure for microservices. Earlier in this leacture, we also explored the necessity of using the cloud for microservices deployments. So far, we have not deployed anything to the cloud. As we have eight microservices in total — `Config-server`, `Eureka-server`, Turbine, RabbitMQ, Elasticsearch, Kibana, and Logstash — in our overall BrownField PSS microservices ecosystem, it is hard to run all of them on the local machine.
+
+In the rest of this course, as example, we will operate using AWS as the cloud platform to deploy BrownField PSS microservices.
+
+### Installing Docker on AWS EC2
+
+In this section, we will install Docker on the EC2 instance.
+
+This example assumes that readers are familiar with AWS and an account is already created on AWS.
+
+Perform the following steps to set up Docker on EC2:
+
+1. Launch a new EC2 instance. In this case, if we have to run all the instances together, we may need a large instance.
+
+The example uses **t2.large**.
+
+In this example, the following Ubuntu AMI image is used: `ubuntu-trusty-14.04-amd64-server-20160114.5 (ami-fce3c696)`.
+
+2. Connect to the EC2 instance and run the following commands:
+
+```bash
+sudo apt-get update
+sudo apt-get install docker.io
+````
+
+The preceding command will install Docker on an EC2 instance. Verify the installation with the following command:
+
+```bash
+docker version
+```
+
+### Running BrownField services on EC2
+
+In this section, we will set up BrownField microservices on the EC2 instances created. In this case, the build is set up in the local desktop machine, and the binaries will be deployed to AWS.
+
+Perform the following steps to set up services on an EC2 instance:
+
+1. Install Git via the following command:
+
+```bash
+sudo apt-get install git
+````
+
+2. Create a Git repository on any folder of your choice.
+3. Change the Config server\'s `bootstrap.properties` to point to the appropriate Git repository created for this example.
+4. Change the `bootstrap.properties` of all the microservices to point to the config-server using the private IP address of the EC2 instance.
+5. Copy all `*.properties` from the local Git repository to the EC2 Git repository and perform a commit.
+6. Change the Eureka server URLs and RabbitMQ URLs in the `*.properties` file to match the EC2 private IP address. Commit the changes to Git once they have been completed.
+7. On the local machine, recompile all the projects and create Docker images for the `search`, `search-apigateway`, and `website` microservices. Push all of them to the Docker Hub registry.
+8. Copy the `config-server` and the `Eureka-server` binaries from the local machine to the EC2 instance.
+9. Set up Java 8 on the EC2 instance.
+10. Then, execute the following commands in sequence:
+
+```bash
+java –jar config-server.jar 
+java –jar eureka-server.jar 
+docker run –net host rabbitmq:3
+docker run --net host -p 8090:8090 viniciusgarcia/search:1.0
+docker run --net host -p 8095:8095 viniciusgarcia/search-apigateway:1.0
+docker run --net host -p 8001:8001 viniciusgarcia/website:1.0
+```
+
+Check whether all the services are working by opening the URL of the website and executing a search. Note that we will use the public IP address in this case: `http://54.165.128.23:8001`.
+
+## Updating the life cycle manager
+
+In the lecture **Autoscaling Microservices**, we considered a life cycle manager to automatically start and stop instances. We used SSH and executed a Unix script to start the Spring Boot microservices on the target machine. With Docker, we no longer need SSH connections as the Docker daemon provides REST-based APIs to start and stop instances. This greatly simplifies the complexities of the deployment engine component of the life cycle manager.
+
+In this section, we will not rewrite the life cycle manager. By and large, we will replace the life cycle manager in the future.
