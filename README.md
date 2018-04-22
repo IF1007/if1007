@@ -211,7 +211,7 @@ Para participar deste curso é desejável que os participantes tenham:
 | 17 | Apr-23  | [Logging and Monitoring Microservices 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-08.pdf) |                 |  |
 | 18 | Apr-25  | [Logging and Monitoring Microservices 2/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-08.pdf) |                 | [HW8](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW8.md) |
 | 19 | Apr-30  | [Containerizing Microservices with Docker 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-11.pdf) |                 |                   |
-| 20 | May-02  | [Containerizing Microservices with Docker 2/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-11.pdf) |                 | [HW11](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW11.md) |
+| 20 | May-02  | [Containerizing Microservices with Docker 2/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-11.pdf) |                 | [HW11](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW11.md), [HW11a](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW11a.md) |
 | 21 | May-07  | Managing Dockerized Microservices with Mesos and Marathon 1/2 |                 |                   |
 | 22 | May-09  | Managing Dockerized Microservices with Mesos and Marathon 2/2 |                 |                   |
 | 23 | May-14  | The Microservices Development Life Cycle 1/2 |                 |                   |
