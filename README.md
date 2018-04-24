@@ -214,10 +214,10 @@ Para participar deste curso é desejável que os participantes tenham:
 | 20 | May-02  | [Containerizing Microservices with Docker 2/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-11.pdf) | [HW11.1](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW11-1.md), [HW11.2](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW11-2.md) |
 | 21 | May-07  | [Managing Dockerized Microservices with Mesos and Marathon 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-12.pdf) |                   |
 | 22 | May-09  | [Managing Dockerized Microservices with Mesos and Marathon 2/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-12.pdf) | [HW12](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW12.md) |
-| 23 | May-14  | The Microservices Development Life Cycle 1/2 |                   |
-| 24 | May-16  | The Microservices Development Life Cycle 2/2 |                   |
-| 25 | May-21  |                                      |                   |
-| 26 | May-23  |                                      |                   |
+| 23 | May-14  | [Introduction to Kubernetes 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-13.pdf) |                   |
+| 24 | May-16  | [Introduction to Kubernetes 2/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-13.pdf) |                   |
+| 25 | May-21  | The Microservices Development Life Cycle 1/2 |                   |
+| 26 | May-23  | The Microservices Development Life Cycle 2/2 |                   |
 | 27 | May-28  |                                      |                   |
 | 28 | May-30  |                                      |                   |
 | 29 | Jun-04  |                                      |                   |
