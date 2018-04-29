@@ -112,7 +112,10 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [Arquiteturas reativas e a experiência Mobile no Magazine Luiza](https://www.infoq.com/br/presentations/arquiteturas-reativas-e-a-experiencia-mobile-no-magazine-luiza)
 - [Autorização de transações no Nubank: Consumindo serviços anos 80 com tecnologias atuais](https://www.infoq.com/br/presentations/consumindo-servicos-anos-80-com-tecnologias-atuais)
 - [De monolítico a cloud native: uma jornada de erros e acertos na Wine.com.br](https://www.infoq.com/br/presentations/de-monolitico-a-cloud-native-uma-jornada-de-erros-e-acertos)
-- [Desenvolvendo, expandindo e amadurecendo a prática de Engenharia de Caos](https://www.infoq.com/br/articles/engenharia-de-caos)
+- [Kubernetes For Developers (by nirmata): Pods (Part 1)](https://www.nirmata.com/2018/02/07/kubernetes-for-developers-pods-part-1/)
+- [Kubernetes For Developers (by nirmata): Part 2 – Replica Sets and Deployments](https://www.nirmata.com/2018/03/03/kubernetes-for-developers-part-2-replica-sets-and-deployments/)
+- [Kubernetes For Developers (by nirmata): Part 3 – Services](https://www.nirmata.com/2018/04/27/kubernetes-for-developers-part-3-services/)
+- [Who monitors the monitoring systems?](https://medium.com/@adrianco/who-monitors-the-monitoring-systems-715a333f97fc)
 
 ### Business Cases
 
