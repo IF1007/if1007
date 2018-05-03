@@ -189,6 +189,7 @@ Para participar deste curso é desejável que os participantes tenham:
 - Logging and Monitoring Microservices
 - Containerizing Microservices with Docker
 - Managing Dockerized Microservices with Mesos and Marathon
+- Kubernetes orquestration enviroment
 - The Microservices Development Life Cycle
 
 ### Plano de aulas
@@ -231,3 +232,10 @@ Para participar deste curso é desejável que os participantes tenham:
 | 34 | Jun-20  | Project presentation |                   |
 | 35 | Jun-25  |                                      |                   |
 | 36 | Jun-27  | Publication of final results |                   |
+
+### Disciplinas correlatas e/ou influenciadas
+
+Após a iniciativa de construção desta disciplina, outras nasceram motivadas por este movimento ou inspiradas nos tópicos aqui cobertos. São elas:
+
+- [Desmistificando DevOps: Projetando Arquiteturas Efetivamente Escaláveis](https://github.com/vinicius3w/if1004-DevOps), [Prof. Vinicius Garcia](http://viniciusgarcia.me), [Centro de Informática](http://www.cin.ufpe.br) - UFPE
+- [Programação para a Web 2](https://github.com/diegoep/pweb2), Prof. Diego Pessoa, CST em Análise e Desenvolvimento de Sistemas, [IFPB - Campus Cajazeiras](http://ifpb.edu.br/cajazeiras)
