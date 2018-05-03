@@ -238,4 +238,4 @@ Para participar deste curso é desejável que os participantes tenham:
 Após a iniciativa de construção desta disciplina, outras nasceram motivadas por este movimento ou inspiradas nos tópicos aqui cobertos. São elas:
 
 - [Desmistificando DevOps: Projetando Arquiteturas Efetivamente Escaláveis](https://github.com/vinicius3w/if1004-DevOps), [Prof. Vinicius Garcia](http://viniciusgarcia.me), [Centro de Informática](http://www.cin.ufpe.br) - UFPE
-- [Programação para a Web 2](https://github.com/diegoep/pweb2), Prof. Diego Pessoa, CST em Análise e Desenvolvimento de Sistemas, [IFPB - Campus Cajazeiras](http://ifpb.edu.br/cajazeiras)
+- [Programação para a Web 2](https://github.com/diegoep/pweb2), [Prof. Diego Pessoa](https://github.com/diegoep), CST em Análise e Desenvolvimento de Sistemas, [IFPB - Campus Cajazeiras](http://ifpb.edu.br/cajazeiras)
