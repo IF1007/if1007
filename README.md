@@ -221,17 +221,13 @@ Para participar deste curso é desejável que os participantes tenham:
 | 24 | May-16  | [Introduction to Kubernetes 2/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-13.pdf) |                   |
 | 25 | May-21  | [The Microservices Development Life Cycle 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-14.pdf) |                   |
 | 26 | May-23  | [The Microservices Development Life Cycle 2/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-14.pdf) |                   |
-| 27 | May-28  |                                      |                   |
-| 28 | May-30  |                                      |                   |
-| 29 | Jun-04  |                                      |                   |
-| 30 | Jun-06  |                                      |                   |
-| 31 | Jun-11  |                                      |                   |
-| 32 | Jun-13  |                                      |                   |
-| 33 | Jun-18  |                                      |                   |
-| 34 | Jun-20  |                                      |                   |
+| 27 | May-28  | Project execution time |                   |
+| 28 | May-30  | Follow-up of project execution |                   |
+| 29 | Jun-04  | Project execution time |                   |
+| 30 | Jun-06  | Follow-up of project execution  |                   |
+| 31 | Jun-11  | Project execution time |                   |
+| 32 | Jun-13  | Follow-up of project execution |                   |
+| 33 | Jun-18  | Project presentation |                   |
+| 34 | Jun-20  | Project presentation |                   |
 | 35 | Jun-25  |                                      |                   |
-| 36 | Jun-27  |                                      |                   |
-| 37 | Jul-02  |                                      |                   |
-| 38 | Jul-04  |                                      |                   |
-| 39 | Jul-09  |                                      |                   |
-| 40 | Jul-11  |                                      |                   |
+| 36 | Jun-27  | Publication of final results |                   |
