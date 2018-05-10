@@ -29,6 +29,7 @@ No entanto, os microservices vêm com seus próprios desafios, como monitorament
 Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que podem ser recomendados:
 
 - [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
+- X. Larrucea, I. Santamaria, R. Colomo-Palacios and C. Ebert, "**Microservices**," in IEEE Software, vol. 35, no. 3, pp. 96-100, May/June 2018. doi: [10.1109/MS.2018.2141030](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8354423&isnumber=8354413)
 
 ### Bibliografia Complementar
 
