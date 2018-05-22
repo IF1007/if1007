@@ -31,6 +31,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
 - X. Larrucea, I. Santamaria, R. Colomo-Palacios and C. Ebert, "**Microservices**," in IEEE Software, vol. 35, no. 3, pp. 96-100, May/June 2018. doi: [10.1109/MS.2018.2141030](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8354423&isnumber=8354413)
 - P. Jamshidi, C. Pahl, N. C. Mendonça, J. Lewis and S. Tilkov, "[Microservices: The Journey So Far and Challenges Ahead](https://ieeexplore.ieee.org/document/8354433/)," in IEEE Software, vol. 35, no. 3, pp. 24-35, May/June 2018. doi: 10.1109/MS.2018.2141039
+- [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
 
 ### Bibliografia Complementar
 
