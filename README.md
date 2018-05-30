@@ -150,7 +150,6 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - J. C. Carver, B. Penzenstadler, A. Serebrenik and A. Yamashita, "[The Human Factor](http://ieeexplore.ieee.org/document/8048655/)," in IEEE Software, vol. 34, no. 5, pp. 90-92, 2017. doi: 10.1109/MS.2017.3571580
 - K. Carter, "[Francois Raynaud on DevSecOps](http://ieeexplore.ieee.org/document/8048652/)," in IEEE Software, vol. 34, no. 5, pp. 93-96, 2017. doi: 10.1109/MS.2017.3571578
 
-
 ### Objetivos
 
 Espera-se que os alunos vivenciem exposição prática a ferramentas, processos e princípios do desenvolvimento de aplicações baseadas na arquitetura de microservices, juntamente com as boas práticas e técnicas de implantação nos princípios de DevOps e as vantagens e desafios do uso e imersão na Computação em Nuvem através de projetos práticos, enquanto compreendem modelos e ideias de pesquisa por trás das ferramentas e processos. As aulas incluirão experiências de aprendizagem no estilo de workshops, onde os alunos irão trabalhar em um problema e receberão comentários do professor, colaboradores convidados e outros colegas de classe. Quando possível, palestras convidadas da indústria ajudarão a ilustrar exemplos de como a tecnologia é implantada na prática.
@@ -186,6 +185,11 @@ Para participar deste curso é desejável que os participantes tenham:
 - **Exercício Escolar Teórico Individual e/ou Atividades Práticas Individuais** [30%]
   - Exercício com questões objetivas
 - Como atividade de recuperação é proposta a aplicação de um Exercício Escolar abordando os temas apresentados e discutidos em classe.
+
+### Recursos
+
+- [IF1007 Slack team](http://if1007-2018-1.slack.com)
+- [Pkay-with-docker](http://play-with-docker.com/): a simple, interactive and fun playground to learn Docker
 
 ### Tópicos
 
