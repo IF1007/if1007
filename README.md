@@ -96,14 +96,11 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [The twelve-factor app](https://12factor.net/)
 - [Principles of Container-based Application Design](http://blog.kubernetes.io/2018/03/principles-of-container-app-design.html)
 - [Hands on Lab Overview: DevOps Cloud Native Microservices Development - YouTube](https://www.youtube.com/playlist?list=PLPIzp-E1msrZhDmRUnNBSYY6LJ2yWh3Ro)
-- [Deploying Java Applications with Docker and Kubernetes](https://www.oreilly.com/ideas/how-to-manage-docker-containers-in-kubernetes-with-java) & [oreilly-docker-java-shopping](https://github.com/vinicius3w/oreilly-docker-java-shopping)
-- [Deploying Java Applications with Kubernetes and an API Gateway](https://hackernoon.com/deploying-java-applications-with-kubernetes-and-an-api-gateway-fc471644bea7)
 - [Microservices for Digital Transformation - case studies across ERP, Entertainment, Finance, Search, Auctions, and Cloud Industries](https://www.linkedin.com/pulse/microservices-digital-transformation-case-studies-erp-yerramsetti/)
 - [Why Microservices Should Be Event Driven: Autonomy vs Authority](http://blog.christianposta.com/microservices/why-microservices-should-be-event-driven-autonomy-vs-authority/)
 - [3 Easy Things to Do to Make Your Microservices More Resilient](http://blog.christianposta.com/microservices/3-easy-things-to-do-to-make-your-microservices-more-resilient/)
 - [The Hardest Part About Microservices: Your Data](http://blog.christianposta.com/microservices/the-hardest-part-about-microservices-data/)
 - [Carving the Java EE Monolith Into Microservices: Prefer Verticals Not Layers](https://developers.redhat.com/blog/2016/07/07/carving-the-java-ee-monolith-into-microservices-prefer-verticals-not-layers/)
-- [Source code from "Learning Spring Boot" (original and upgrades)](https://github.com/vinicius3w/learning-spring-boot-code)
 - [Microservices - Organizing Large Teams for Rapid Delivery](https://www.infoq.com/presentations/microservices-team-organization)
 - [The Journey from Monolith to Microservices - A Guided Adventure](https://www.infoq.com/presentations/journey-monolith-microservices)
 - [Simon Brown on the Role of the Software Architect in a Continuous Delivery Environment](https://www.infoq.com/podcasts/simon-brown-architecture)
@@ -114,20 +111,28 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [9 perguntas frequentes sobre REST](https://www.infoq.com/br/articles/9-perguntas-frequentes-sobre-rest)
 - [IF1006 - TÓPICOS AVANÇADOS EM SISTEMAS DE INFORMAÇÃO 3 (SERVIÇOS E INFRAESTRUTURA DE NUVEM) - 2017.1](http://bit.ly/IF1006-2017-1)
 - [IF1004 - Seminários em Sistemas de Informação 3 (Desmistificando DevOps: Projetando Arquiteturas Efetivamente Escaláveis)](https://github.com/vinicius3w/if1004-DevOps)
-- [Google Cloud Platform Blog](https://cloudplatform.googleblog.com/)
-- [DevOps | AWS Cloud | Cloud Tutorials for Beginners](https://www.youtube.com/playlist?list=PLLsor6GJ_BEEVWzDS3eHLdLkSZsoVnB98)
-- [Microservices and Cloud-Native Applications with Spring 5.0](https://www.packtpub.com/application-development/microservices-and-cloud-native-applications-spring-50-video)
-- [Advanced Spring Boot](https://www.packtpub.com/web-development/advanced-spring-boot-integrated-course)
-- [Arquiteturas reativas e a experiência Mobile no Magazine Luiza](https://www.infoq.com/br/presentations/arquiteturas-reativas-e-a-experiencia-mobile-no-magazine-luiza)
-- [Autorização de transações no Nubank: Consumindo serviços anos 80 com tecnologias atuais](https://www.infoq.com/br/presentations/consumindo-servicos-anos-80-com-tecnologias-atuais)
 - [De monolítico a cloud native: uma jornada de erros e acertos na Wine.com.br](https://www.infoq.com/br/presentations/de-monolitico-a-cloud-native-uma-jornada-de-erros-e-acertos)
-- [Kubernetes For Developers (by nirmata): Pods (Part 1)](https://www.nirmata.com/2018/02/07/kubernetes-for-developers-pods-part-1/)
-- [Kubernetes For Developers (by nirmata): Part 2 – Replica Sets and Deployments](https://www.nirmata.com/2018/03/03/kubernetes-for-developers-part-2-replica-sets-and-deployments/)
-- [Kubernetes For Developers (by nirmata): Part 3 – Services](https://www.nirmata.com/2018/04/27/kubernetes-for-developers-part-3-services/)
 - [Who monitors the monitoring systems?](https://medium.com/@adrianco/who-monitors-the-monitoring-systems-715a333f97fc)
+AWS
+  - [DevOps | AWS Cloud | Cloud Tutorials for Beginners](https://www.youtube.com/playlist?list=PLLsor6GJ_BEEVWzDS3eHLdLkSZsoVnB98)
+Google Cloud
+  - [Google Cloud Platform Blog](https://cloudplatform.googleblog.com/)
+- Kubernetes
+  - [Kubernetes For Developers (by nirmata): Pods (Part 1)](https://www.nirmata.com/2018/02/07/kubernetes-for-developers-pods-part-1/)
+  - [Kubernetes For Developers (by nirmata): Part 2 – Replica Sets and Deployments](https://www.nirmata.com/2018/03/03/kubernetes-for-developers-part-2-replica-sets-and-deployments/)
+  - [Kubernetes For Developers (by nirmata): Part 3 – Services](https://www.nirmata.com/2018/04/27/kubernetes-for-developers-part-3-services/)
+  - [Kubernetes best practices: upgrading your clusters with zero downtime](https://cloudplatform.googleblog.com/2018/06/Kubernetes-best-practices-upgrading-your-clusters-with-zero-downtime.html)
+  - [Deploying Java Applications with Docker and Kubernetes](https://www.oreilly.com/ideas/how-to-manage-docker-containers-in-kubernetes-with-java) & [oreilly-docker-java-shopping](https://github.com/vinicius3w/oreilly-docker-java-shopping)
+  - [Deploying Java Applications with Kubernetes and an API Gateway](https://hackernoon.com/deploying-java-applications-with-kubernetes-and-an-api-gateway-fc471644bea7)
+- Spring Boot
+  - [Microservices and Cloud-Native Applications with Spring 5.0](https://www.packtpub.com/application-development/microservices-and-cloud-native-applications-spring-50-video)
+  - [Advanced Spring Boot](https://www.packtpub.com/web-development/advanced-spring-boot-integrated-course)
+  - [Source code from "Learning Spring Boot" (original and upgrades)](https://github.com/vinicius3w/learning-spring-boot-code)
 
 ### Business Cases
 
+- [Arquiteturas reativas e a experiência Mobile no Magazine Luiza](https://www.infoq.com/br/presentations/arquiteturas-reativas-e-a-experiencia-mobile-no-magazine-luiza)
+- [Autorização de transações no Nubank: Consumindo serviços anos 80 com tecnologias atuais](https://www.infoq.com/br/presentations/consumindo-servicos-anos-80-com-tecnologias-atuais)
 - The Smart Parking story - [Part 1](https://cloudplatform.googleblog.com/2018/04/Cloud-native-architecture-with-serverless-microservices-the-Smart-Parking-story.html), [Part2](https://cloudplatform.googleblog.com/2018/04/implementing-an-event-driven-architecture-on-serverless-the-Smart-Parking-story.html) and [Part 3](https://cloudplatform.googleblog.com/2018/04/what-we-learned-doing-serverless-the-Smart-Parking-story.html)
 - [Building Products at SoundCloud — Part I: Dealing with the Monolith](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-1-dealing-with-the-monolith), By Phil Calçado on June 11th, 2014
 - [Building Products at SoundCloud—Part II: Breaking the Monolith](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-2-breaking-the-monolith), By Phil Calçado on June 12th, 2014
