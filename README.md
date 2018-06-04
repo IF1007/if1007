@@ -124,6 +124,7 @@ Google Cloud
   - [Kubernetes best practices: upgrading your clusters with zero downtime](https://cloudplatform.googleblog.com/2018/06/Kubernetes-best-practices-upgrading-your-clusters-with-zero-downtime.html)
   - [Deploying Java Applications with Docker and Kubernetes](https://www.oreilly.com/ideas/how-to-manage-docker-containers-in-kubernetes-with-java) & [oreilly-docker-java-shopping](https://github.com/vinicius3w/oreilly-docker-java-shopping)
   - [Deploying Java Applications with Kubernetes and an API Gateway](https://hackernoon.com/deploying-java-applications-with-kubernetes-and-an-api-gateway-fc471644bea7)
+  - [Kubernetes Chaos Engineering: Lessons Learned — Part 1](https://learnk8s.io/blog/kubernetes-chaos-engineering-lessons-learned)
 - Spring Boot
   - [Microservices and Cloud-Native Applications with Spring 5.0](https://www.packtpub.com/application-development/microservices-and-cloud-native-applications-spring-50-video)
   - [Advanced Spring Boot](https://www.packtpub.com/web-development/advanced-spring-boot-integrated-course)
