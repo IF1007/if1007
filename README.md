@@ -195,7 +195,8 @@ Para participar deste curso é desejável que os participantes tenham:
 
 #### Projetos
 
-
+- **2018.1**
+  - Equipe Porquin: <https://github.com/if1007-pqn/main>
 
 ### Recursos
 
