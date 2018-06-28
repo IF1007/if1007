@@ -193,6 +193,10 @@ Para participar deste curso é desejável que os participantes tenham:
   - Exercício com questões objetivas
 - Como atividade de recuperação é proposta a aplicação de um Exercício Escolar abordando os temas apresentados e discutidos em classe.
 
+#### Projetos
+
+
+
 ### Recursos
 
 - [IF1007 Slack team](http://if1007-2018-1.slack.com)
