@@ -197,6 +197,7 @@ Para participar deste curso é desejável que os participantes tenham:
 
 - **2018.1**
   - Equipe Porquin: <https://github.com/if1007-pqn/main>
+  - Equipe Scale: <https://github.com/lsca/if1007-scale/>
 
 ### Recursos
 
