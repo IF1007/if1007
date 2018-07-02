@@ -198,7 +198,8 @@ Para participar deste curso é desejável que os participantes tenham:
 - **2018.1**
   - Equipe Porquin: <https://github.com/if1007-pqn/main>
   - Equipe Scale: <https://github.com/lsca/if1007-scale/>
-  - Equie CSD (Catalog Series and Drama) Service: <https://github.com/ahlp/catalog-service/>
+  - Equipe CSD (Catalog Series and Drama) Service: <https://github.com/ahlp/catalog-service/>
+  - Equipe Horários acadêmicos: <https://github.com/jbsn94/if1007/tree/master/projeto>
 
 ### Recursos
 
