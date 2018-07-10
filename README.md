@@ -113,10 +113,12 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [IF1004 - Seminários em Sistemas de Informação 3 (Desmistificando DevOps: Projetando Arquiteturas Efetivamente Escaláveis)](https://github.com/vinicius3w/if1004-DevOps)
 - [De monolítico a cloud native: uma jornada de erros e acertos na Wine.com.br](https://www.infoq.com/br/presentations/de-monolitico-a-cloud-native-uma-jornada-de-erros-e-acertos)
 - [Who monitors the monitoring systems?](https://medium.com/@adrianco/who-monitors-the-monitoring-systems-715a333f97fc)
-AWS
+- AWS
   - [DevOps | AWS Cloud | Cloud Tutorials for Beginners](https://www.youtube.com/playlist?list=PLLsor6GJ_BEEVWzDS3eHLdLkSZsoVnB98)
-Google Cloud
+- Google Cloud
   - [Google Cloud Platform Blog](https://cloudplatform.googleblog.com/)
+- Docker
+  - [7 best practices for building containers](https://cloudplatform.googleblog.com/2018/07/7-best-practices-for-building-containers.html)
 - Kubernetes
   - [Kubernetes For Developers (by nirmata): Pods (Part 1)](https://www.nirmata.com/2018/02/07/kubernetes-for-developers-pods-part-1/)
   - [Kubernetes For Developers (by nirmata): Part 2 – Replica Sets and Deployments](https://www.nirmata.com/2018/03/03/kubernetes-for-developers-part-2-replica-sets-and-deployments/)
