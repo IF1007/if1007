@@ -203,6 +203,9 @@ Para participar deste curso é desejável que os participantes tenham:
   - Equipe CSD (Catalog Series and Drama) Service: <https://github.com/ahlp/catalog-service/>
   - Equipe Horários acadêmicos: <https://github.com/jbsn94/if1007/tree/master/projeto>
   - Equipe Wyatt: <https://github.com/patrickrbc/wyatt>
+  - Equipe SWAN: <https://github.com/ricardorobson/MS-ENTREGA>
+  - Equipe Hygieia Dashboard Clusterized on Kubernetes: <https://github.com/japm94/hygieia-k8s-cluster>
+  - Equipe Cartola-MicroServices: <https://github.com/FilipeJrd/Cartola-MicroServices>
 
 ### Recursos
 
