@@ -202,6 +202,7 @@ Para participar deste curso é desejável que os participantes tenham:
   - Equipe Scale: <https://github.com/lsca/if1007-scale/>
   - Equipe CSD (Catalog Series and Drama) Service: <https://github.com/ahlp/catalog-service/>
   - Equipe Horários acadêmicos: <https://github.com/jbsn94/if1007/tree/master/projeto>
+  - Equipe Wyatt: <https://github.com/patrickrbc/wyatt>
 
 ### Recursos
 
