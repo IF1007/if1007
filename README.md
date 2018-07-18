@@ -207,6 +207,7 @@ Para participar deste curso é desejável que os participantes tenham:
   - Equipe Hygieia Dashboard Clusterized on Kubernetes: <https://github.com/japm94/hygieia-k8s-cluster>
   - Equipe Cartola-MicroServices: <https://github.com/FilipeJrd/Cartola-MicroServices>
   - Equipe Greenhouse delivery: <https://github.com/rllima/microservices>
+  - Equipe HAUL-AWS: <https://github.com/guuhsampaio/haul-aws>
 
 ### Recursos
 
