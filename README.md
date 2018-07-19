@@ -198,16 +198,16 @@ Para participar deste curso é desejável que os participantes tenham:
 #### Projetos
 
 - **2018.1**
-  - Equipe Porquin: <https://github.com/if1007-pqn/main>
-  - Equipe Scale: <https://github.com/lsca/if1007-scale/>
-  - Equipe CSD (Catalog Series and Drama) Service: <https://github.com/ahlp/catalog-service/>
-  - Equipe Horários acadêmicos: <https://github.com/jbsn94/if1007/tree/master/projeto>
-  - Equipe Wyatt: <https://github.com/patrickrbc/wyatt>
-  - Equipe SWAN: <https://github.com/ricardorobson/MS-ENTREGA>
-  - Equipe Hygieia Dashboard Clusterized on Kubernetes: <https://github.com/japm94/hygieia-k8s-cluster>
-  - Equipe Cartola-MicroServices: <https://github.com/FilipeJrd/Cartola-MicroServices>
-  - Equipe Greenhouse delivery: <https://github.com/rllima/microservices>
-  - Equipe HAUL-AWS: <https://github.com/guuhsampaio/haul-aws>
+  - Equipe [Porquin](https://github.com/IF1007/pqn-main)
+  - Equipe [Scale](https://github.com/IF1007/if1007-scale)
+  - Equipe [CSD (Catalog Series and Drama) Service](https://github.com/IF1007/catalog-service/)
+  - Equipe [Horários acadêmicos](https://github.com/IF1007/horarios-academicos/tree/master/projeto)
+  - Equipe [Wyatt](https://github.com/IF1007/wyatt)
+  - Equipe [SWAN](https://github.com/IF1007/MS-ENTREGA)
+  - Equipe [Hygieia Dashboard Clusterized on Kubernetes](https://github.com/IF1007/hygieia-k8s-cluster)
+  - Equipe [Cartola-MicroServices](https://github.com/IF1007/Cartola-MicroServices)
+  - Equipe [Greenhouse delivery](https://github.com/IF1007/Greenhouse-delivery)
+  - Equipe [HAUL-AWS](https://github.com/IF1007/haul-aws)
 
 ### Recursos
 
