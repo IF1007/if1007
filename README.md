@@ -18,7 +18,7 @@ Desenvolvimento de Aplicações com Arquitetura Baseada em Microservices
 
 ### Edições passadas
 
-* [2018.1](https://github.com/vinicius3w/if1007-Microservices/releases/tag/if1007-2018-1)
+* [Semestre 2018.1](https://github.com/IF1007/if1007/releases/tag/if1007-2018-1)
 
 ### Comunicação
 
