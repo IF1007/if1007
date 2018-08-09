@@ -20,6 +20,10 @@ Desenvolvimento de Aplicações com Arquitetura Baseada em Microservices
 
 * [2018.1](https://github.com/vinicius3w/if1007-Microservices/releases/tag/if1007-2018-1)
 
+### Comunicação
+
+- Temos um canal no Telegram para uma comunicação mais dinâmica: [Reliability Engineering Group Channel](https://t.me/regcin)
+
 ### Ementa
 
 Microservice é um estilo e padrão de arquitetura de software em que sistemas complexos são decompostos em serviços menores que trabalham em conjunto para formar serviços maiores. Os Microservices são serviços autônomos, independentes e independentemente implantáveis. No mundo de hoje, muitas empresas usam microservices como principal padrão para a construção de aplicativos corporativos grandes e orientados a serviços.
