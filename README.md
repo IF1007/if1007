@@ -55,6 +55,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [Pattern: Monolithic Architecture](http://microservices.io/patterns/monolithic.html)
 - [Pattern: Microservice Architecture](http://microservices.io/patterns/microservices.html)
 - [Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/), this is a seven‑part series of articles
+- [How to Write Great API Documentation Every Time](https://hackernoon.com/how-to-write-great-api-documentation-every-time-8f7e001a9d7c)
 - Spring IO
   - Spring IO Website: http://www.spring.io
   - Spring Boot: https://projects.spring.io/spring-boot/
