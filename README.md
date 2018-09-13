@@ -144,18 +144,19 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Business Cases
 
-- [Arquiteturas reativas e a experiência Mobile no Magazine Luiza](https://www.infoq.com/br/presentations/arquiteturas-reativas-e-a-experiencia-mobile-no-magazine-luiza)
-- [Autorização de transações no Nubank: Consumindo serviços anos 80 com tecnologias atuais](https://www.infoq.com/br/presentations/consumindo-servicos-anos-80-com-tecnologias-atuais)
-- The Smart Parking story - [Part 1](https://cloudplatform.googleblog.com/2018/04/Cloud-native-architecture-with-serverless-microservices-the-Smart-Parking-story.html), [Part2](https://cloudplatform.googleblog.com/2018/04/implementing-an-event-driven-architecture-on-serverless-the-Smart-Parking-story.html) and [Part 3](https://cloudplatform.googleblog.com/2018/04/what-we-learned-doing-serverless-the-Smart-Parking-story.html)
-- [Building Products at SoundCloud — Part I: Dealing with the Monolith](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-1-dealing-with-the-monolith), By Phil Calçado on June 11th, 2014
-- [Building Products at SoundCloud—Part II: Breaking the Monolith](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-2-breaking-the-monolith), By Phil Calçado on June 12th, 2014
-- [How we build microservices at Karma](https://blog.karmawifi.com/how-we-build-microservices-at-karma-71497a89bfb4), Apr 4, 2016
-- [The Top 10 Adages in Continuous Deployment](https://www.infoq.com/articles/cd-adages), by InfoQ on Sep 19, 2017
-- [Spotify Lessons: Learning to Let Go of Machines](https://www.infoq.com/presentations/spotify-infrastructure-deployment), by James Wen on Sep 19, 2017
-- [Preparing the Netflix API for Deployment](https://medium.com/netflix-techblog/preparing-the-netflix-api-for-deployment-786d8f58090d), by Netflix Technology Blog on Nov 18, 2013
-- XebiaLabs has a wide range of surveys and state of industry reports on DevOps-related topics that can be found at <http://xebialabs.com/xl-resources/whitepapers/>
-- CA Technologies’ report gives some insights into business’ different understanding of DevOps and can be found at <http://www.ca.com/us/collateral/white-papers/na/techinsights-report-what-smart-businesses-know-about-devops.aspx>
-- [Continuous Deployment at IMVU: Doing the Impossible Fifty Times a Day](http://timothyfitz.com/2009/02/10/continuous-deployment-at-imvu-doing-the-impossible-fifty-times-a-day/), by Timothy Fitz on February 10, 2009
+* [Monitoring containerized microservices with a centralized logging architecture](https://hackernoon.com/monitoring-containerized-microservices-with-a-centralized-logging-architecture-ba6771c1971a). A case study of Project Horus, Sep 12, 2018.
+* The Smart Parking story - [Part 1](https://cloudplatform.googleblog.com/2018/04/Cloud-native-architecture-with-serverless-microservices-the-Smart-Parking-story.html), [Part2](https://cloudplatform.googleblog.com/2018/04/implementing-an-event-driven-architecture-on-serverless-the-Smart-Parking-story.html) and [Part 3](https://cloudplatform.googleblog.com/2018/04/what-we-learned-doing-serverless-the-Smart-Parking-story.html), Apr 12, 2018
+* [Arquiteturas reativas e a experiência Mobile no Magazine Luiza](https://www.infoq.com/br/presentations/arquiteturas-reativas-e-a-experiencia-mobile-no-magazine-luiza), Jan 31, 2018.
+* [Autorização de transações no Nubank: Consumindo serviços anos 80 com tecnologias atuais](https://www.infoq.com/br/presentations/consumindo-servicos-anos-80-com-tecnologias-atuais), Dec 06, 2017.
+* [The Top 10 Adages in Continuous Deployment](https://www.infoq.com/articles/cd-adages), by InfoQ on Sep 19, 2017
+* [Spotify Lessons: Learning to Let Go of Machines](https://www.infoq.com/presentations/spotify-infrastructure-deployment), by James Wen on Sep 19, 2017
+* [How we build microservices at Karma](https://blog.karmawifi.com/how-we-build-microservices-at-karma-71497a89bfb4), Apr 4, 2016
+* [Building Products at SoundCloud — Part I: Dealing with the Monolith](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-1-dealing-with-the-monolith), By Phil Calçado on June 11th, 2014
+* [Building Products at SoundCloud—Part II: Breaking the Monolith](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-2-breaking-the-monolith), By Phil Calçado on June 12th, 2014
+* [Preparing the Netflix API for Deployment](https://medium.com/netflix-techblog/preparing-the-netflix-api-for-deployment-786d8f58090d), by Netflix Technology Blog on Nov 18, 2013
+* [Continuous Deployment at IMVU: Doing the Impossible Fifty Times a Day](http://timothyfitz.com/2009/02/10/continuous-deployment-at-imvu-doing-the-impossible-fifty-times-a-day/), by Timothy Fitz on February 10, 2009
+* CA Technologies’ report gives some insights into business’ different understanding of DevOps and can be found at <http://www.ca.com/us/collateral/white-papers/na/techinsights-report-what-smart-businesses-know-about-devops.aspx>
+* XebiaLabs has a wide range of surveys and state of industry reports on DevOps-related topics that can be found at <http://xebialabs.com/xl-resources/whitepapers/>
 
 ### Research Trends
 
