@@ -104,6 +104,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 - [12 Fractured Apps](https://medium.com/@kelseyhightower/12-fractured-apps-1080c73d481c)
 - [The twelve-factor app](https://12factor.net/)
+- [The Google Cloud Developer Cheat Sheet](https://medium.com/google-cloud/the-google-cloud-developer-cheat-sheet-429775bd6d11?_lrsc=d1590800-bec4-4e82-9240-4e63d7ccbb77)
 - [Angular Libraries and Microservices](https://antoniogoncalves.org/2018/08/13/angular-libraries-and-microservices/)
 - [Principles of Container-based Application Design](http://blog.kubernetes.io/2018/03/principles-of-container-app-design.html)
 - [Hands on Lab Overview: DevOps Cloud Native Microservices Development - YouTube](https://www.youtube.com/playlist?list=PLPIzp-E1msrZhDmRUnNBSYY6LJ2yWh3Ro)
