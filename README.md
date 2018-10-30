@@ -74,6 +74,11 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
   - Blog: http://spring.io/blog
 - Help
   - Stack Overflow: http://stackoverflow.com/questions/tagged/spring-boot
+- Service Mesh
+  - P. Jamshidi, C. Pahl, N. C. Mendonça, J. Lewis and S. Tilkov, "[Microservices: The Journey So Far and Challenges Ahead](https://doi.org/10.1109/MS.2018.2141039)", in IEEE Software, vol. 35, no. 3, pp. 24-35, May/June 2018.
+  - [Pattern: Service Mesh](http://philcalcado.com/2017/08/03/pattern_service_mesh.html), by Phil Calçado, Aug 3, 2017
+  - [What’s a service mesh? And why do I need one?](https://blog.buoyant.io/2017/04/25/whats-a-service-mesh-and-why-do-i-need-one/), by Willian Morgan, April 25, 2017
+  - [The Enterprise Path to Service Mesh Architectures](https://www.nginx.com/resources/library/the-enterprise-path-to-service-mesh-architectures/), O’Reilly Media, Inc., First Edition, 2018.
 - [Netflix Open Source Software Center](https://netflix.github.io/)
 - [The InfoQ eMag: Microservices vs. Monoliths - The Reality Beyond the Hype](https://www.infoq.com/minibooks/emag-microservices-monoliths)
 - [The cloud native application: Microservices with Spring Boot and Spring Cloud](https://www.infoq.com/br/presentations/the-cloud-native-application-microservices-with-spring-boot-and-spring-cloud)
@@ -104,7 +109,6 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 - [12 Fractured Apps](https://medium.com/@kelseyhightower/12-fractured-apps-1080c73d481c)
 - [The twelve-factor app](https://12factor.net/)
-- [What’s a service mesh? And why do I need one?](https://blog.buoyant.io/2017/04/25/whats-a-service-mesh-and-why-do-i-need-one/)
 - [The Google Cloud Developer Cheat Sheet](https://medium.com/google-cloud/the-google-cloud-developer-cheat-sheet-429775bd6d11?_lrsc=d1590800-bec4-4e82-9240-4e63d7ccbb77)
 - [Angular Libraries and Microservices](https://antoniogoncalves.org/2018/08/13/angular-libraries-and-microservices/)
 - [Principles of Container-based Application Design](http://blog.kubernetes.io/2018/03/principles-of-container-app-design.html)
