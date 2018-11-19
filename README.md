@@ -135,6 +135,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - Google Cloud
   - [Google Cloud Platform Blog](https://cloudplatform.googleblog.com/)
 - Docker
+  - [Docker In A Nutshell](https://hackernoon.com/docker-in-a-nutshell-6b3985a58d68)
   - [7 best practices for building containers](https://cloudplatform.googleblog.com/2018/07/7-best-practices-for-building-containers.html)
 - Kubernetes
   - [Kubernetes For Developers (by nirmata): Pods (Part 1)](https://www.nirmata.com/2018/02/07/kubernetes-for-developers-pods-part-1/)
