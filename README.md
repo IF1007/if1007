@@ -104,6 +104,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [Kubernetes Ingress: NodePort, Load Balancers, and Ingress Controllers](https://blog.getambassador.io/kubernetes-ingress-nodeport-load-balancers-and-ingress-controllers-6e29f1c44f2d)
 - [Kubernetes best practices: Resource requests and limits](https://cloudplatform.googleblog.com/2018/05/Kubernetes-best-practices-Resource-requests-and-limits.html)
 - [Package Management Basics: apt, yum, dnf, pkg (by Digital Ocean](https://www.digitalocean.com/community/tutorials/package-management-basics-apt-yum-dnf-pkg)
+- [Getting Started with Feign Client in Spring](http://codeboje.de/getting-started-feignclient/)
 
 ### Blogs, Disciplinas, Treinamentos
 
