@@ -58,6 +58,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [How to Write Great API Documentation Every Time](https://hackernoon.com/how-to-write-great-api-documentation-every-time-8f7e001a9d7c)
 - [Layering Microservices](http://philcalcado.com/2018/09/24/services_layers.html)
 - [Why Spring Boot is an Excellent Choice For Your Next Applications](https://hackernoon.com/why-spring-boot-is-an-excellent-choice-for-your-next-applications-cf5a0cdfa04f)
+- [10 Myths About Microservices](https://hackernoon.com/10-myths-about-microservices-aadd06782260), by Codonomics, Dec 23 - 2018.
 - Spring IO
   - Spring IO Website: http://www.spring.io
   - Spring Boot: https://projects.spring.io/spring-boot/
