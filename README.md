@@ -1,6 +1,4 @@
-# IF1007 - Tópicos Avançados em Sistemas de Informação 4
-
-Desenvolvimento de Aplicações com Arquitetura Baseada em Microservices
+# Desenvolvimento de Aplicações com Arquitetura Baseada em Microservices
 
 ![IF1007](/if1007-microservices-icon.png)
 
@@ -9,6 +7,10 @@ Desenvolvimento de Aplicações com Arquitetura Baseada em Microservices
 ### Instrutores
 
 * **Professor** Vinicius Cardoso Garcia ([vcg@cin.ufpe.br](mailto:vcg@cin.ufpe.br))
+
+### Disciplinas
+* Pós-Graduação: IN1062 - Tópicos Avançados em Sistemas Distribuídos 3
+* Graduação: IF1007 - Tópicos Avançados em Sistemas de Informação 4
 
 ### Local
 
