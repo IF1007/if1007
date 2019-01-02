@@ -61,6 +61,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [Layering Microservices](http://philcalcado.com/2018/09/24/services_layers.html)
 - [Why Spring Boot is an Excellent Choice For Your Next Applications](https://hackernoon.com/why-spring-boot-is-an-excellent-choice-for-your-next-applications-cf5a0cdfa04f)
 - [10 Myths About Microservices](https://hackernoon.com/10-myths-about-microservices-aadd06782260), by Codonomics, Dec 23 - 2018.
+- [10 Challenges and Solutions for Microservices — Tips and Tricks](https://dzone.com/articles/10-challenges-of-microservices-and-solutions-tips), by by Rajiv Srivastava, Jul 02 - 2018
 - Spring IO
   - Spring IO Website: http://www.spring.io
   - Spring Boot: https://projects.spring.io/spring-boot/
