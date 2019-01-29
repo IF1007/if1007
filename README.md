@@ -85,6 +85,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
   - [What’s a service mesh? And why do I need one?](https://blog.buoyant.io/2017/04/25/whats-a-service-mesh-and-why-do-i-need-one/), by Willian Morgan, April 25, 2017
   - [The Enterprise Path to Service Mesh Architectures](https://www.nginx.com/resources/library/the-enterprise-path-to-service-mesh-architectures/), O’Reilly Media, Inc., First Edition, 2018.
 - [Netflix Open Source Software Center](https://netflix.github.io/)
+- [Building Fault-Tolerant MicroServices using Netflix’s Hystrix](https://hackernoon.com/building-fault-tolerant-microservices-using-netflixs-hystrix-c36083ca9af5), by Gaurav Massand - Jan 29, 2019.
 - [The InfoQ eMag: Microservices vs. Monoliths - The Reality Beyond the Hype](https://www.infoq.com/minibooks/emag-microservices-monoliths)
 - [The cloud native application: Microservices with Spring Boot and Spring Cloud](https://www.infoq.com/br/presentations/the-cloud-native-application-microservices-with-spring-boot-and-spring-cloud)
 - [Production-Ready Microservices - Building Standardized Systems Across an Engineering Organization](http://shop.oreilly.com/product/0636920053675.do)
