@@ -158,6 +158,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - Microservices
   - [LinuxFoundationX: LFS132x Introduction to Cloud Foundry and Cloud Native Software Architecture](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS132x+1T2017/course/)
   - [Architecting Distributed Cloud Applications](https://courses.edx.org/courses/course-v1:Microsoft+DEVOPS200.9x+1T2018/course/)
+  - [MICROSERVICE WEBSITES](https://www.youtube.com/watch?v=4KVOuQDIfmw): *How can we build websites with scalable development (autonomous teams), great end-user performance and high future evolvability?*, Coding Tech, Publicado em 10 de mai de 2018
 - Spring Boot
   - [Microservices and Cloud-Native Applications with Spring 5.0](https://www.packtpub.com/application-development/microservices-and-cloud-native-applications-spring-50-video)
   - [Advanced Spring Boot](https://www.packtpub.com/web-development/advanced-spring-boot-integrated-course)
@@ -166,6 +167,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 ### Business Cases
 
 * [Monitoring containerized microservices with a centralized logging architecture](https://hackernoon.com/monitoring-containerized-microservices-with-a-centralized-logging-architecture-ba6771c1971a). A case study of Project Horus, Sep 12, 2018.
+* [Experiences Using Micro Frontends at IKEA](https://www.infoq.com/news/2018/08/experiences-micro-frontends), AUG 07, 2018.
 * The Smart Parking story - [Part 1](https://cloudplatform.googleblog.com/2018/04/Cloud-native-architecture-with-serverless-microservices-the-Smart-Parking-story.html), [Part2](https://cloudplatform.googleblog.com/2018/04/implementing-an-event-driven-architecture-on-serverless-the-Smart-Parking-story.html) and [Part 3](https://cloudplatform.googleblog.com/2018/04/what-we-learned-doing-serverless-the-Smart-Parking-story.html), Apr 12, 2018
 * [Arquiteturas reativas e a experiência Mobile no Magazine Luiza](https://www.infoq.com/br/presentations/arquiteturas-reativas-e-a-experiencia-mobile-no-magazine-luiza), Jan 31, 2018.
 * [Autorização de transações no Nubank: Consumindo serviços anos 80 com tecnologias atuais](https://www.infoq.com/br/presentations/consumindo-servicos-anos-80-com-tecnologias-atuais), Dec 06, 2017.
