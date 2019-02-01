@@ -183,16 +183,21 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Research Trends
 
-- A. Balalaie, A. Heydarnoori and P. Jamshidi, "[Microservices Architecture Enables DevOps: Migration to a Cloud-Native Architecture](https://www.computer.org/csdl/mags/so/2016/03/mso2016030042-abs.html)," in IEEE Software, vol. 33, no. 3, pp. 42-52, 2016. doi:10.1109/MS.2016.64
 - G. Pallis, D. Trihinas, A. Tryfonos and M. Dikaiakos, "[DevOps as a Service: Pushing the Boundaries of Microservice Adoption](https://doi.org/10.1109/MIC.2018.032501519)," in IEEE Internet Computing, vol. 22, no. 3, pp. 65-71, May./Jun. 2018. doi: 10.1109/MIC.2018.032501519
-- D. Taibi and V. Lenarduzzi, "[On the Definition of Microservice Bad Smells](https://ieeexplore.ieee.org/document/8354414/?source=tocalert&dld=Y2luLnVmcGUuYnI%3D)," in IEEE Software, vol. 35, no. 3, pp. 56-62, May/June 2018. doi: 10.1109/MS.2018.2141031
-- Garriga M. (2018) [Towards a Taxonomy of Microservices Architectures](https://link.springer.com/chapter/10.1007%2F978-3-319-74781-1_15). In: Cerone A., Roveri M. (eds) Software Engineering and Formal Methods. SEFM 2017. Lecture Notes in Computer Science, vol 10729. Springer, Cham
-- M. Kassab, J. F. DeFranco and P. A. Laplante, "[Software Testing: The State of the Practice](http://ieeexplore.ieee.org/document/8048665/)," in IEEE Software, vol. 34, no. 5, pp. 46-52, 2017. doi: 10.1109/MS.2017.3571582
-- R. Valerdi, "[Why Software Is Like Baseball](http://ieeexplore.ieee.org/document/8048622/)," in IEEE Software, vol. 34, no. 5, pp. 7-9, 2017. doi: 10.1109/MS.2017.3571583
-- M. Kersten, "[Value Stream Architecture](http://ieeexplore.ieee.org/document/8048647/)," in IEEE Software, vol. 34, no. 5, pp. 10-12, 2017. doi: 10.1109/MS.2017.3571573
-- E. Woods, "[Should Architects Code?](http://ieeexplore.ieee.org/document/8048649/)," in IEEE Software, vol. 34, no. 5, pp. 20-21, 2017. doi: 10.1109/MS.2017.3571574
-- J. C. Carver, B. Penzenstadler, A. Serebrenik and A. Yamashita, "[The Human Factor](http://ieeexplore.ieee.org/document/8048655/)," in IEEE Software, vol. 34, no. 5, pp. 90-92, 2017. doi: 10.1109/MS.2017.3571580
-- K. Carter, "[Francois Raynaud on DevSecOps](http://ieeexplore.ieee.org/document/8048652/)," in IEEE Software, vol. 34, no. 5, pp. 93-96, 2017. doi: 10.1109/MS.2017.3571578
+- D. Taibi and V. Lenarduzzi, "[**On the Definition of Microservice Bad Smells**](https://ieeexplore.ieee.org/document/8354414/?source=tocalert&dld=Y2luLnVmcGUuYnI%3D)," in IEEE Software, vol. 35, no. 3, pp. 56-62, May/June 2018. doi: 10.1109/MS.2018.2141031
+- Garriga M. (2018) [**Towards a Taxonomy of Microservices Architectures**](https://link.springer.com/chapter/10.1007%2F978-3-319-74781-1_15). In: Cerone A., Roveri M. (eds) Software Engineering and Formal Methods. SEFM 2017. Lecture Notes in Computer Science, vol 10729. Springer, Cham
+- D. Taibi, V. Lenarduzzi and C. Pahl, "[**Processes, Motivations, and Issues for Migrating to Microservices Architectures: An Empirical Investigation**](https://doi.org/10.1109/MCC.2017.4250931)," in IEEE Cloud Computing, vol. 4, no. 5, pp. 22-32, September/October 2017.
+doi: 10.1109/MCC.2017.4250931.
+- M. Kassab, J. F. DeFranco and P. A. Laplante, "[**Software Testing: The State of the Practice**](http://ieeexplore.ieee.org/document/8048665/)," in IEEE Software, vol. 34, no. 5, pp. 46-52, 2017. doi: 10.1109/MS.2017.3571582
+- R. Valerdi, "[**Why Software Is Like Baseball**](http://ieeexplore.ieee.org/document/8048622/)," in IEEE Software, vol. 34, no. 5, pp. 7-9, 2017. doi: 10.1109/MS.2017.3571583
+- M. Kersten, "[**Value Stream Architecture**](http://ieeexplore.ieee.org/document/8048647/)," in IEEE Software, vol. 34, no. 5, pp. 10-12, 2017. doi: 10.1109/MS.2017.3571573
+- E. Woods, "[**Should Architects Code?**](http://ieeexplore.ieee.org/document/8048649/)," in IEEE Software, vol. 34, no. 5, pp. 20-21, 2017. doi: 10.1109/MS.2017.3571574
+- J. C. Carver, B. Penzenstadler, A. Serebrenik and A. Yamashita, "[**The Human Factor**](http://ieeexplore.ieee.org/document/8048655/)," in IEEE Software, vol. 34, no. 5, pp. 90-92, 2017. doi: 10.1109/MS.2017.3571580
+- K. Carter, "[**Francois Raynaud on DevSecOps**](http://ieeexplore.ieee.org/document/8048652/)," in IEEE Software, vol. 34, no. 5, pp. 93-96, 2017. doi: 10.1109/MS.2017.3571578
+- Caitie McCaffrey. 2016. **The verification of a distributed system**. Commun. ACM 59, 2 (January 2016), 52-55. DOI: <https://doi.org/10.1145/2844108>.
+- C. Esposito, A. Castiglione and K. R. Choo, "[**Challenges in Delivering Software in the Cloud as Microservices**](https://doi.org/10.1109/MCC.2016.105)," in IEEE Cloud Computing, vol. 3, no. 5, pp. 10-14, Sept.-Oct. 2016.
+doi: 10.1109/MCC.2016.105.
+- A. Balalaie, A. Heydarnoori and P. Jamshidi, "[**Microservices Architecture Enables DevOps: Migration to a Cloud-Native Architecture**](https://www.computer.org/csdl/mags/so/2016/03/mso2016030042-abs.html)," in IEEE Software, vol. 33, no. 3, pp. 42-52, 2016. doi:10.1109/MS.2016.64
 
 ### Objetivos
 
