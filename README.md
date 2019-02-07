@@ -6,7 +6,7 @@
 
 ### Instrutores
 
-* **Professor** Vinicius Cardoso Garcia ([vcg@cin.ufpe.br](mailto:vcg@cin.ufpe.br))
+- **Professor** Vinicius Cardoso Garcia ([vcg@cin.ufpe.br](mailto:vcg@cin.ufpe.br))
 
 ### Disciplinas
 * Pós-Graduação: IN1062 - Tópicos Avançados em Sistemas Distribuídos 3
@@ -14,13 +14,13 @@
 
 ### Local
 
-* Centro de Informática, horários: **segunda (17:00-18:40)** e **quarta (18:50-20:30)**, sala **E-112**.
-* Canal de comunicação oficial no [Slack](http://if1007-2018-1.slack.com)
-* Aulas práticas, quando ocorrerem, serão no **Lab G2** (preferencialmente).
+- Centro de Informática, horários: **segunda (17:00-18:40)** e **quarta (18:50-20:30)**, sala **E-112**.
+- Canal de comunicação oficial no [Slack](http://if1007-2018-1.slack.com)
+- Aulas práticas, quando ocorrerem, serão no **Lab G2** (preferencialmente).
 
 ### Edições passadas
 
-* [Semestre 2018.1](https://github.com/IF1007/if1007/releases/tag/if1007-2018-1)
+- [Semestre 2018.1](https://github.com/IF1007/if1007/releases/tag/if1007-2018-1)
 
 ### Comunicação
 
@@ -63,22 +63,24 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [10 Myths About Microservices](https://hackernoon.com/10-myths-about-microservices-aadd06782260), by Codonomics, Dec 23 - 2018.
 - [10 Challenges and Solutions for Microservices — Tips and Tricks](https://dzone.com/articles/10-challenges-of-microservices-and-solutions-tips), by by Rajiv Srivastava, Jul 02 - 2018
 - Spring IO
-  - Spring IO Website: http://www.spring.io
-  - Spring Boot: https://projects.spring.io/spring-boot/
-  - Spring Cloud: https://projects.spring.io/spring-cloud/
-  - Spring Projects: http://spring.io/projects
-  - Spring Guides: http://spring.io/guides
-  - Spring Document: http://spring.io/guides
-  - Spring Boot Docs: http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
-  - Spring Boot API: http://docs.spring.io/spring-boot/docs/current/api/
+  - Spring IO Website: <http://www.spring.io>
+  - Spring Boot: <https://projects.spring.io/spring-boot/>
+  - Spring Cloud: <https://projects.spring.io/spring-cloud/>
+  - Spring Projects: <http://spring.io/projects>
+  - Spring Guides: <http://spring.io/guides>
+  - Spring Document: <http://spring.io/guides>
+  - Spring Boot Docs: <http://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/>
+  - Spring Boot API: <http://docs.spring.io/spring-boot/docs/current/api/>
 - Stay Connected
-  - Twitter: http://twitter.com/springcentral
-  - YouTube: http://spring.io/video
-  - Questions: http://spring.io/questions
-  - JIRA: http://jira.spring.io
-  - Blog: http://spring.io/blog
+  - Twitter: <http://twitter.com/springcentral>
+  - YouTube: <http://spring.io/video>
+  - Questions: <http://spring.io/questions>
+  - JIRA: <http://jira.spring.io>
+  - Blog: <http://spring.io/blog>
 - Help
-  - Stack Overflow: http://stackoverflow.com/questions/tagged/spring-boot
+  - Stack Overflow: <http://stackoverflow.com/questions/tagged/spring-boot>
+- Serverless Architecture
+  - [Building a Serverless Microservice CRUD RESTful API with MongoDB](https://hackernoon.com/building-a-serverless-microservice-crud-restful-api-with-mongodb-6e0316efe280), Richard Freeman, PhD, Jan 29 - 2019.
 - Service Mesh
   - P. Jamshidi, C. Pahl, N. C. Mendonça, J. Lewis and S. Tilkov, "[Microservices: The Journey So Far and Challenges Ahead](https://doi.org/10.1109/MS.2018.2141039)", in IEEE Software, vol. 35, no. 3, pp. 24-35, May/June 2018.
   - [Pattern: Service Mesh](http://philcalcado.com/2017/08/03/pattern_service_mesh.html), by Phil Calçado, Aug 3, 2017
@@ -98,6 +100,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [Ansible: Up and Running](http://www.ansiblebook.com/)
 - [Docker Tutorials and Labs](https://github.com/docker/labs) (This repo contains Docker labs and tutorials authored both by Docker, and by members of the community)
 - [Mike Coleman (Docker Employee) "Docker for the Virtualization Admin" eBook](https://github.com/mikegcoleman/docker101/blob/master/Docker_eBook_Jan_2017.pdf)
+- [What Is Containerization?](https://hackernoon.com/what-is-containerization-83ae53a709a6), by Shaan RayFollow, Feb 5 - 2019.
 - [Entrega contínua em Android: Como automatizar a distribuição de apps](https://www.casadocodigo.com.br/products/livro-entrega-continua-android)
 - [Jenkins: Automatize tudo sem complicações](https://www.casadocodigo.com.br/products/livro-jenkins)
 - [Testes automatizados de software: Um guia prático](https://www.casadocodigo.com.br/products/livro-testes-de-software)
@@ -164,19 +167,19 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Business Cases
 
-* [Monitoring containerized microservices with a centralized logging architecture](https://hackernoon.com/monitoring-containerized-microservices-with-a-centralized-logging-architecture-ba6771c1971a). A case study of Project Horus, Sep 12, 2018.
-* The Smart Parking story - [Part 1](https://cloudplatform.googleblog.com/2018/04/Cloud-native-architecture-with-serverless-microservices-the-Smart-Parking-story.html), [Part2](https://cloudplatform.googleblog.com/2018/04/implementing-an-event-driven-architecture-on-serverless-the-Smart-Parking-story.html) and [Part 3](https://cloudplatform.googleblog.com/2018/04/what-we-learned-doing-serverless-the-Smart-Parking-story.html), Apr 12, 2018
-* [Arquiteturas reativas e a experiência Mobile no Magazine Luiza](https://www.infoq.com/br/presentations/arquiteturas-reativas-e-a-experiencia-mobile-no-magazine-luiza), Jan 31, 2018.
-* [Autorização de transações no Nubank: Consumindo serviços anos 80 com tecnologias atuais](https://www.infoq.com/br/presentations/consumindo-servicos-anos-80-com-tecnologias-atuais), Dec 06, 2017.
-* [The Top 10 Adages in Continuous Deployment](https://www.infoq.com/articles/cd-adages), by InfoQ on Sep 19, 2017
-* [Spotify Lessons: Learning to Let Go of Machines](https://www.infoq.com/presentations/spotify-infrastructure-deployment), by James Wen on Sep 19, 2017
-* [How we build microservices at Karma](https://blog.karmawifi.com/how-we-build-microservices-at-karma-71497a89bfb4), Apr 4, 2016
-* [Building Products at SoundCloud — Part I: Dealing with the Monolith](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-1-dealing-with-the-monolith), By Phil Calçado on June 11th, 2014
-* [Building Products at SoundCloud—Part II: Breaking the Monolith](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-2-breaking-the-monolith), By Phil Calçado on June 12th, 2014
-* [Preparing the Netflix API for Deployment](https://medium.com/netflix-techblog/preparing-the-netflix-api-for-deployment-786d8f58090d), by Netflix Technology Blog on Nov 18, 2013
-* [Continuous Deployment at IMVU: Doing the Impossible Fifty Times a Day](http://timothyfitz.com/2009/02/10/continuous-deployment-at-imvu-doing-the-impossible-fifty-times-a-day/), by Timothy Fitz on February 10, 2009
-* CA Technologies’ report gives some insights into business’ different understanding of DevOps and can be found at <http://www.ca.com/us/collateral/white-papers/na/techinsights-report-what-smart-businesses-know-about-devops.aspx>
-* XebiaLabs has a wide range of surveys and state of industry reports on DevOps-related topics that can be found at <http://xebialabs.com/xl-resources/whitepapers/>
+- [Monitoring containerized microservices with a centralized logging architecture](https://hackernoon.com/monitoring-containerized-microservices-with-a-centralized-logging-architecture-ba6771c1971a). A case study of Project Horus, Sep 12, 2018.
+- The Smart Parking story - [Part 1](https://cloudplatform.googleblog.com/2018/04/Cloud-native-architecture-with-serverless-microservices-the-Smart-Parking-story.html), [Part2](https://cloudplatform.googleblog.com/2018/04/implementing-an-event-driven-architecture-on-serverless-the-Smart-Parking-story.html) and [Part 3](https://cloudplatform.googleblog.com/2018/04/what-we-learned-doing-serverless-the-Smart-Parking-story.html), Apr 12, 2018
+- [Arquiteturas reativas e a experiência Mobile no Magazine Luiza](https://www.infoq.com/br/presentations/arquiteturas-reativas-e-a-experiencia-mobile-no-magazine-luiza), Jan 31, 2018.
+- [Autorização de transações no Nubank: Consumindo serviços anos 80 com tecnologias atuais](https://www.infoq.com/br/presentations/consumindo-servicos-anos-80-com-tecnologias-atuais), Dec 06, 2017.
+- [The Top 10 Adages in Continuous Deployment](https://www.infoq.com/articles/cd-adages), by InfoQ on Sep 19, 2017
+- [Spotify Lessons: Learning to Let Go of Machines](https://www.infoq.com/presentations/spotify-infrastructure-deployment), by James Wen on Sep 19, 2017
+- [How we build microservices at Karma](https://blog.karmawifi.com/how-we-build-microservices-at-karma-71497a89bfb4), Apr 4, 2016
+- [Building Products at SoundCloud — Part I: Dealing with the Monolith](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-1-dealing-with-the-monolith), By Phil Calçado on June 11th, 2014
+- [Building Products at SoundCloud—Part II: Breaking the Monolith](https://developers.soundcloud.com/blog/building-products-at-soundcloud-part-2-breaking-the-monolith), By Phil Calçado on June 12th, 2014
+- [Preparing the Netflix API for Deployment](https://medium.com/netflix-techblog/preparing-the-netflix-api-for-deployment-786d8f58090d), by Netflix Technology Blog on Nov 18, 2013
+- [Continuous Deployment at IMVU: Doing the Impossible Fifty Times a Day](http://timothyfitz.com/2009/02/10/continuous-deployment-at-imvu-doing-the-impossible-fifty-times-a-day/), by Timothy Fitz on February 10, 2009
+- CA Technologies’ report gives some insights into business’ different understanding of DevOps and can be found at <http://www.ca.com/us/collateral/white-papers/na/techinsights-report-what-smart-businesses-know-about-devops.aspx>
+- XebiaLabs has a wide range of surveys and state of industry reports on DevOps-related topics that can be found at <http://xebialabs.com/xl-resources/whitepapers/>
 
 ### Research Trends
 
@@ -210,18 +213,18 @@ Para participar deste curso é desejável que os participantes tenham:
 
 #### Artigos
 
-* [An empirical study on principles and practices of continuous delivery and deployment](https://peerj.com/preprints/1889.pdf)
-* [A biblioteca do Desenvolvedor de Software dos dias de hoje](http://vinicius3w.com/education/a-biblioteca-do-desenvolvedor-de-software-dos-dias-de-hoje/)
-* [The Difference between SOA and Microservices?](https://www.infoq.com/news/2017/07/soaandmicroservices?utm_source=infoqEmail&utm_medium=SpecialNL_EditorialContent&utm_campaign=08242017_SpecialNL&forceSponsorshipId=1389)
+- [An empirical study on principles and practices of continuous delivery and deployment](https://peerj.com/preprints/1889.pdf)
+- [A biblioteca do Desenvolvedor de Software dos dias de hoje](http://vinicius3w.com/education/a-biblioteca-do-desenvolvedor-de-software-dos-dias-de-hoje/)
+- [The Difference between SOA and Microservices?](https://www.infoq.com/news/2017/07/soaandmicroservices?utm_source=infoqEmail&utm_medium=SpecialNL_EditorialContent&utm_campaign=08242017_SpecialNL&forceSponsorshipId=1389)
 
 ### Avaliação
 
 - **Projeto em equipe com até 3 membros** [70%]
   - Caráter puramente acadêmico e educacional. O projeto vai tratar de diversos aspectos do desenvolvimento de uma aplicação simples com arquitetura de microsserviços.
 - Observações:
-  - Entrega fora do prazo: **redutor de 1 ponto por dia de atraso**. 
+  - Entrega fora do prazo: **redutor de 1 ponto por dia de atraso**.
   - Atraso máximo: **1 (uma) semana**. Após esse prazo, será dada nota **zero** para a respectiva atividade de avaliação.
-  - Trabalhos com referências bibliográficas inconsistentes terão um redutor no conteúdo técnico. 
+  - Trabalhos com referências bibliográficas inconsistentes terão um redutor no conteúdo técnico.
   - Trabalhos **“CTRL-C + CTRL-V”** terão nota **zero** (vale tanto para cópia de colegas, como para trabalhos copiados da internet).
 - **Exercício Escolar Teórico Individual e/ou Atividades Práticas Individuais** [30%]
   - Exercício com questões objetivas
@@ -248,7 +251,7 @@ Para participar deste curso é desejável que os participantes tenham:
 
 ### Tópicos
 
-- Welcome, Methodology, Course Introduction (Core Topics)	               	
+- Welcome, Methodology, Course Introduction (Core Topics)
 - Introduction to Microservices Concepts
 - Demystifying Microservices
 - Building Microservices with Spring Boot
@@ -264,44 +267,44 @@ Para participar deste curso é desejável que os participantes tenham:
 
 ### Plano de aulas
 
-| # | Class    | Topics                               | Assignments       |
-|:-:|:--------:|--------------------------------------|:-----------------:|
-| 01 | Feb-26  | [Welcome, Methodology, Course Introduction (Core Topics)](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-01.pdf) |  |
-| 02 | Feb-28  | [Introduction to Microservices Concepts](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-01.pdf) | [HW1](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW1.md) |
-| 03 | Mar-05  | [Demystifying Microservices 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-02.pdf) |                   |
-| 04 | Mar-07  | [Demystifying Microservices 2/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-02.pdf) | [HW2](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW2.md) |  |
-| 05 | Mar-12  | [Building Microservices with Spring Boot 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-03.pdf) |                  |
-| 06 | Mar-14  | [Building Microservices with Spring Boot 2/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-03.pdf) | [HW3](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW3.md) |
-| 07 | Mar-19  | [Applying Microservices Concepts 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-04.pdf) |                  |
-| 08 | Mar-21  | [Applying Microservices Concepts 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-04.pdf) | [HW4](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW4.md) |  |
-| 09 | Mar-26  | [Microservices Evolution – A Case Study 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-05.pdf)  |                   |
-| 10 | Mar-28  | [Microservices Evolution – A Case Study 2/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-05.pdf) | [HW5](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW5.md) |
-| 11 | Apr-02  | [Scaling Microservices with Spring Cloud 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-06.pdf) |                   |
-| 12 | Apr-04  | [Scaling Microservices with Spring Cloud 2/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-06.pdf) | [HW6](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW6.md) |
-| 13 | Apr-09  | [Autoscaling Microservices 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-07.pdf) |                   |
-| 14 | Apr-11  | [Autoscaling Microservices 2/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-07.pdf) | [HW7](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-07.pdf) |
-| 15 | Apr-16  | [Background: Operations](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-09.pdf) ([Chapter 3 from Len Bass' book](https://www.amazon.com/DevOps-Software-Architects-Perspective-Engineering/dp/0134049845)) | [HW9](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW9.md) |
-| 16 | Apr-18  | [The Deployment Pipeline](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-10.pdf) ([Chapter 4 from Len Bass' book](https://www.amazon.com/DevOps-Software-Architects-Perspective-Engineering/dp/0134049845)) |                   |
-| 17 | Apr-23  | [Logging and Monitoring Microservices 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-08.pdf) |  |
-| 18 | Apr-25  | [Logging and Monitoring Microservices 2/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-08.pdf) | [HW8](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW8.md) |
-| 19 | Apr-30  | [Containerizing Microservices with Docker 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-11.pdf) |                   |
-| 20 | May-02  | [Containerizing Microservices with Docker 2/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-11.pdf) | [HW11.1](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW11-1.md), [HW11.2](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW11-2.md) |
-| 21 | May-07  | [Managing Dockerized Microservices with Mesos and Marathon 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-12.pdf) |                   |
-| 22 | May-09  | [Managing Dockerized Microservices with Mesos and Marathon 2/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-12.pdf) | [HW12](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW12.md) |
-| 23 | May-14  | [Introduction to Kubernetes 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-13.pdf) |                   |
-| 24 | May-16  | [Introduction to Kubernetes 2/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-13.pdf) |                   |
-| 25 | May-21  | [The Microservices Development Life Cycle 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-14.pdf) |                   |
-| 26 | May-23  | [The Microservices Development Life Cycle 2/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-14.pdf) |                   |
-| 27 | May-28  | Project execution time |                   |
-| 28 | May-30  | Follow-up of project execution |                   |
-| 29 | Jun-04  | Project execution time |                   |
-| 30 | Jun-06  | Follow-up of project execution  |                   |
-| 31 | Jun-11  | Project execution time |                   |
-| 32 | Jun-13  | Follow-up of project execution |                   |
-| 33 | Jun-18  | Project presentation |                   |
-| 34 | Jun-20  | Project presentation |                   |
-| 35 | Jun-25  |                                      |                   |
-| 36 | Jun-27  | Publication of final results |                   |
+|  #  | Class  | Topics                                                                                                                                                                                                                                                    |                                                                                 Assignments                                                                                  |
+| :-: | :----: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| 01  | Feb-26 | [Welcome, Methodology, Course Introduction (Core Topics)](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-01.pdf)                                                                                            |                                                                                                                                                                              |
+| 02  | Feb-28 | [Introduction to Microservices Concepts](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-01.pdf)                                                                                                             |                                               [HW1](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW1.md)                                                |
+| 03  | Mar-05 | [Demystifying Microservices 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-02.pdf)                                                                                                                     |                                                                                                                                                                              |
+| 04  | Mar-07 | [Demystifying Microservices 2/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-02.pdf)                                                                                                                     |                                               [HW2](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW2.md)                                                |  |
+| 05  | Mar-12 | [Building Microservices with Spring Boot 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-03.pdf)                                                                                                        |                                                                                                                                                                              |
+| 06  | Mar-14 | [Building Microservices with Spring Boot 2/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-03.pdf)                                                                                                        |                                               [HW3](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW3.md)                                                |
+| 07  | Mar-19 | [Applying Microservices Concepts 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-04.pdf)                                                                                                                |                                                                                                                                                                              |
+| 08  | Mar-21 | [Applying Microservices Concepts 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-04.pdf)                                                                                                                |                                               [HW4](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW4.md)                                                |  |
+| 09  | Mar-26 | [Microservices Evolution – A Case Study 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-05.pdf)                                                                                                         |                                                                                                                                                                              |
+| 10  | Mar-28 | [Microservices Evolution – A Case Study 2/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-05.pdf)                                                                                                         |                                               [HW5](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW5.md)                                                |
+| 11  | Apr-02 | [Scaling Microservices with Spring Cloud 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-06.pdf)                                                                                                        |                                                                                                                                                                              |
+| 12  | Apr-04 | [Scaling Microservices with Spring Cloud 2/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-06.pdf)                                                                                                        |                                               [HW6](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW6.md)                                                |
+| 13  | Apr-09 | [Autoscaling Microservices 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-07.pdf)                                                                                                                      |                                                                                                                                                                              |
+| 14  | Apr-11 | [Autoscaling Microservices 2/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-07.pdf)                                                                                                                      |                                  [HW7](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-07.pdf)                                  |
+| 15  | Apr-16 | [Background: Operations](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-09.pdf) ([Chapter 3 from Len Bass' book](https://www.amazon.com/DevOps-Software-Architects-Perspective-Engineering/dp/0134049845))  |                                               [HW9](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW9.md)                                                |
+| 16  | Apr-18 | [The Deployment Pipeline](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-10.pdf) ([Chapter 4 from Len Bass' book](https://www.amazon.com/DevOps-Software-Architects-Perspective-Engineering/dp/0134049845)) |                                                                                                                                                                              |
+| 17  | Apr-23 | [Logging and Monitoring Microservices 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-08.pdf)                                                                                                           |                                                                                                                                                                              |
+| 18  | Apr-25 | [Logging and Monitoring Microservices 2/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-08.pdf)                                                                                                           |                                               [HW8](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW8.md)                                                |
+| 19  | Apr-30 | [Containerizing Microservices with Docker 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-11.pdf)                                                                                                       |                                                                                                                                                                              |
+| 20  | May-02 | [Containerizing Microservices with Docker 2/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-11.pdf)                                                                                                       | [HW11.1](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW11-1.md), [HW11.2](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW11-2.md) |
+| 21  | May-07 | [Managing Dockerized Microservices with Mesos and Marathon 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-12.pdf)                                                                                      |                                                                                                                                                                              |
+| 22  | May-09 | [Managing Dockerized Microservices with Mesos and Marathon 2/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-12.pdf)                                                                                      |                                              [HW12](https://github.com/vinicius3w/if1007-Microservices/blob/master/hw/HW12.md)                                               |
+| 23  | May-14 | [Introduction to Kubernetes 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-13.pdf)                                                                                                                     |                                                                                                                                                                              |
+| 24  | May-16 | [Introduction to Kubernetes 2/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-13.pdf)                                                                                                                     |                                                                                                                                                                              |
+| 25  | May-21 | [The Microservices Development Life Cycle 1/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-14.pdf)                                                                                                       |                                                                                                                                                                              |
+| 26  | May-23 | [The Microservices Development Life Cycle 2/2](https://github.com/vinicius3w/if1007-Microservices/blob/master/lectures/if1007-microservices-14.pdf)                                                                                                       |                                                                                                                                                                              |
+| 27  | May-28 | Project execution time                                                                                                                                                                                                                                    |                                                                                                                                                                              |
+| 28  | May-30 | Follow-up of project execution                                                                                                                                                                                                                            |                                                                                                                                                                              |
+| 29  | Jun-04 | Project execution time                                                                                                                                                                                                                                    |                                                                                                                                                                              |
+| 30  | Jun-06 | Follow-up of project execution                                                                                                                                                                                                                            |                                                                                                                                                                              |
+| 31  | Jun-11 | Project execution time                                                                                                                                                                                                                                    |                                                                                                                                                                              |
+| 32  | Jun-13 | Follow-up of project execution                                                                                                                                                                                                                            |                                                                                                                                                                              |
+| 33  | Jun-18 | Project presentation                                                                                                                                                                                                                                      |                                                                                                                                                                              |
+| 34  | Jun-20 | Project presentation                                                                                                                                                                                                                                      |                                                                                                                                                                              |
+| 35  | Jun-25 |                                                                                                                                                                                                                                                           |                                                                                                                                                                              |
+| 36  | Jun-27 | Publication of final results                                                                                                                                                                                                                              |                                                                                                                                                                              |
 
 ### Disciplinas correlatas e/ou influenciadas
 
