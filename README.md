@@ -79,6 +79,8 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
   - Blog: <http://spring.io/blog>
 - Help
   - Stack Overflow: <http://stackoverflow.com/questions/tagged/spring-boot>
+- Cloud Computing
+  - [Public Cloud Services Comparison](http://comparecloud.in)
 - Serverless Architecture
   - [Building a Serverless Microservice CRUD RESTful API with MongoDB](https://hackernoon.com/building-a-serverless-microservice-crud-restful-api-with-mongodb-6e0316efe280), Richard Freeman, PhD, Jan 29 - 2019.
 - Service Mesh
