@@ -9,8 +9,9 @@
 - **Professor** Vinicius Cardoso Garcia ([vcg@cin.ufpe.br](mailto:vcg@cin.ufpe.br))
 
 ### Disciplinas
-* Pós-Graduação: IN1062 - Tópicos Avançados em Sistemas Distribuídos 3
-* Graduação: IF1007 - Tópicos Avançados em Sistemas de Informação 4
+
+- Pós-Graduação: IN1062 - Tópicos Avançados em Sistemas Distribuídos 3
+- Graduação: IF1007 - Tópicos Avançados em Sistemas de Informação 4
 
 ### Local
 
@@ -93,6 +94,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [The cloud native application: Microservices with Spring Boot and Spring Cloud](https://www.infoq.com/br/presentations/the-cloud-native-application-microservices-with-spring-boot-and-spring-cloud)
 - [Production-Ready Microservices - Building Standardized Systems Across an Engineering Organization](http://shop.oreilly.com/product/0636920053675.do)
 - [Microservices vs. Service-Oriented Architecture](https://www.nginx.com/resources/library/microservices-vs-soa/)
+- [The Difference between SOA and Microservices?](https://www.infoq.com/news/2017/07/soaandmicroservices)
 - [Canary deployments, A/B testing, and microservices with Ambassador](https://www.datawire.io/faster/canary-workflow/)
 - [Systems Performance: Enterprise and the Cloud](http://www.brendangregg.com/sysperfbook.html)
 - [Designing Data-Intensive Applications](http://www.dataintensive.net/)
@@ -118,6 +120,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Blogs, Disciplinas, Treinamentos
 
+- [A biblioteca do Desenvolvedor de Software dos dias de hoje](http://vinicius3w.com/education/a-biblioteca-do-desenvolvedor-de-software-dos-dias-de-hoje/)
 - [12 Fractured Apps](https://medium.com/@kelseyhightower/12-fractured-apps-1080c73d481c)
 - [The twelve-factor app](https://12factor.net/)
 - [The Google Cloud Developer Cheat Sheet](https://medium.com/google-cloud/the-google-cloud-developer-cheat-sheet-429775bd6d11?_lrsc=d1590800-bec4-4e82-9240-4e63d7ccbb77)
@@ -185,7 +188,6 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Research Trends
 
-- A. Balalaie, A. Heydarnoori and P. Jamshidi, "[Microservices Architecture Enables DevOps: Migration to a Cloud-Native Architecture](https://www.computer.org/csdl/mags/so/2016/03/mso2016030042-abs.html)," in IEEE Software, vol. 33, no. 3, pp. 42-52, 2016. doi:10.1109/MS.2016.64
 - G. Pallis, D. Trihinas, A. Tryfonos and M. Dikaiakos, "[DevOps as a Service: Pushing the Boundaries of Microservice Adoption](https://doi.org/10.1109/MIC.2018.032501519)," in IEEE Internet Computing, vol. 22, no. 3, pp. 65-71, May./Jun. 2018. doi: 10.1109/MIC.2018.032501519
 - D. Taibi and V. Lenarduzzi, "[On the Definition of Microservice Bad Smells](https://ieeexplore.ieee.org/document/8354414/?source=tocalert&dld=Y2luLnVmcGUuYnI%3D)," in IEEE Software, vol. 35, no. 3, pp. 56-62, May/June 2018. doi: 10.1109/MS.2018.2141031
 - Garriga M. (2018) [Towards a Taxonomy of Microservices Architectures](https://link.springer.com/chapter/10.1007%2F978-3-319-74781-1_15). In: Cerone A., Roveri M. (eds) Software Engineering and Formal Methods. SEFM 2017. Lecture Notes in Computer Science, vol 10729. Springer, Cham
@@ -195,6 +197,8 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - E. Woods, "[Should Architects Code?](http://ieeexplore.ieee.org/document/8048649/)," in IEEE Software, vol. 34, no. 5, pp. 20-21, 2017. doi: 10.1109/MS.2017.3571574
 - J. C. Carver, B. Penzenstadler, A. Serebrenik and A. Yamashita, "[The Human Factor](http://ieeexplore.ieee.org/document/8048655/)," in IEEE Software, vol. 34, no. 5, pp. 90-92, 2017. doi: 10.1109/MS.2017.3571580
 - K. Carter, "[Francois Raynaud on DevSecOps](http://ieeexplore.ieee.org/document/8048652/)," in IEEE Software, vol. 34, no. 5, pp. 93-96, 2017. doi: 10.1109/MS.2017.3571578
+- A. Balalaie, A. Heydarnoori and P. Jamshidi, "[Microservices Architecture Enables DevOps: Migration to a Cloud-Native Architecture](https://www.computer.org/csdl/mags/so/2016/03/mso2016030042-abs.html)," in IEEE Software, vol. 33, no. 3, pp. 42-52, 2016. doi:10.1109/MS.2016.64
+- Schermann G, Cito J, Leitner P, Zdun U, Gall H. 2016. [An empirical study on principles and practices of continuous delivery and deployment](https://peerj.com/preprints/1889/). PeerJ Preprints 4:e1889v1. DOI: 10.7287/peerj.preprints.1889v1.
 
 ### Objetivos
 
@@ -212,12 +216,6 @@ Para participar deste curso é desejável que os participantes tenham:
 - Conhecimento básico de arquitetura de computador, sistemas operacionais, redes, engenharia de software e banco de dados.
 - Conhecimento de modelos de processo de desenvolvimento de software, em especial Metodologias Ágeis, testes de software. Conhecimento em TDD e BDD serão uma vantagem. Maiores informações podem ser consultadas no site da disciplina de [Engenharia de Software (IF977)](http://www.cin.ufpe.br/~if977).
 - Experiência em sistemas de computação, armazenamento, infraestruturas de rede e computação em nuvem será uma vantagem.
-
-#### Artigos
-
-- [An empirical study on principles and practices of continuous delivery and deployment](https://peerj.com/preprints/1889.pdf)
-- [A biblioteca do Desenvolvedor de Software dos dias de hoje](http://vinicius3w.com/education/a-biblioteca-do-desenvolvedor-de-software-dos-dias-de-hoje/)
-- [The Difference between SOA and Microservices?](https://www.infoq.com/news/2017/07/soaandmicroservices?utm_source=infoqEmail&utm_medium=SpecialNL_EditorialContent&utm_campaign=08242017_SpecialNL&forceSponsorshipId=1389)
 
 ### Avaliação
 
@@ -248,8 +246,8 @@ Para participar deste curso é desejável que os participantes tenham:
 
 ### Recursos
 
-- [IF1007 Slack team](http://if1007-2018-1.slack.com)
-- [Pkay-with-docker](http://play-with-docker.com/): a simple, interactive and fun playground to learn Docker
+- [Play with Docker](https://labs.play-with-docker.com): A simple, interactive and fun playground to learn Docker
+- [Play with Kubernetes](https://labs.play-with-k8s.com): A simple, interactive and fun playground to learn Kubernetes
 
 ### Tópicos
 
