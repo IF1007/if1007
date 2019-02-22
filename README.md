@@ -117,6 +117,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [Kubernetes best practices: Resource requests and limits](https://cloudplatform.googleblog.com/2018/05/Kubernetes-best-practices-Resource-requests-and-limits.html)
 - [Package Management Basics: apt, yum, dnf, pkg (by Digital Ocean](https://www.digitalocean.com/community/tutorials/package-management-basics-apt-yum-dnf-pkg)
 - [Getting Started with Feign Client in Spring](http://codeboje.de/getting-started-feignclient/)
+- [Developing Microservices with Behavior Driven Development and Interface Oriented Design](https://www.infoq.com/articles/microservices-bdd-interface-oriented), by Kenneth Pugh, Jan 26, 2019
 
 ### Blogs, Disciplinas, Treinamentos
 
@@ -172,6 +173,8 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Business Cases
 
+- [Experiences Moving from Microservices to Workflows at Jet.com](https://www.infoq.com/news/2019/02/migrate-microservices-workflows), by Jan Stenberg, Feb 14, 2019
+- [Microservices after Two Years](https://georgestocker.com/2019/01/21/microservices-after-two-years/), by  George Stocker, January 21, 2019
 - [Monitoring containerized microservices with a centralized logging architecture](https://hackernoon.com/monitoring-containerized-microservices-with-a-centralized-logging-architecture-ba6771c1971a). A case study of Project Horus, Sep 12, 2018.
 - The Smart Parking story - [Part 1](https://cloudplatform.googleblog.com/2018/04/Cloud-native-architecture-with-serverless-microservices-the-Smart-Parking-story.html), [Part2](https://cloudplatform.googleblog.com/2018/04/implementing-an-event-driven-architecture-on-serverless-the-Smart-Parking-story.html) and [Part 3](https://cloudplatform.googleblog.com/2018/04/what-we-learned-doing-serverless-the-Smart-Parking-story.html), Apr 12, 2018
 - [Arquiteturas reativas e a experiência Mobile no Magazine Luiza](https://www.infoq.com/br/presentations/arquiteturas-reativas-e-a-experiencia-mobile-no-magazine-luiza), Jan 31, 2018.
@@ -188,6 +191,8 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Research Trends
 
+- [O’Reilly Publishes “The State of Microservices Maturity” Report](https://www.infoq.com/news/2019/02/Oreilly-microservices-maturity), by Reda Hmeid, Feb 3, 2019
+- [Architecture and Design InfoQ Trends Report - January 2019](https://www.infoq.com/articles/architecture-trends-2019), by Daniel Bryant & Thomas Betts & Charles Humble, Jan 24, 2019
 - G. Pallis, D. Trihinas, A. Tryfonos and M. Dikaiakos, "[DevOps as a Service: Pushing the Boundaries of Microservice Adoption](https://doi.org/10.1109/MIC.2018.032501519)," in IEEE Internet Computing, vol. 22, no. 3, pp. 65-71, May./Jun. 2018. doi: 10.1109/MIC.2018.032501519
 - D. Taibi and V. Lenarduzzi, "[On the Definition of Microservice Bad Smells](https://ieeexplore.ieee.org/document/8354414/?source=tocalert&dld=Y2luLnVmcGUuYnI%3D)," in IEEE Software, vol. 35, no. 3, pp. 56-62, May/June 2018. doi: 10.1109/MS.2018.2141031
 - Garriga M. (2018) [Towards a Taxonomy of Microservices Architectures](https://link.springer.com/chapter/10.1007%2F978-3-319-74781-1_15). In: Cerone A., Roveri M. (eds) Software Engineering and Formal Methods. SEFM 2017. Lecture Notes in Computer Science, vol 10729. Springer, Cham
