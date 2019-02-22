@@ -191,6 +191,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Research Trends
 
+- Fan, C.-Y., & Ma, S.-P. (2017). [Migrating Monolithic Mobile Application to Microservice Architecture: An Experiment Report](https://doi.org/10.1109/AIMS.2017.23). In 2017 IEEE International Conference on AI & Mobile Services (AIMS) (pp. 109–112). IEEE.
 - [O’Reilly Publishes “The State of Microservices Maturity” Report](https://www.infoq.com/news/2019/02/Oreilly-microservices-maturity), by Reda Hmeid, Feb 3, 2019
 - [Architecture and Design InfoQ Trends Report - January 2019](https://www.infoq.com/articles/architecture-trends-2019), by Daniel Bryant & Thomas Betts & Charles Humble, Jan 24, 2019
 - G. Pallis, D. Trihinas, A. Tryfonos and M. Dikaiakos, "[DevOps as a Service: Pushing the Boundaries of Microservice Adoption](https://doi.org/10.1109/MIC.2018.032501519)," in IEEE Internet Computing, vol. 22, no. 3, pp. 65-71, May./Jun. 2018. doi: 10.1109/MIC.2018.032501519
