@@ -152,6 +152,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - Docker
   - [Docker In A Nutshell](https://hackernoon.com/docker-in-a-nutshell-6b3985a58d68)
   - [7 best practices for building containers](https://cloudplatform.googleblog.com/2018/07/7-best-practices-for-building-containers.html)
+  - [VMs vs. Containers for Microservices](https://hackernoon.com/vms-vs-containers-for-microservices-a6f559970704), by Spruha Pandya -- Mar 19, 2019
 - Kubernetes
   - [Instalando e configurando kubernetes localmente com o minikube no Mac OSX](http://viniciusgarcia.me/devops/Instalando-e-configurando-kubernetes-localmente-com-o-minikube-no-Mac-OSX/), by Vinicius Garcia, Jan 03 -- 2019
   - [Kubernetes For Developers (by nirmata): Pods (Part 1)](https://www.nirmata.com/2018/02/07/kubernetes-for-developers-pods-part-1/)
