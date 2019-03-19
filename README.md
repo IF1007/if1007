@@ -21,7 +21,7 @@
 
 ### Edições passadas
 
-- [Semestre 2018.1](https://github.com/IF1007/if1007/releases/tag/if1007-2018-1)
+- [Semestre 2018.1](http://bit.ly/vcg-microservices-2018-1)
 
 ### Comunicação
 
