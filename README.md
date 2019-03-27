@@ -102,6 +102,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [The Evolution of DevSecOps Revisited](https://cloudsentry.evident.io/evolution-devsecops-revisited/)
 - [Containers com Docker: Do desenvolvimento à produção](https://www.casadocodigo.com.br/products/livro-docker)
 - [Ansible: Up and Running](http://www.ansiblebook.com/)
+- [WTF is Docker?](http://bit.ly/2FFDyIA), A brief explanation of Docker and Docker compose in English
 - [Docker Tutorials and Labs](https://github.com/docker/labs) (This repo contains Docker labs and tutorials authored both by Docker, and by members of the community)
 - [Mike Coleman (Docker Employee) "Docker for the Virtualization Admin" eBook](https://github.com/mikegcoleman/docker101/blob/master/Docker_eBook_Jan_2017.pdf)
 - [What Is Containerization?](https://hackernoon.com/what-is-containerization-83ae53a709a6), by Shaan RayFollow, Feb 5 - 2019.
