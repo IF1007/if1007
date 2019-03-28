@@ -40,6 +40,7 @@ No entanto, os microservices vêm com seus próprios desafios, como monitorament
 Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que podem ser recomendados:
 
 - [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
+- LEWIS, J.; FOWLER, M. [**Microservices: a definition of this new architectural term**](https://martinfowler.com/articles/microservices.html). MartinFowler. com, v. 25, Mar 2014.
 - X. Larrucea, I. Santamaria, R. Colomo-Palacios and C. Ebert, "**Microservices**," in IEEE Software, vol. 35, no. 3, pp. 96-100, May/June 2018. doi: [10.1109/MS.2018.2141030](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8354423&isnumber=8354413)
 - P. Jamshidi, C. Pahl, N. C. Mendonça, J. Lewis and S. Tilkov, "[Microservices: The Journey So Far and Challenges Ahead](https://ieeexplore.ieee.org/document/8354433/)," in IEEE Software, vol. 35, no. 3, pp. 24-35, May/June 2018. doi: 10.1109/MS.2018.2141039
 - [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
@@ -125,6 +126,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [A biblioteca do Desenvolvedor de Software dos dias de hoje](http://vinicius3w.com/education/a-biblioteca-do-desenvolvedor-de-software-dos-dias-de-hoje/)
 - [12 Fractured Apps](https://medium.com/@kelseyhightower/12-fractured-apps-1080c73d481c)
 - [The twelve-factor app](https://12factor.net/)
+- [THE RISE OF MICROSERVICES](https://www.appcentrica.com/the-rise-of-microservices/)
 - [The Google Cloud Developer Cheat Sheet](https://medium.com/google-cloud/the-google-cloud-developer-cheat-sheet-429775bd6d11?_lrsc=d1590800-bec4-4e82-9240-4e63d7ccbb77)
 - [Angular Libraries and Microservices](https://antoniogoncalves.org/2018/08/13/angular-libraries-and-microservices/)
 - [Principles of Container-based Application Design](http://blog.kubernetes.io/2018/03/principles-of-container-app-design.html)
@@ -267,6 +269,8 @@ Para participar deste curso é desejável que os participantes tenham:
 
 - [Play with Docker](https://labs.play-with-docker.com): A simple, interactive and fun playground to learn Docker
 - [Play with Kubernetes](https://labs.play-with-k8s.com): A simple, interactive and fun playground to learn Kubernetes
+- [Sock Shop](https://microservices-demo.github.io): A Microservices Demo Application
+- [Envoy Proxy](https://www.envoyproxy.io): An Open Source Edge and Service Proxy, Designed for Cloud-Native Applications
 
 ### Tópicos
 
