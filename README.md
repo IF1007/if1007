@@ -40,6 +40,7 @@ No entanto, os microservices vêm com seus próprios desafios, como monitorament
 Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que podem ser recomendados:
 
 - [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
+- LEWIS, J.; FOWLER, M. [**Microservices: a definition of this new architectural term**](https://martinfowler.com/articles/microservices.html). MartinFowler. com, v. 25, Mar 2014.
 - X. Larrucea, I. Santamaria, R. Colomo-Palacios and C. Ebert, "**Microservices**," in IEEE Software, vol. 35, no. 3, pp. 96-100, May/June 2018. doi: [10.1109/MS.2018.2141030](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8354423&isnumber=8354413)
 - P. Jamshidi, C. Pahl, N. C. Mendonça, J. Lewis and S. Tilkov, "[Microservices: The Journey So Far and Challenges Ahead](https://ieeexplore.ieee.org/document/8354433/)," in IEEE Software, vol. 35, no. 3, pp. 24-35, May/June 2018. doi: 10.1109/MS.2018.2141039
 - [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)
@@ -102,6 +103,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [The Evolution of DevSecOps Revisited](https://cloudsentry.evident.io/evolution-devsecops-revisited/)
 - [Containers com Docker: Do desenvolvimento à produção](https://www.casadocodigo.com.br/products/livro-docker)
 - [Ansible: Up and Running](http://www.ansiblebook.com/)
+- [WTF is Docker?](http://bit.ly/2FFDyIA), A brief explanation of Docker and Docker compose in English
 - [Docker Tutorials and Labs](https://github.com/docker/labs) (This repo contains Docker labs and tutorials authored both by Docker, and by members of the community)
 - [Mike Coleman (Docker Employee) "Docker for the Virtualization Admin" eBook](https://github.com/mikegcoleman/docker101/blob/master/Docker_eBook_Jan_2017.pdf)
 - [What Is Containerization?](https://hackernoon.com/what-is-containerization-83ae53a709a6), by Shaan RayFollow, Feb 5 - 2019.
@@ -124,6 +126,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [A biblioteca do Desenvolvedor de Software dos dias de hoje](http://vinicius3w.com/education/a-biblioteca-do-desenvolvedor-de-software-dos-dias-de-hoje/)
 - [12 Fractured Apps](https://medium.com/@kelseyhightower/12-fractured-apps-1080c73d481c)
 - [The twelve-factor app](https://12factor.net/)
+- [THE RISE OF MICROSERVICES](https://www.appcentrica.com/the-rise-of-microservices/)
 - [The Google Cloud Developer Cheat Sheet](https://medium.com/google-cloud/the-google-cloud-developer-cheat-sheet-429775bd6d11?_lrsc=d1590800-bec4-4e82-9240-4e63d7ccbb77)
 - [Angular Libraries and Microservices](https://antoniogoncalves.org/2018/08/13/angular-libraries-and-microservices/)
 - [Principles of Container-based Application Design](http://blog.kubernetes.io/2018/03/principles-of-container-app-design.html)
@@ -196,6 +199,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - Ricardo Colomo-Palacios, Eduardo Fernandes, Pedro Soto-Acosta, Xabier Larrucea, "[**A case analysis of enabling continuous software deployment through knowledge management**](https://doi.org/10.1016/j.ijinfomgt.2017.11.005)", International Journal of Information Management, Volume 40, 2018, Pages 186-189, ISSN 0268-4012.
 - G. Pallis, D. Trihinas, A. Tryfonos and M. Dikaiakos, "[**DevOps as a Service: Pushing the Boundaries of Microservice Adoption**](https://doi.org/10.1109/MIC.2018.032501519)," in IEEE Internet Computing, vol. 22, no. 3, pp. 65-71, May./Jun. 2018. doi: 10.1109/MIC.2018.032501519
 - D. Taibi and V. Lenarduzzi, "[**On the Definition of Microservice Bad Smells**](https://ieeexplore.ieee.org/document/8354414/?source=tocalert&dld=Y2luLnVmcGUuYnI%3D)," in IEEE Software, vol. 35, no. 3, pp. 56-62, May/June 2018. doi: 10.1109/MS.2018.2141031
+- Chen, R., Li, S., & Li, Z. (2017). "[**From Monolith to Microservices: A Dataflow-Driven Approach**](https://doi.org/10.1109/APSEC.2017.53)". In 2017 24th Asia-Pacific Software Engineering Conference (APSEC) (Vol. 2017–Decem, pp. 466–475). IEEE. https://doi.org/10.1109/APSEC.2017.53
 - Viral Gupta, P.K. Kapur, Deepak Kumar, "[**Modeling and measuring attributes influencing DevOps implementation in an enterprise using structural equation modeling**](http://www.sciencedirect.com/science/article/pii/S0950584916303317)", Information and Software Technology, Volume 92, 2017, Pages 75-91, ISSN 0950-5849, https://doi.org/10.1016/j.infsof.2017.07.010.
 - D. Taibi and V. Lenarduzzi, "[**On the Definition of Microservice Bad Smells**](https://ieeexplore.ieee.org/document/8354414/?source=tocalert&dld=Y2luLnVmcGUuYnI%3D)," in IEEE Software, vol. 35, no. 3, pp. 56-62, May/June 2018. doi: 10.1109/MS.2018.2141031
 - C. Barna, H. Khazaei, M. Fokaefs and M. Litoiu, "[**Delivering Elastic Containerized Cloud Applications to Enable DevOps**](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7968133&isnumber=7968114)," 2017 IEEE/ACM 12th International Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS), Buenos Aires, 2017, pp. 65-75. doi: 10.1109/SEAMS.2017.12 
@@ -203,6 +207,9 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - O'Connor, RV, Elger, P, Clarke, PM. "[**Continuous software engineering—A microservices architecture perspective**](https://doi.org/10.1002/smr.1866)". J Softw Evol Proc. 2017; 29: e1866. DOI: 10.1002/smr.1866
 - Garriga M. (2018) [**Towards a Taxonomy of Microservices Architectures**](https://link.springer.com/chapter/10.1007%2F978-3-319-74781-1_15). In: Cerone A., Roveri M. (eds) Software Engineering and Formal Methods. SEFM 2017. Lecture Notes in Computer Science, vol 10729. Springer, Cham
 - M. Waseem and P. Liang, "[**Microservices Architecture in DevOps**](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8312518&isnumber=8312505)," 2017 24th Asia-Pacific Software Engineering Conference Workshops (APSECW), Nanjing, 2017, pp. 13-14. doi: 10.1109/APSECW.2017.18.
+- Mazlami, G., Cito, J., & Leitner, P. (2017). "[**Extraction of Microservices from Monolithic Software Architectures**](https://doi.org/10.1109/ICWS.2017.61)". In 2017 IEEE International Conference on Web Services (ICWS) (pp. 524–531). IEEE. doi: 10.1109/ICWS.2017.61
+- Koschel, A., Astrova, I., & Dotterl, J. (2017). "[**Making the move to microservice architecture**](https://doi.org/10.23919/i-Society.2017.8354675)". In 2017 International Conference on Information Society (i-Society) (Vol. 2018–Janua, pp. 74–79). IEEE. doi: 10.23919/i-Society.2017.8354675
+- Bakshi, K. (2017). "[**Microservices-based software architecture and approaches**](https://doi.org/10.1109/AERO.2017.7943959)". In 2017 IEEE Aerospace Conference (pp. 1–8). IEEE. doi: 10.1109/AERO.2017.7943959
 - M. Kassab, J. F. DeFranco and P. A. Laplante, "[**Software Testing: The State of the Practice**](http://ieeexplore.ieee.org/document/8048665/)," in IEEE Software, vol. 34, no. 5, pp. 46-52, 2017. doi: 10.1109/MS.2017.3571582
 - R. Valerdi, "[**Why Software Is Like Baseball**](http://ieeexplore.ieee.org/document/8048622/)," in IEEE Software, vol. 34, no. 5, pp. 7-9, 2017. doi: 10.1109/MS.2017.3571583
 - M. Kersten, "[**Value Stream Architecture**](http://ieeexplore.ieee.org/document/8048647/)," in IEEE Software, vol. 34, no. 5, pp. 10-12, 2017. doi: 10.1109/MS.2017.3571573
@@ -211,6 +218,8 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - K. Carter, "[**Francois Raynaud on DevSecOps**](http://ieeexplore.ieee.org/document/8048652/)," in IEEE Software, vol. 34, no. 5, pp. 93-96, 2017. doi: 10.1109/MS.2017.3571578
 - T. Salah, M. Jamal Zemerly, Chan Yeob Yeun, M. Al-Qutayri and Y. Al-Hammadi, "[**The evolution of distributed systems towards microservices architecture**](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7856721&isnumber=7856645)," 2016 11th International Conference for Internet Technology and Secured Transactions (ICITST), Barcelona, 2016, pp. 318-325. doi: 10.1109/ICITST.2016.7856721. 
 - N. Alshuqayran, N. Ali and R. Evans, "[**A Systematic Mapping Study in Microservice Architecture**](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7796008&isnumber=7795993)," 2016 IEEE 9th International Conference on Service-Oriented Computing and Applications (SOCA), Macau, 2016, pp. 44-51.
+doi: 10.1109/SOCA.2016.15.
+- Lin, J., Lin, L. C., & Huang, S. (2016). "[**Migrating web applications to clouds with microservice architectures**](https://doi.org/10.1109/ICASI.2016.7539733)". In 2016 International Conference on Applied System Innovation (ICASI) (pp. 1–4). IEEE. https://doi.org/10.1109/ICASI.2016.7539733
 doi: 10.1109/SOCA.2016.15.
 - H. Kang, M. Le and S. Tao, "[**Container and Microservice Driven Design for Cloud Infrastructure DevOps**](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7484185&isnumber=7484146)," 2016 IEEE International Conference on Cloud Engineering (IC2E), Berlin, 2016, pp. 202-211. doi: 10.1109/IC2E.2016.26
 - A. Balalaie, A. Heydarnoori and P. Jamshidi, "[**Microservices Architecture Enables DevOps: Migration to a Cloud-Native Architecture**](https://www.computer.org/csdl/mags/so/2016/03/mso2016030042-abs.html)," in IEEE Software, vol. 33, no. 3, pp. 42-52, 2016. doi:10.1109/MS.2016.64
@@ -266,6 +275,8 @@ Para participar deste curso é desejável que os participantes tenham:
 
 - [Play with Docker](https://labs.play-with-docker.com): A simple, interactive and fun playground to learn Docker
 - [Play with Kubernetes](https://labs.play-with-k8s.com): A simple, interactive and fun playground to learn Kubernetes
+- [Sock Shop](https://microservices-demo.github.io): A Microservices Demo Application
+- [Envoy Proxy](https://www.envoyproxy.io): An Open Source Edge and Service Proxy, Designed for Cloud-Native Applications
 
 ### Tópicos
 
