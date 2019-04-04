@@ -15,17 +15,16 @@
 
 ### Local
 
-- Centro de Informática, horários: **segunda (17:00-18:40)** e **quarta (18:50-20:30)**, sala **E-112**.
-- Canal de comunicação oficial no [Slack](http://if1007-2018-1.slack.com)
+- Centro de Informática, horários: **segunda (17:00-18:40)** e **quarta (18:50-20:30)**, sala **E-112**, Bloco **E**.
 - Aulas práticas, quando ocorrerem, serão no **Lab G2** (preferencialmente).
-
-### Edições passadas
-
-- [Semestre 2018.1](http://bit.ly/vcg-microservices-2018-1)
 
 ### Comunicação
 
 - Temos um canal no Telegram para uma comunicação mais dinâmica: [Reliability Engineering Group Channel](https://t.me/regcin)
+
+### Edições passadas
+
+- [Semestre 2018.1](http://bit.ly/vcg-microservices-2018-1)
 
 ### Ementa
 
