@@ -118,7 +118,8 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [Kubernetes best practices: Resource requests and limits](https://cloudplatform.googleblog.com/2018/05/Kubernetes-best-practices-Resource-requests-and-limits.html)
 - [Package Management Basics: apt, yum, dnf, pkg (by Digital Ocean](https://www.digitalocean.com/community/tutorials/package-management-basics-apt-yum-dnf-pkg)
 - [Getting Started with Feign Client in Spring](http://codeboje.de/getting-started-feignclient/)
-- [Developing Microservices with Behavior Driven Development and Interface Oriented Design](https://www.infoq.com/articles/microservices-bdd-interface-oriented), by Kenneth Pugh, Jan 26, 2019
+- [Developing Microservices with Behavior Driven Development and Interface Oriented Design](https://www.infoq.com/articles/microservices-bdd-interface-oriented), by Kenneth Pugh -- Jan 26, 2019
+- [The Future of Cloud Providers in Kubernetes](http://bit.ly/2vc8Xwk), Authors: Andrew Sy Kim (VMware), Mike Crute (AWS), Walter Fender (Google) -- April 17, 2019
 
 ### Blogs, Disciplinas, Treinamentos
 
