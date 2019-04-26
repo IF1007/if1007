@@ -195,7 +195,14 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Research Trends
 
+- [**O’Reilly Publishes “The State of Microservices Maturity” Report**](https://www.infoq.com/news/2019/02/Oreilly-microservices-maturity), by Reda Hmeid, Feb 3, 2019
 - [**Architecture and Design InfoQ Trends Report - January 2019**](https://www.infoq.com/articles/architecture-trends-2019), by Daniel Bryant & Thomas Betts & Charles Humble, Jan 24, 2019
+- Balalaie, A, Heydarnoori, A, Jamshidi, P, Tamburri, DA, Lynn, T. [**Microservices migration patterns**](https://doi.org/10.1002/spe.2608). Softw Pract Exper. 2018; 48: 2019– 2042.
+- L. Chen, "[**Microservices: Architecting for Continuous Delivery and DevOps**](https://doi.org/10.1109/ICSA.2018.00013)," 2018 IEEE International Conference on Software Architecture (ICSA), Seattle, WA, 2018, pp. 39-397.
+doi: 10.1109/ICSA.2018.00013
+- D. Guaman, L. Yaguachi, C. C. Samanta, J. H. Danilo and F. Soto, "[**Performance evaluation in the migration process from a monolithic application to microservices**](https://ieeexplore.ieee.org/document/8399148)," 2018 13th Iberian Conference on Information Systems and Technologies (CISTI), Caceres, 2018, pp. 1-8. doi: 10.23919/CISTI.2018.8399148
+- Felipe Osses, Gastón Márquez, and Hernán Astudillo. 2018. [**Exploration of academic and industrial evidence about architectural tactics and patterns in microservices**](https://doi.org/10.1145/3183440.3194958). In Proceedings of the 40th International Conference on Software Engineering: Companion Proceeedings (ICSE '18). ACM, New York, NY, USA, 256-257. DOI: 10.1145/3183440.3194958
+- Xili Wan, Xinjie Guan, Tianjing Wang, Guangwei Bai, Baek-Yong Choi, [**Application deployment using Microservice and Docker containers: Framework and optimization**](https://doi.org/10.1016/j.jnca.2018.07.003), Journal of Network and Computer Applications, Volume 119, 2018, Pages 97-109, ISSN 1084-8045.
 - Ricardo Colomo-Palacios, Eduardo Fernandes, Pedro Soto-Acosta, Xabier Larrucea, "[**A case analysis of enabling continuous software deployment through knowledge management**](https://doi.org/10.1016/j.ijinfomgt.2017.11.005)", International Journal of Information Management, Volume 40, 2018, Pages 186-189, ISSN 0268-4012.
 - G. Pallis, D. Trihinas, A. Tryfonos and M. Dikaiakos, "[**DevOps as a Service: Pushing the Boundaries of Microservice Adoption**](https://doi.org/10.1109/MIC.2018.032501519)," in IEEE Internet Computing, vol. 22, no. 3, pp. 65-71, May./Jun. 2018. doi: 10.1109/MIC.2018.032501519
 - D. Taibi and V. Lenarduzzi, "[**On the Definition of Microservice Bad Smells**](https://ieeexplore.ieee.org/document/8354414/?source=tocalert&dld=Y2luLnVmcGUuYnI%3D)," in IEEE Software, vol. 35, no. 3, pp. 56-62, May/June 2018. doi: 10.1109/MS.2018.2141031
@@ -216,6 +223,8 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - E. Woods, "[**Should Architects Code?**](http://ieeexplore.ieee.org/document/8048649/)," in IEEE Software, vol. 34, no. 5, pp. 20-21, 2017. doi: 10.1109/MS.2017.3571574
 - J. C. Carver, B. Penzenstadler, A. Serebrenik and A. Yamashita, "[**The Human Factor**](http://ieeexplore.ieee.org/document/8048655/)," in IEEE Software, vol. 34, no. 5, pp. 90-92, 2017. doi: 10.1109/MS.2017.3571580
 - K. Carter, "[**Francois Raynaud on DevSecOps**](http://ieeexplore.ieee.org/document/8048652/)," in IEEE Software, vol. 34, no. 5, pp. 93-96, 2017. doi: 10.1109/MS.2017.3571578
+- L. Zhu, L. Bass and G. Champlin-Scharff, "[**DevOps and Its Practices**](https://doi.org/10.1109/MS.2016.81)," in IEEE Software, vol. 33, no. 3, pp. 32-34, May-June 2016. doi: 10.1109/MS.2016.81
+- D. Jaramillo, D. V. Nguyen and R. Smart, "[**Leveraging microservices architecture by using Docker technology**](https://doi.org/10.1109/SECON.2016.7506647)," SoutheastCon 2016, Norfolk, VA, 2016, pp. 1-5. doi: 10.1109/SECON.2016.7506647
 - T. Salah, M. Jamal Zemerly, Chan Yeob Yeun, M. Al-Qutayri and Y. Al-Hammadi, "[**The evolution of distributed systems towards microservices architecture**](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7856721&isnumber=7856645)," 2016 11th International Conference for Internet Technology and Secured Transactions (ICITST), Barcelona, 2016, pp. 318-325. doi: 10.1109/ICITST.2016.7856721. 
 - N. Alshuqayran, N. Ali and R. Evans, "[**A Systematic Mapping Study in Microservice Architecture**](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7796008&isnumber=7795993)," 2016 IEEE 9th International Conference on Service-Oriented Computing and Applications (SOCA), Macau, 2016, pp. 44-51.
 doi: 10.1109/SOCA.2016.15.
@@ -224,8 +233,9 @@ doi: 10.1109/SOCA.2016.15.
 - H. Kang, M. Le and S. Tao, "[**Container and Microservice Driven Design for Cloud Infrastructure DevOps**](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7484185&isnumber=7484146)," 2016 IEEE International Conference on Cloud Engineering (IC2E), Berlin, 2016, pp. 202-211. doi: 10.1109/IC2E.2016.26
 - A. Balalaie, A. Heydarnoori and P. Jamshidi, "[**Microservices Architecture Enables DevOps: Migration to a Cloud-Native Architecture**](https://www.computer.org/csdl/mags/so/2016/03/mso2016030042-abs.html)," in IEEE Software, vol. 33, no. 3, pp. 42-52, 2016. doi:10.1109/MS.2016.64
 - Schermann G, Cito J, Leitner P, Zdun U, Gall H. 2016. [**An empirical study on principles and practices of continuous delivery and deployment**](https://peerj.com/preprints/1889/). PeerJ Preprints 4:e1889v1. DOI: 10.7287/peerj.preprints.1889v1.
+- Balalaie A., Heydarnoori A., Jamshidi P. (2016) [**Migrating to Cloud-Native Architectures Using Microservices: An Experience Report**](https://doi.org/10.1007/978-3-319-33313-7_15). In: Celesti A., Leitner P. (eds) Advances in Service-Oriented and Cloud Computing. ESOCC 2015. Communications in Computer and Information Science, vol 567. Springer, Cham
 - Lwakatare L.E., Kuvaja P., Oivo M. (2015) "[**Dimensions of DevOps**](https://doi.org/10.1007/978-3-319-18612-2_19)". In: Lassenius C., Dingsøyr T., Paasivaara M. (eds) Agile Processes in Software Engineering and Extreme Programming. XP 2015. Lecture Notes in Business Information Processing, vol 212. Springer, Cham
-- [**O’Reilly Publishes “The State of Microservices Maturity” Report**](https://www.infoq.com/news/2019/02/Oreilly-microservices-maturity), by Reda Hmeid, Feb 3, 2019
+
 
 ### Objetivos
 
