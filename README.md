@@ -195,6 +195,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Research Trends
 
+- Paolo Di Francesco, Patricia Lago, Ivano Malavolta, [**Architecting with microservices: A systematic mapping study**](https://doi.org/10.1016/j.jss.2019.01.001), Journal of Systems and Software, Volume 150, 2019, Pages 77-97, ISSN 0164-1212, DOI: 10.1016/j.jss.2019.01.001.
 - [**O’Reilly Publishes “The State of Microservices Maturity” Report**](https://www.infoq.com/news/2019/02/Oreilly-microservices-maturity), by Reda Hmeid, Feb 3, 2019
 - [**Architecture and Design InfoQ Trends Report - January 2019**](https://www.infoq.com/articles/architecture-trends-2019), by Daniel Bryant & Thomas Betts & Charles Humble, Jan 24, 2019
 - Balalaie, A, Heydarnoori, A, Jamshidi, P, Tamburri, DA, Lynn, T. [**Microservices migration patterns**](https://doi.org/10.1002/spe.2608). Softw Pract Exper. 2018; 48: 2019– 2042.
