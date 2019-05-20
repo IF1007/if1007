@@ -48,7 +48,8 @@ Todos os relatórios técnicos devem ser escritos em português ou inglês. Os t
 
 O conteúdo do trabalho deve iniciar na segunda página e deve ser descrito de forma clara e objetiva, incluindo, não limitado a, os seguintes itens ou tópicos:
 
-- **Introdução**: Contendo a contextualização do domínio do negócio ao qual o projeto está inserido, o problema e motivação (mercadológica, digamos assim) para o investimento no projeto (você vão fazer uma venda do projeto pra mim, então, tem que estar claro que existe uma oportunidade aqui) e apresentação da proposta. É importante estar clara a **Caracterização do Problema**.
+- **Introdução**: Contendo a contextualização do domínio do negócio ao qual o projeto está inserido, o problema e motivação (mercadológica, digamos assim) para o investimento no projeto (você vão fazer uma venda do projeto pra mim, então, tem que estar claro que existe uma oportunidade aqui) e apresentação da proposta. É importante estar clara a 
+  - **Caracterização do Problema**: contendo o planejamento no padrão Goal-Question-Metric desenvolvido pelo time.
 - **Fundamentação Teórica**: Contendo todos os aspectos do estado da arte que fundamentam as escolhas e caminhos seguidos na execução do projeto.
 - **Estado Atual do Trabalho**: contendo, mas não limitado a:
   - **Gerência de Configuração e Ambiente**: Descrição das ferramentas e ambientes de desenvolvimento utilizados, com os respectivos links (i.e. ferramentas de desenvolvimento, linguagens, bancos de dados, bibliotecas, frameworks, repositórios de gerenciamento de versões e mudanças, servidores de implantação, entre outras).
