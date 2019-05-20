@@ -34,13 +34,29 @@
 ## Relatório Final do Projeto
 Eventualmente, na execução de projetos, podemos nos deparar com a necessidade de documentar ações e decisões por meio de relatórios técnicos ou ainda, realizar apresentações para discutir os resultados alcançados até então. Neste contexto, considere seguir estes guidelines para apoiar a construção do seu relatório técnico ou ajudar a planejar a sua apresentação oral.
 
-O projeto deve compreender, não limitado a, os seguintes itens ou tópicos:
+### Instruções Para Submissão
+O formato do relatório técnico deverá seguir o modelo da Sociedade Brasileira de Computação (SBC), em tamanho A4, contendo ao menos 10 páginas de conteúdo. Descrições Word e Latex deste modelo podem ser obtidas no portal da SBC, seguindo a referência para Eventos e Modelo para publicação de artigos (https://tinyurl.com/h24v37f).
 
-* **Introdução**: Contendo a contextualização do domínio do negócio ao qual o projeto está inserido, o problema e motivação (mercadológica, digamos assim) para o investimento no projeto (você vão fazer uma venda do projeto pra mim, então, tem que estar claro que existe uma oportunidade aqui) e apresentação da proposta.
-* **Gerência de Configuração e Ambiente**: Descrição das ferramentas e ambientes de desenvolvimento utilizados, com os respectivos links (i.e. ferramentas de desenvolvimento, linguagens, bancos de dados, bibliotecas, frameworks, repositórios de gerenciamento de versões e mudanças, servidores de implantação, entre outras).
-* **Características da aplicação**: Elicitação das características da aplicação, suas funcionalidades, diferenciais, etc.
-* **Visão de Análise e Projeto (Arquitetura)**: Análise e Projeto do sistema a ser desenvolvido. podem ser utilizados especificações de casos de uso (para os mais 15% mais complexos) e diagramas para apoiar o projeto.
-* **Visão de Implantação**: Visão e instruções de implantação do sistema. Um release notes com os erros, falhas e faltas conhecidos também é bem visto. Site onde ele está implantado e/ou um vídeo de demonstração promovendo o produto (pode estar no youtube ou outro serviço semelhante).
-* **Visão de Uso**: Guia de uso da solução do ponto de vista de todos os stakeholders identificados.
-* **Revisão do Projeto**: Descrição do processo de desenvolvimento, principais problemas e tomadas de decisão em relação ao projeto. Atribuição das atividades e técnicas de gerenciamento, monitoramento e controle.
-* **Revisão Individual**: Lições aprendidas do ponto de vista individual dos membros do time em relação a execução do projeto em si.
+Todos os relatórios técnicos devem ser escritos em português ou inglês. Os trabalhos devem conter uma folha de rosto em que constam exclusivamente:
+
+- Título do trabalho
+- Nome dos(as) alunos(as)
+- Email de contato dos(as) alunos(as)
+- Resumo em português ou em inglês
+- Palavras-chave
+
+O conteúdo do trabalho deve iniciar na segunda página e deve ser descrito de forma clara e objetiva, incluindo, não limitado a, os seguintes itens ou tópicos:
+
+- **Introdução**: Contendo a contextualização do domínio do negócio ao qual o projeto está inserido, o problema e motivação (mercadológica, digamos assim) para o investimento no projeto (você vão fazer uma venda do projeto pra mim, então, tem que estar claro que existe uma oportunidade aqui) e apresentação da proposta. É importante estar clara a **Caracterização do Problema**.
+- **Fundamentação Teórica**: Contendo todos os aspectos do estado da arte que fundamentam as escolhas e caminhos seguidos na execução do projeto.
+- **Estado Atual do Trabalho**: contendo, mas não limitado a:
+  - **Gerência de Configuração e Ambiente**: Descrição das ferramentas e ambientes de desenvolvimento utilizados, com os respectivos links (i.e. ferramentas de desenvolvimento, linguagens, bancos de dados, bibliotecas, frameworks, repositórios de gerenciamento de versões e mudanças, servidores de implantação, entre outras).
+  - **Características da aplicação**: Elicitação das características da aplicação, suas funcionalidades, diferenciais, etc.
+  - **Visão de Análise e Projeto (Arquitetura)**: Análise e Projeto do sistema a ser desenvolvido. podem ser utilizados especificações de casos de uso (para os mais 15% mais complexos) e diagramas para apoiar o projeto.
+  - **Visão de Implantação**: Visão e instruções de implantação do sistema. Um release notes com os erros, falhas e faltas conhecidos também é bem visto. Site onde ele está implantado e/ou um vídeo de demonstração promovendo o produto (pode estar no youtube ou outro serviço semelhante).
+  - **Visão de Uso**: Guia de uso da solução do ponto de vista de todos os stakeholders identificados.
+- **Descrição e Avaliação dos Resultados**: contendo, mas não limitado a:
+  - **Contribuições**: *rationale* do time em relação ao projeto, lições aprendidas.
+  - **Revisão do Projeto**: Descrição do processo de desenvolvimento, principais problemas e tomadas de decisão em relação ao projeto. Atribuição das atividades e técnicas de gerenciamento, monitoramento e controle.
+  - **Revisão Individual**: Lições aprendidas do ponto de vista individual dos membros do time em relação a execução do projeto em si.
+- **Comparação com Trabalhos Relacionados**: se pertinente, é desejável.
