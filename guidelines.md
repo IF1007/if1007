@@ -44,6 +44,7 @@ Todos os relatórios técnicos devem ser escritos em português ou inglês. Os t
 - Email de contato dos(as) alunos(as)
 - Resumo em português ou em inglês
 - Palavras-chave
+- Link para o repositório (i.e. github, gitlab, bitbucket) do projeto contendo todos os aretaftos produzidos.
 
 O conteúdo do trabalho deve iniciar na segunda página e deve ser descrito de forma clara e objetiva, incluindo, não limitado a, os seguintes itens ou tópicos:
 
