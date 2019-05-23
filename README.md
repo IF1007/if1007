@@ -57,6 +57,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 - [Pattern: Monolithic Architecture](http://microservices.io/patterns/monolithic.html)
 - [Pattern: Microservice Architecture](http://microservices.io/patterns/microservices.html)
+- [Pattern API Gateway - APIs em uma arquitetura de microservices](https://www.infoq.com/br/presentations/pattern-api-gateway), by Petterson Andrade -- Jun 30, 2016
 - [Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/), this is a seven‑part series of articles
 - [How to Write Great API Documentation Every Time](https://hackernoon.com/how-to-write-great-api-documentation-every-time-8f7e001a9d7c)
 - [Layering Microservices](http://philcalcado.com/2018/09/24/services_layers.html)
@@ -90,7 +91,9 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
   - [What’s a service mesh? And why do I need one?](https://blog.buoyant.io/2017/04/25/whats-a-service-mesh-and-why-do-i-need-one/), by Willian Morgan, April 25, 2017
   - [The Enterprise Path to Service Mesh Architectures](https://www.nginx.com/resources/library/the-enterprise-path-to-service-mesh-architectures/), O’Reilly Media, Inc., First Edition, 2018.
 - [Netflix Open Source Software Center](https://netflix.github.io/)
-- [The InfoQ eMag: Microservices vs. Monoliths - The Reality Beyond the Hype](https://www.infoq.com/minibooks/emag-microservices-monoliths)
+- [A 360 Degree View Of The Entire Netflix Stack](http://highscalability.com/blog/2015/11/9/a-360-degree-view-of-the-entire-netflix-stack.html), by Chris Ueland -- November 9, 2015
+- [The InfoQ eMag: Microservices vs. Monoliths - The Reality Beyond the Hype](https://www.infoq.com/minibooks/emag-microservices-monoliths), reviewed by Thomas Betts -- Jun 19, 2017
+- [Microservices Beyond the Hype: What You Gain and What You Lose](https://insights.sei.cmu.edu/sei_blog/2015/11/microservices-beyond-the-hype-what-you-gain-and-what-you-lose.html), BY Paulo Merson -- November 5, 2015
 - [The cloud native application: Microservices with Spring Boot and Spring Cloud](https://www.infoq.com/br/presentations/the-cloud-native-application-microservices-with-spring-boot-and-spring-cloud)
 - [Production-Ready Microservices - Building Standardized Systems Across an Engineering Organization](http://shop.oreilly.com/product/0636920053675.do)
 - [Microservices vs. Service-Oriented Architecture](https://www.nginx.com/resources/library/microservices-vs-soa/)
