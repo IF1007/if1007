@@ -123,7 +123,8 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [Getting Started with Feign Client in Spring](http://codeboje.de/getting-started-feignclient/)
 - [Developing Microservices with Behavior Driven Development and Interface Oriented Design](https://www.infoq.com/articles/microservices-bdd-interface-oriented), by Kenneth Pugh -- Jan 26, 2019
 - [The Future of Cloud Providers in Kubernetes](http://bit.ly/2vc8Xwk), Authors: Andrew Sy Kim (VMware), Mike Crute (AWS), Walter Fender (Google) -- April 17, 2019
-- [Você sabe qual a origem do Kubernetes do Google Cloud?](https://wp.me/pfWSN-frI), bt Renê Fraga -- May 28, 2019
+- [Você sabe qual a origem do Kubernetes do Google Cloud?](https://wp.me/pfWSN-frI), by Renê Fraga -- May 28, 2019
+- [From MVC to Modern Web Frameworks](http://bit.ly/2OrCxH1), by Robert Zhu -- Dec 6, 2018
 
 ### Blogs, Disciplinas, Treinamentos
 
