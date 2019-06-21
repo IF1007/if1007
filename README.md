@@ -126,6 +126,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [The Future of Cloud Providers in Kubernetes](http://bit.ly/2vc8Xwk), Authors: Andrew Sy Kim (VMware), Mike Crute (AWS), Walter Fender (Google) -- April 17, 2019
 - [Você sabe qual a origem do Kubernetes do Google Cloud?](https://wp.me/pfWSN-frI), by Renê Fraga -- May 28, 2019
 - [From MVC to Modern Web Frameworks](http://bit.ly/2OrCxH1), by Robert Zhu -- Dec 6, 2018
+- [Learn how to automate deployment on GitHub-pages with Travis CI](https://hackernoon.com/automate-deployment-5f13b918f029), by Dhruv BarochiyaFollow -- Jun 21, 2019
 
 ### Blogs, Disciplinas, Treinamentos
 
