@@ -301,6 +301,20 @@ Para participar deste curso é desejável que os participantes tenham:
 
 #### Projetos
 
+- **2009.1**
+  - Equipe [Hangry](https://github.com/IF1007/microhangry)
+  - Equipe [Face Detection System](https://github.com/if1007-projeto)
+  - Equipe [Logs efetivos: um impacto direto na observabilidade de microsserviços]()
+  - Equipe [Shared Sessions](https://github.com/IF1007/Shared-Sessions)
+  - Equipe Construindo Microservices com Spring Cloud Netflix: [Agenda](https://github.com/IF1007/agenda-ufpe-configs) & [Configuração](https://github.com/IF1007/Agenda-Docker)
+  - Equipe [DCM - Data Centering Middleware](https://github.com/IF1007/microservices)
+  - Equipe [Automatizando a Implantação de aplicações Baseadas em Microsserviços](https://github.com/IF1007/if1007-microservices)
+  - Equipe [Greenhouse Delivery On Minikube](https://github.com/IF1007/if1007-2)
+  - Equipe [MoreHealth](https://github.com/IF1007/morehealth)
+  - Equipe [Uma Arquitetura Micros Serviços com Ênfase em CQRS – Um Relatório Técnico](https://github.com/IF1007/in1062_projeto_ral4)
+  - Equipe [A Microservice Refactor on Open Source Project Vitaes](https://github.com/IF1007/vitaes)
+  - Equipe [Iudex](https://github.com/t0rr3sp3dr0/iudex) *private project, sorry :)*
+  - Equipe [A demo application based on microservices architecture](https://github.com/IF1007/if1007-1)
 - **2018.1**
   - Equipe [Porquin](https://github.com/IF1007/pqn-main)
   - Equipe [Scale](https://github.com/IF1007/if1007-scale)
