@@ -315,6 +315,7 @@ Para participar deste curso é desejável que os participantes tenham:
   - Equipe [A Microservice Refactor on Open Source Project Vitaes](https://github.com/IF1007/vitaes)
   - Equipe [Iudex](https://github.com/t0rr3sp3dr0/iudex) *private project, sorry :)*
   - Equipe [A demo application based on microservices architecture](https://github.com/IF1007/if1007-1)
+  - Equipe [Estufa Collection](https://github.com/IF1007/IF1007_Microservices)
 - **2018.1**
   - Equipe [Porquin](https://github.com/IF1007/pqn-main)
   - Equipe [Scale](https://github.com/IF1007/if1007-scale)
