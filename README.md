@@ -185,6 +185,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Business Cases
 
+- [Why Segment Moved from Microservices to a Monolith](https://www.programmableweb.com/news/why-segment-moved-microservices-to-monolith/else-where-web-case-study/2019/03/17), Mar 17, 2019 By ProgrammableWeb Staff, ProgrammableWeb Staff
 - [Experiences Moving from Microservices to Workflows at Jet.com](https://www.infoq.com/news/2019/02/migrate-microservices-workflows), by Jan Stenberg, Feb 14, 2019
 - [Microservices after Two Years](https://georgestocker.com/2019/01/21/microservices-after-two-years/), by  George Stocker, January 21, 2019
 - [Monitoring containerized microservices with a centralized logging architecture](https://hackernoon.com/monitoring-containerized-microservices-with-a-centralized-logging-architecture-ba6771c1971a). A case study of Project Horus, Sep 12, 2018.
