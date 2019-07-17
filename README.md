@@ -302,7 +302,7 @@ Para participar deste curso é desejável que os participantes tenham:
 
 #### Projetos
 
-- **2009.1**
+- **2019.1**
   - Equipe [Hangry](https://github.com/IF1007/microhangry)
   - Equipe [Face Detection System](https://github.com/if1007-projeto)
   - Equipe [Logs efetivos: um impacto direto na observabilidade de microsserviços]()
