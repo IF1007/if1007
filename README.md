@@ -7,7 +7,7 @@
 ### Instrutores
 
 - **Professor** Vinicius Cardoso Garcia ([vcg@cin.ufpe.br](mailto:vcg@cin.ufpe.br))
-- **Professor Colaborador** Vanilson Buérgio ([vanilson@gmail.com](mailto:vanilson@gmail.com))
+- **Professor Colaborador** Vanilson Burégio ([vanilson@gmail.com](mailto:vanilson@gmail.com))
 
 ### Disciplinas
 
@@ -25,6 +25,7 @@
 
 ### Edições passadas
 
+- [Semestre 2019.1](http://bit.ly/vcg-microservices-2019-1)
 - [Semestre 2018.1](http://bit.ly/vcg-microservices-2018-1)
 
 ### Ementa
