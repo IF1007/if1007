@@ -27,6 +27,6 @@ How can be done data porting from microservices to a data lake or a data warehou
 
 ## Submit
 
-Submit in our Slack team, http://if1007-2018-1.slack.com, a MD file (LOGIN-HW4.md) containing your answer.
+Submit in our Slack team, http://if1007-cin.slack.com, a MD file (LOGIN-HW4.md) containing your answer.
 
-**Due D+12** (_Monday, 4/2_), 17:00.
+**Due Next Monday**, 17:00.
