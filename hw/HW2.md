@@ -26,6 +26,6 @@ Microservices early adopters
 
 ## Submit
 
-Submit in our Slack team, http://if1007-2018-1.slack.com, a MD file (LOGIN-HW2.md) containing your answer.
+Submit in our Slack team, http://if1007-cin.slack.com, a MD file (LOGIN-HW2.md) containing your answer.
 
 **Due Next Monday**, 17:00.
