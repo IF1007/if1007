@@ -14,4 +14,8 @@ How to enhance The BrownField microservices with Spring Cloud Hystrix and Turbin
 
 _Hint: Use the circuit breaker pattern to fall back to another service in case of failures._
 
-**Due D+5** (_Sunday, 4/22_), 23:00.
+## Submit
+
+Submit in our Slack team, http://if1007-cin.slack.com, a MD file (LOGIN-HW8.md) containing your answer.
+
+**Due Next Monday**, 17:00.
