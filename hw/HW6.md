@@ -13,6 +13,6 @@ How to get high availability with Eureka?
 
 ## Submit
 
-Submit in our Slack team, http://if1007-2018-1.slack.com, a MD file (LOGIN-HW4.md) containing your answer.
+Submit in our Slack team, http://if1007-cin.slack.com, a MD file (LOGIN-HW6.md) containing your answer.
 
-**Due D+5** (_Sunday, 4/9_), 17:00.
+**Due Next Monday**, 17:00.
