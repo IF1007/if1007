@@ -183,6 +183,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
   - [Microservices and Cloud-Native Applications with Spring 5.0](https://www.packtpub.com/application-development/microservices-and-cloud-native-applications-spring-50-video)
   - [Advanced Spring Boot](https://www.packtpub.com/web-development/advanced-spring-boot-integrated-course)
   - [Source code from "Learning Spring Boot" (original and upgrades)](https://github.com/vinicius3w/learning-spring-boot-code)
+  - [Spring Boot Tutorial: Building Microservices Deployed to Google Cloud](https://www.infoq.com/articles/spring-boot-tutorial), by Sergio Felix @ InfoQ -- Mar 26, 2020
 
 ### Business Cases
 
