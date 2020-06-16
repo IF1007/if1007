@@ -158,6 +158,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [De monolítico a cloud native: uma jornada de erros e acertos na Wine.com.br](https://www.infoq.com/br/presentations/de-monolitico-a-cloud-native-uma-jornada-de-erros-e-acertos)
 - [Who monitors the monitoring systems?](https://medium.com/@adrianco/who-monitors-the-monitoring-systems-715a333f97fc)
 - AWS
+  - [AWS Certified Cloud Practitioner Training 2020 - Full Course](https://www.youtube.com/watch?v=3hLmDS179YE), Oct 24, 2019
   - [DevOps | AWS Cloud | Cloud Tutorials for Beginners](https://www.youtube.com/playlist?list=PLLsor6GJ_BEEVWzDS3eHLdLkSZsoVnB98)
 - Google Cloud
   - [Google Cloud Platform Blog](https://cloudplatform.googleblog.com/)
