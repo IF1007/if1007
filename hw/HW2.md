@@ -8,7 +8,11 @@ Tip: Relations with SOA: Concepts & Principles; Service-oriented integration; Le
 
 ## 2.2. What are the relations between microservices and Twelve-Factor apps?
 
-Tip: See the [Twelve Factors](https://12factor.net/)
+Tip: See... 
+
+- The [Twelve Factors](https://12factor.net/)
+- [The Twelve-Factor App: 12 Best Practices For Microservices](https://hackernoon.com/the-twelve-factor-app-12-best-practices-for-microservices-sf2vz31wn)
+- [Microservices and the 12 Factor App](https://medium.com/@gabimelo/microservices-and-the-12-factor-app-d7d41c8b859c)
 
 ## 2.3. Choose 3 early adopters case to tell (briefly) the history.
 
