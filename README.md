@@ -339,10 +339,15 @@ Para participar deste curso é desejável que os participantes tenham:
 
 - [Play with Docker](https://labs.play-with-docker.com): A simple, interactive and fun playground to learn Docker
 - [Play with Kubernetes](https://labs.play-with-k8s.com): A simple, interactive and fun playground to learn Kubernetes
-- [Sock Shop](https://microservices-demo.github.io): A Microservices Demo Application
-- [Online Boutique](https://github.com/GoogleCloudPlatform/microservices-demo): A cloud-native microservices demo application
-- [Stan's Robot Shop](https://github.com/instana/robot-shop/): A sample microservice application you can use as a sandbox to test and learn containerised application orchestration and monitoring techniques
 - [Envoy Proxy](https://www.envoyproxy.io): An Open Source Edge and Service Proxy, Designed for Cloud-Native Applications
+
+### Microservice-Based Applications Demo
+- [Sock Shop](https://microservices-demo.github.io): A Microservices Demo Application
+- [Hispter Shop (Online Boutique)](https://github.com/GoogleCloudPlatform/microservices-demo): A cloud-native microservices demo application form Google (10 microservices)
+- [Stan's Robot Shop](https://github.com/instana/robot-shop/): A sample microservice application you can use as a sandbox to test and learn containerised application orchestration and monitoring techniques
+- [TrainTicket](https://github.com/FudanSELab/train-ticket): A Benchmark Microservice System (41 microservices)
+- [DeathStarBench](https://github.com/delimitrou/DeathStarBench): Open-source benchmark suite for cloud microservices (5 microservices)
+- [TeaStore](https://github.com/DescartesResearch/TeaStore): A microservice reference and test application to be used in benchmarks and tests (5 microservices)
 
 ### Tópicos
 
