@@ -348,6 +348,7 @@ Para participar deste curso é desejável que os participantes tenham:
 - [TrainTicket](https://github.com/FudanSELab/train-ticket): A Benchmark Microservice System (41 microservices)
 - [DeathStarBench](https://github.com/delimitrou/DeathStarBench): Open-source benchmark suite for cloud microservices (5 microservices)
 - [TeaStore](https://github.com/DescartesResearch/TeaStore): A microservice reference and test application to be used in benchmarks and tests (5 microservices)
+- [A curated list of Open Source projects](https://github.com/davidetaibi/Microservices_Project_List) developed with a microservices architectural style
 
 ### Tópicos
 
