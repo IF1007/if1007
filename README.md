@@ -21,7 +21,7 @@
 
 ### Comunicação
 
-- Temos um canal no Slack para uma comunicação mais dinâmica: [IF1007 & IN1062](https://join.slack.com/t/if1007-cin/shared_invite/enQtOTY5MDUyNzc2MjA5LWUzYjUyYzE1OTg3MzBkZTViYjUyNzg2N2I4MDYxMDk4Njg1ZmUxZjQzYjgyNjgzZDU5ZjE2NmRmMTEyOWU5Njk) (para entrar, tem que utilizar o e-mail institucional do CIn).
+- Temos um canal no Slack para uma comunicação mais dinâmica: [IF1007 & IN1062](https://join.slack.com/t/if1007-cin/shared_invite/zt-grwgdbid-MNKydvaT55rh4~Qbw8sdtw) (para entrar, tem que utilizar o e-mail institucional do CIn).
 
 ### Edições passadas
 
