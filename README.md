@@ -340,6 +340,7 @@ Para participar deste curso é desejável que os participantes tenham:
 - [Play with Docker](https://labs.play-with-docker.com): A simple, interactive and fun playground to learn Docker
 - [Play with Kubernetes](https://labs.play-with-k8s.com): A simple, interactive and fun playground to learn Kubernetes
 - [Envoy Proxy](https://www.envoyproxy.io): An Open Source Edge and Service Proxy, Designed for Cloud-Native Applications
+- [5 Best API Documentation Tools](https://blog.dreamfactory.com/5-best-api-documentation-tools/), by Susanna Bouse -- July 7, 2020
 
 ### Microservice-Based Applications Demo
 - [Sock Shop](https://microservices-demo.github.io): A Microservices Demo Application
