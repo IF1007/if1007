@@ -312,6 +312,14 @@ Para participar deste curso é desejável que os participantes tenham:
 
 #### Projetos
 
+- **2020.3**
+  - Equipe [microservices-communication](https://github.com/IF1007/microservices-communication)
+  - Equipe [Stackprior](https://github.com/IF1007/stackprior)
+  - Equipe [Logs, mô?](https://github.com/IF1007/microservices-20203)
+  - Equipe [observable-api-gateway](https://github.com/IF1007/observable-api-gateway)
+  - Equipe [Microsservices Logs Management](https://github.com/IF1007/microservices-logs-management)
+  - Equipe [Saga orchestrator microservice](https://github.com/IF1007/saga-orchestrator-microservice)
+  - Equipe [MicroServices-Guide](https://github.com/IF1007/MicroServices-Guide)
 - **2020.1\***
   - Equipe [MLog](https://github.com/IF1007/mLog)
   - Equipe [Flogi](https://github.com/IF1007/Flogi)
