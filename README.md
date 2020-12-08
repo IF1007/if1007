@@ -25,6 +25,9 @@
 
 ### Edições passadas
 
+- [Semestres 2020.1* & 2020.3](http://bit.ly/vcg-microservices-2020-3)
+  - [Análise da Jornada IF1007 - Strateegia](https://github.com/IF1007/if1007/blob/master/lectures/strateegia.digital%20-%202020-3%20-%20analise%20de%20jornada%20IF1007.pdf)
+  - [Análise de Engajamento IF1007 - Strateegia](https://github.com/IF1007/if1007/blob/master/lectures/strateegia.digital%20-%202020-3%20-%20analise%20de%20engajamento%20IF1007.pdf)
 - [Semestre 2019.1](http://bit.ly/vcg-microservices-2019-1)
 - [Semestre 2018.1](http://bit.ly/vcg-microservices-2018-1)
 
@@ -309,6 +312,13 @@ Para participar deste curso é desejável que os participantes tenham:
 
 #### Projetos
 
+- **2020.1\***
+  - Equipe [MLog](https://github.com/IF1007/mLog)
+  - Equipe [Flogi](https://github.com/IF1007/Flogi)
+  - Equipe [MicroObs](https://github.com/microobs)
+  - Equipe [KubeKepam](https://gitcin.cin.ufpe.br/wrms/kubekepam)
+  - Equipe [Cloud Walker Toolkit](https://github.com/CloudWalkerToolkit/docs)
+  - Equipe [observability_microservices](https://github.com/IF1007/observability_microservices)
 - **2019.1**
   - Equipe [Hangry](https://github.com/IF1007/microhangry)
   - Equipe [Face Detection System](https://github.com/if1007-projeto)
