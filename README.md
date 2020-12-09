@@ -327,6 +327,7 @@ Para participar deste curso é desejável que os participantes tenham:
   - Equipe [KubeKepam](https://gitcin.cin.ufpe.br/wrms/kubekepam)
   - Equipe [Cloud Walker Toolkit](https://github.com/CloudWalkerToolkit/docs)
   - Equipe [observability_microservices](https://github.com/IF1007/observability_microservices)
+  - Equipe [Vacation Rental Analyzer](https://github.com/IF1007/vacation-rental-analyzer)
 - **2019.1**
   - Equipe [Hangry](https://github.com/IF1007/microhangry)
   - Equipe [Face Detection System](https://github.com/if1007-projeto)
