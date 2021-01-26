@@ -215,6 +215,8 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Research Trends
 
+- **2020**
+  - Michael Desmond. [**Mapping the Journey from ITOps to AIOps**](https://bit.ly/3qQiHHi). Blog, Gigaom, Dec 7, 2020.
 - **2018**
   - Luis M. Vaquero, Felix Cuadrado, Yehia Elkhatib, Jorge Bernal-Bernabe, Satish N. Srirama, Mohamed Faten Zhani, [**Research challenges in nextgen service orchestration**](https://doi.org/10.1016/j.future.2018.07.039), Future Generation Computer Systems, Volume 90, 2019, Pages 20-38, ISSN 0167-739X, DOI: 10.1016/j.future.2018.07.039.
   - Philipp Leitner, Erik Wittern, Josef Spillner, Waldemar Hummer, [**A mixed-method empirical study of Function-as-a-Service software development in industrial practice**](https://doi.org/10.1016/j.jss.2018.12.013), Journal of Systems and Software, Volume 149, 2019, Pages 340-359, ISSN 0164-1212, DOI: 10.1016/j.jss.2018.12.013.
