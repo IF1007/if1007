@@ -163,6 +163,8 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - AWS
   - [AWS Certified Cloud Practitioner Training 2020 - Full Course](https://www.youtube.com/watch?v=3hLmDS179YE), Oct 24, 2019
   - [DevOps | AWS Cloud | Cloud Tutorials for Beginners](https://www.youtube.com/playlist?list=PLLsor6GJ_BEEVWzDS3eHLdLkSZsoVnB98)
+- Cloud
+  - [Maintaining Control Over Your Security Infrastructure in a Multi-Cloud World](https://bit.ly/2Yiq6To), Dec 30, 2020
 - Google Cloud
   - [Google Cloud Platform Blog](https://cloudplatform.googleblog.com/)
 - Docker
