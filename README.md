@@ -217,13 +217,20 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 - **2020**
   - Michael Desmond. [**Mapping the Journey from ITOps to AIOps**](https://bit.ly/3qQiHHi). Blog, Gigaom, Dec 7, 2020.
-- **2018**
+  - Leite, L., Rocha, C., Kon, F., Milojicic, D., & Meirelles, P. (2020). [**A Survey of DevOps Concepts and Challenges**](https://doi.org/10.1145/3359981). ACM Computing Surveys, 52(6), 1–35. 
+  - Debroy, V., & Miller, S. (2020). [**Overcoming Challenges With Continuous Integration and Deployment Pipelines: An Experience Report From a Small Company**](https://doi.org/10.1109/MS.2019.2947004). IEEE Software, 37(3), 21–29. 
+  - Mellegard, N., Burden, H., Levin, D., Lind, K., & Magazinius, A. (2020). [**Contrasting Big Bang With Continuous Integration Through Defect Reports**](https://doi.org/10.1109/MS.2018.2880822). IEEE Software, 37(3), 14–20.
+- **2019**
+  - Soares de Toledo, S., Martini, A., Przybyszewska, A., & Sjoberg, D. I. K. (2019). [**Architectural Technical Debt in Microservices: A Case Study in a Large Company**](https://doi.org/10.1109/TechDebt.2019.00026). 2019 IEEE/ACM International Conference on Technical Debt (TechDebt), 78–87.
+  - Shanbhag, N., & Pardede, E. (2019). [**A Metrics Framework for Product Development in Software Startups**](https://doi.org/10.1142/S0218495819500110). Journal of Enterprising Culture, 27(03), 283–307.
+  - Kazanavicius, J., & Mazeika, D. (2019). [**Migrating Legacy Software to Microservices Architecture**](https://doi.org/10.1109/eStream.2019.8732170). 2019 Open Conference of Electrical, Electronic and Information Sciences (EStream), 1–5.
   - Luis M. Vaquero, Felix Cuadrado, Yehia Elkhatib, Jorge Bernal-Bernabe, Satish N. Srirama, Mohamed Faten Zhani, [**Research challenges in nextgen service orchestration**](https://doi.org/10.1016/j.future.2018.07.039), Future Generation Computer Systems, Volume 90, 2019, Pages 20-38, ISSN 0167-739X, DOI: 10.1016/j.future.2018.07.039.
   - Philipp Leitner, Erik Wittern, Josef Spillner, Waldemar Hummer, [**A mixed-method empirical study of Function-as-a-Service software development in industrial practice**](https://doi.org/10.1016/j.jss.2018.12.013), Journal of Systems and Software, Volume 149, 2019, Pages 340-359, ISSN 0164-1212, DOI: 10.1016/j.jss.2018.12.013.
   - Paolo Di Francesco, Patricia Lago, Ivano Malavolta, [**Architecting with microservices: A systematic mapping study**](https://doi.org/10.1016/j.jss.2019.01.001), Journal of Systems and Software, Volume 150, 2019, Pages 77-97, ISSN 0164-1212, DOI: 10.1016/j.jss.2019.01.001.
   - [**O’Reilly Publishes “The State of Microservices Maturity” Report**](https://www.infoq.com/news/2019/02/Oreilly-microservices-maturity), by Reda Hmeid, Feb 3, 2019
   - [**Architecture and Design InfoQ Trends Report - January 2019**](https://www.infoq.com/articles/architecture-trends-2019), by Daniel Bryant & Thomas Betts & Charles Humble, Jan 24, 2019.
 - **2018**
+  - Steffens, A., Lichter, H., & Döring, J. S. (2018). [**Designing a next-generation continuous software delivery system**](https://doi.org/10.1145/3194760.3194768). Proceedings of the 4th International Workshop on Rapid Continuous Software Engineering - RCoSE'18, 1–7.
   - Carrasco, A., Bladel, B. van, & Demeyer, S. (2018). [**Migrating towards microservices: migration and architecture smells**](https://doi.org/10.1145/3242163.3242164). In Proceedings of the 2nd International Workshop on Refactoring - IWoR 2018 (pp. 1–6). New York, New York, USA: ACM Press. 
   - Ren, Z., Wang, W., Wu, G., Gao, C., Chen, W., Wei, J., & Huang, T. (2018). [**Migrating Web Applications from Monolithic Structure to Microservices Architecture**](https://doi.org/10.1145/3275219.3275230). In Proceedings of the Tenth Asia-Pacific Symposium on Internetware - Internetware ’18 (pp. 1–10). New York, New York, USA: ACM Press. 
   - Taibi, D., Lenarduzzi, V., & Pahl, C. (2018). [**Architectural Patterns for Microservices: A Systematic Mapping Study**](https://doi.org/10.5220/0006798302210232). In Proceedings of the 8th International Conference on Cloud Computing and Services Science (pp. 221–232). SCITEPRESS - Science and Technology Publications. 
@@ -240,6 +247,7 @@ doi: 10.1109/ICSA.2018.00013
   - Ricardo Colomo-Palacios, Eduardo Fernandes, Pedro Soto-Acosta, Xabier Larrucea, "[**A case analysis of enabling continuous software deployment through knowledge management**](https://doi.org/10.1016/j.ijinfomgt.2017.11.005)", International Journal of Information Management, Volume 40, 2018, Pages 186-189, ISSN 0268-4012.
   - G. Pallis, D. Trihinas, A. Tryfonos and M. Dikaiakos, "[**DevOps as a Service: Pushing the Boundaries of Microservice Adoption**](https://doi.org/10.1109/MIC.2018.032501519)," in IEEE Internet Computing, vol. 22, no. 3, pp. 65-71, May./Jun. 2018. doi: 10.1109/MIC.2018.032501519
   - D. Taibi and V. Lenarduzzi, "[**On the Definition of Microservice Bad Smells**](https://ieeexplore.ieee.org/document/8354414/?source=tocalert&dld=Y2luLnVmcGUuYnI%3D)," in IEEE Software, vol. 35, no. 3, pp. 56-62, May/June 2018. doi: 10.1109/MS.2018.2141031
+  - Abdollahi Vayghan, L., Saied, M. A., Toeroe, M., & Khendek, F. (2018). [**Deploying Microservice Based Applications with Kubernetes: Experiments and Lessons Learned**](https://doi.org/10.1109/CLOUD.2018.00148). 2018 IEEE 11th International Conference on Cloud Computing (CLOUD), 2018-July, 970–973. 
 - **2017**
   - Bogner, J., Wagner, S., & Zimmermann, A. (2017). [**Towards a practical maintainability quality model for service-and microservice-based systems**](https://doi.org/10.1145/3129790.3129816). In Proceedings of the 11th European Conference on Software Architecture Companion Proceedings - ECSA ’17 (pp. 195–198). New York, New York, USA: ACM Press. 
   - Zdun, U., Navarro, E., & Leymann, F. (2017). [**Ensuring and Assessing Architecture Conformance to Microservice Decomposition Patterns**](https://doi.org/10.1007/978-3-319-69035-3_29). In Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) (Vol. 10601 LNCS, pp. 411–429). 
@@ -282,6 +290,8 @@ doi: 10.1109/SOCA.2016.15.
 - **2015**
   - Balalaie A., Heydarnoori A., Jamshidi P. (2016) [**Migrating to Cloud-Native Architectures Using Microservices: An Experience Report**](https://doi.org/10.1007/978-3-319-33313-7_15). In: Celesti A., Leitner P. (eds) Advances in Service-Oriented and Cloud Computing. ESOCC 2015. Communications in Computer and Information Science, vol 567. Springer, Cham
   - Lwakatare L.E., Kuvaja P., Oivo M. (2015) "[**Dimensions of DevOps**](https://doi.org/10.1007/978-3-319-18612-2_19)". In: Lassenius C., Dingsøyr T., Paasivaara M. (eds) Agile Processes in Software Engineering and Extreme Programming. XP 2015. Lecture Notes in Business Information Processing, vol 212. Springer, Cham
+- **2014**
+  - Böhmann, T., Leimeister, J. M., & Möslein, K. (2014). [**Service Systems Engineering**](https://doi.org/10.1007/s12599-014-0314-8). Business & Information Systems Engineering, 6(2), 73–79.
 
 
 ### Objetivos
