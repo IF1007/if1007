@@ -193,6 +193,8 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
   - [The Twelve-Factor App: 12 Best Practices For Microservices](https://hackernoon.com/the-twelve-factor-app-12-best-practices-for-microservices-sf2vz31wn), by [@mobycast](https://hackernoon.com/u/mobycast) -- September 28th, 2019
   - [Microservices and the 12 Factor App](https://medium.com/@gabimelo/microservices-and-the-12-factor-app-d7d41c8b859c), by Gabriela Melo -- Jun 15, 2018
   - [Microserviços: Do SOLID para o IDEALS](https://deviniciative.wordpress.com/2020/11/23/microservicos-do-solid-para-o-ideals/), Nov 23, 2020
+- Observability
+  - [Istio monitoring with Elastic Observability](https://www.elastic.co/pt/blog/istio-monitoring-with-elastic-observability), Feb 11, 2021
 
 ### Business Cases
 
