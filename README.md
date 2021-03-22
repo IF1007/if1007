@@ -185,6 +185,8 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - Microservices
   - [LinuxFoundationX: LFS132x Introduction to Cloud Foundry and Cloud Native Software Architecture](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS132x+1T2017/course/)
   - [Architecting Distributed Cloud Applications](https://courses.edx.org/courses/course-v1:Microsoft+DEVOPS200.9x+1T2018/course/)
+- Node
+  - [Arquitetura de micro serviços em Node.js + MongoDB](https://bit.ly/3tNEEbB), by Luiz Duarte -- May 06, 2018
 - Spring Boot
   - [Microservices and Cloud-Native Applications with Spring 5.0](https://www.packtpub.com/application-development/microservices-and-cloud-native-applications-spring-50-video)
   - [Advanced Spring Boot](https://www.packtpub.com/web-development/advanced-spring-boot-integrated-course)
