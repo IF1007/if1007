@@ -57,6 +57,8 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - [Migrating to Cloud-Native Application Architectures](http://www.oreilly.com/programming/free/migrating-cloud-native-application-architectures.csp)
 - [Continous Integration](https://www.amazon.com/Continuous-Integration-Improving-Software-Reducing/dp/0321336380)
 - [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com.br/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B078Y98RG8?gclid=EAIaIQobChMIpZns27OZ2wIVBorICh1yxQepEAAYASAAEgJiKvD_BwE&hvadid=173522634457&hvdev=c&hvlocphy=9074122&hvnetw=g&hvpos=1t1&hvqmt=b&hvrand=14851331746735633798&hvtargid=kwd-826183570&keywords=the+phoenix+project&qid=1526995019&sr=1-1&tag=hydrbrgk-20&ref=sr_1_1)
+- [Fundamentals of Software Architecture](http://fundamentalsofsoftwarearchitecture.com/), by Mark Richards & Neal Ford, O′Reilly; Illustrated edição (7 fevereiro 2020).
+- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/), by Martin Kleppmann, O'Reilly Media, Inc., Released March 2017
 
 ### Bibliografia sobre Ferramentas, Frameworks e Tecnologias
 
