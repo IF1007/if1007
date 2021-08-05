@@ -51,6 +51,8 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 
 ### Bibliografia Complementar
 
+- [Designing and Deploying Microservices](https://bit.ly/3uf5JEf), by Chris Richardson and 
+Floyd Smith. Use the guidance in this ebook about building microservices to learn what a microservice is, and why you might need a microservices architecture to make your applications faster, more flexible, and more stable
 - [Spring Microservices](https://www.packtpub.com/application-development/spring-microservices)
 - [Spring Boot: Acelere o desenvolvimento de microsserviços](https://www.casadocodigo.com.br/products/livro-spring-boot)
 - [Microservices for Java Developers A Hands-on Introduction to Frameworks and Containers](https://developers.redhat.com/promotions/microservices-for-java-developers/)
@@ -187,6 +189,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
 - Microservices
   - [LinuxFoundationX: LFS132x Introduction to Cloud Foundry and Cloud Native Software Architecture](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS132x+1T2017/course/)
   - [Architecting Distributed Cloud Applications](https://courses.edx.org/courses/course-v1:Microsoft+DEVOPS200.9x+1T2018/course/)
+  - [Pitfalls and Patterns in Microservice Dependency Management](https://www.infoq.com/presentations/microservices-dependency-management/)
 - Node
   - [Arquitetura de micro serviços em Node.js + MongoDB](https://bit.ly/3tNEEbB), by Luiz Duarte -- May 06, 2018
 - Spring Boot
@@ -199,6 +202,7 @@ Não há livro texto obrigatório. Entretanto, a seguir estão alguns livros que
   - [Microserviços: Do SOLID para o IDEALS](https://deviniciative.wordpress.com/2020/11/23/microservicos-do-solid-para-o-ideals/), Nov 23, 2020
 - Observability
   - [Istio monitoring with Elastic Observability](https://www.elastic.co/pt/blog/istio-monitoring-with-elastic-observability), Feb 11, 2021
+  - [Implementing Microservicilites with Istio](https://bit.ly/3jmZdYJ), Jun 22, 2021
 
 ### Business Cases
 
