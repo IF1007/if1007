@@ -101,6 +101,7 @@ Floyd Smith. Use the guidance in this ebook about building microservices to lear
   - [The Enterprise Path to Service Mesh Architectures](https://www.nginx.com/resources/library/the-enterprise-path-to-service-mesh-architectures/), O’Reilly Media, Inc., First Edition, 2018.
 - [Netflix Open Source Software Center](https://netflix.github.io/)
 - [A 360 Degree View Of The Entire Netflix Stack](http://highscalability.com/blog/2015/11/9/a-360-degree-view-of-the-entire-netflix-stack.html), by Chris Ueland -- November 9, 2015
+- [Netflix Builds a Reliable, Scalable Platform with Event Sourcing, MQTT and Alpakka-Kafka](https://bit.ly/38UPhRe), by Eran Stiller -- Aug 31, 2021
 - [The InfoQ eMag: Microservices vs. Monoliths - The Reality Beyond the Hype](https://www.infoq.com/minibooks/emag-microservices-monoliths), reviewed by Thomas Betts -- Jun 19, 2017
 - [Microservices Beyond the Hype: What You Gain and What You Lose](https://insights.sei.cmu.edu/sei_blog/2015/11/microservices-beyond-the-hype-what-you-gain-and-what-you-lose.html), BY Paulo Merson -- November 5, 2015
 - [The cloud native application: Microservices with Spring Boot and Spring Cloud](https://www.infoq.com/br/presentations/the-cloud-native-application-microservices-with-spring-boot-and-spring-cloud)
@@ -190,6 +191,10 @@ Floyd Smith. Use the guidance in this ebook about building microservices to lear
   - [LinuxFoundationX: LFS132x Introduction to Cloud Foundry and Cloud Native Software Architecture](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS132x+1T2017/course/)
   - [Architecting Distributed Cloud Applications](https://courses.edx.org/courses/course-v1:Microsoft+DEVOPS200.9x+1T2018/course/)
   - [Pitfalls and Patterns in Microservice Dependency Management](https://www.infoq.com/presentations/microservices-dependency-management/)
+  - [What Have We Learned over the Last Decade of Microservices?](https://bit.ly/3jYMME5), by Chris Richardson and James Lewis -- Aug 04, 2021
+  - [Adoption of Cloud-Native Architecture, Part 1: Architecture Evolution and Maturity](https://bit.ly/3z39TSg), by Srini Penchikala and Marcio Esteves -- Nov 26, 2019
+  - [Adoption of Cloud Native Architecture, Part 2: Stabilization Gaps and Anti-Patterns](https://bit.ly/38WaHh3), by Srini Penchikala and Marcio Esteves -- May 27, 2020
+  - [Adoption of Cloud Native Architecture, Part 3: Service Orchestration and Service Mesh](https://bit.ly/2X2h9Au), by Srini Penchikala and Marcio Esteves -- Sep 01, 2021
 - Node
   - [Arquitetura de micro serviços em Node.js + MongoDB](https://bit.ly/3tNEEbB), by Luiz Duarte -- May 06, 2018
 - Spring Boot
@@ -200,6 +205,7 @@ Floyd Smith. Use the guidance in this ebook about building microservices to lear
   - [The Twelve-Factor App: 12 Best Practices For Microservices](https://hackernoon.com/the-twelve-factor-app-12-best-practices-for-microservices-sf2vz31wn), by [@mobycast](https://hackernoon.com/u/mobycast) -- September 28th, 2019
   - [Microservices and the 12 Factor App](https://medium.com/@gabimelo/microservices-and-the-12-factor-app-d7d41c8b859c), by Gabriela Melo -- Jun 15, 2018
   - [Microserviços: Do SOLID para o IDEALS](https://deviniciative.wordpress.com/2020/11/23/microservicos-do-solid-para-o-ideals/), Nov 23, 2020
+  - [Consistency, Coupling, and Complexity at the Edge](https://bit.ly/3zYYZhA), by Glenn Engstrand -- Aug 11, 2021
 - Observability
   - [Istio monitoring with Elastic Observability](https://www.elastic.co/pt/blog/istio-monitoring-with-elastic-observability), Feb 11, 2021
   - [Implementing Microservicilites with Istio](https://bit.ly/3jmZdYJ), Jun 22, 2021
@@ -222,6 +228,7 @@ Floyd Smith. Use the guidance in this ebook about building microservices to lear
 - [Continuous Deployment at IMVU: Doing the Impossible Fifty Times a Day](http://timothyfitz.com/2009/02/10/continuous-deployment-at-imvu-doing-the-impossible-fifty-times-a-day/), by Timothy Fitz on February 10, 2009
 - CA Technologies’ report gives some insights into business’ different understanding of DevOps and can be found at <http://www.ca.com/us/collateral/white-papers/na/techinsights-report-what-smart-businesses-know-about-devops.aspx>
 - XebiaLabs has a wide range of surveys and state of industry reports on DevOps-related topics that can be found at <http://xebialabs.com/xl-resources/whitepapers/>
+- [GitHub’s Journey from Monolith to Microservices](https://bit.ly/3jWfzJp), by Sha Ma -- Jul 28, 2021
 
 ### Research Trends
 
