@@ -195,6 +195,7 @@ Floyd Smith. Use the guidance in this ebook about building microservices to lear
   - [Adoption of Cloud-Native Architecture, Part 1: Architecture Evolution and Maturity](https://bit.ly/3z39TSg), by Srini Penchikala and Marcio Esteves -- Nov 26, 2019
   - [Adoption of Cloud Native Architecture, Part 2: Stabilization Gaps and Anti-Patterns](https://bit.ly/38WaHh3), by Srini Penchikala and Marcio Esteves -- May 27, 2020
   - [Adoption of Cloud Native Architecture, Part 3: Service Orchestration and Service Mesh](https://bit.ly/2X2h9Au), by Srini Penchikala and Marcio Esteves -- Sep 01, 2021
+  - [Designing a Microservices Architecture for Failure](https://bit.ly/3zCUuZ8), by RisingStack -- Sep 21, 2021
 - Node
   - [Arquitetura de micro serviços em Node.js + MongoDB](https://bit.ly/3tNEEbB), by Luiz Duarte -- May 06, 2018
 - Spring Boot
